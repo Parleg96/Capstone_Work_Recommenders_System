@@ -1,0 +1,417 @@
+Sentence,newline_after,newline_before,nwords,numbers,nnumbers,nnouns,nverbs,nunits ,label
+advertisement,0,0,1,0,0,1,0,0,0
+close menu https //devdeliciousmagazinecouk/wp,1,0,4,0,0,2,0,0,0
+content/themes/delicious/assets/icons/close whitesvg,2,1,2,0,0,2,0,0,0
+subscribe to magazine,2,2,3,0,0,2,0,0,0
+delicious delicious,2,2,2,0,0,0,0,0,0
+log in,1,2,2,0,0,1,0,0,0
+register,0,1,1,0,0,1,0,0,0
+close menu https //wwwdeliciousmagazinecouk/wp,1,0,4,0,0,2,0,0,0
+content/themes/delicious/assets/icons/close iconsvg,2,1,2,0,0,2,0,0,0
+log in register,2,2,3,0,0,2,0,0,0
+recipes,0,2,1,0,0,1,0,0,0
+close menu https //wwwdeliciousmagazinecouk/wp content/themes/delicious/assets/icons/close iconsvg,1,0,6,0,0,4,0,0,0
+recipes,1,1,1,0,0,1,0,0,0
+main ingredients,0,1,2,0,0,1,0,0,0
+close menu https //wwwdeliciousmagazinecouk/wp content/themes/delicious/assets/icons/close iconsvg,1,0,6,0,0,4,0,0,0
+main ingredients,1,1,2,0,0,1,0,0,0
+beef recipes,1,1,2,0,0,2,0,0,0
+cheese recipes,1,1,2,0,0,1,0,0,0
+chicken recipes,1,1,2,0,0,2,0,0,0
+chocolate recipes,1,1,2,0,0,2,0,0,0
+egg recipes,1,1,2,0,0,2,0,0,0
+fish recipes,1,1,2,0,0,1,0,0,0
+fruit recipes,1,1,2,0,0,2,0,0,0
+lamb recipes,1,1,2,0,0,2,0,0,0
+mushroom recipes,1,1,2,0,0,2,0,0,0
+pasta recipes,1,1,2,0,0,2,0,0,0
+pork recipes,1,1,2,0,0,2,0,0,0
+salmon recipes,1,1,2,0,0,2,0,0,0
+sausage recipes,1,1,2,0,0,2,0,0,0
+seafood recipes,1,1,2,0,0,2,0,0,0
+vegetable recipes,1,1,2,0,0,1,0,0,0
+drinks recipes,0,1,2,0,0,2,0,0,0
+close menu https //wwwdeliciousmagazinecouk/wp content/themes/delicious/assets/icons/close iconsvg,1,0,6,0,0,4,0,0,0
+champagne cocktails,1,1,2,0,0,2,0,0,0
+cocktail recipes,1,1,2,0,0,2,0,0,0
+gin cocktail recipes,1,1,3,0,0,3,0,0,0
+summer cocktail recipes,1,1,3,0,0,3,0,0,0
+winter cocktail recipes,1,1,3,0,0,3,0,0,0
+cuisine,0,1,1,0,0,1,0,0,0
+close menu https //wwwdeliciousmagazinecouk/wp content/themes/delicious/assets/icons/close iconsvg,1,0,6,0,0,4,0,0,0
+cuisine,1,1,1,0,0,1,0,0,0
+american recipes,1,1,2,0,0,1,0,0,0
+british recipes,1,1,2,0,0,1,0,0,0
+chinese recipes,1,1,2,0,0,1,0,0,0
+french recipes,1,1,2,0,0,1,0,0,0
+german recipes,1,1,2,0,0,1,0,0,0
+greek recipes,1,1,2,0,0,1,0,0,0
+indian recipes,1,1,2,0,0,1,0,0,0
+italian recipes,1,1,2,0,0,1,0,0,0
+japanese recipes,1,1,2,0,0,1,0,0,0
+mediterranean recipes,1,1,2,0,0,1,0,0,0
+mexican recipes,1,1,2,0,0,1,0,0,0
+middle eastern,1,1,2,0,0,0,0,0,0
+moroccan recipes,1,1,2,0,0,1,0,0,0
+scandinavian recipes,1,1,2,0,0,1,0,0,0
+spanish recipes,1,1,2,0,0,1,0,0,0
+vietnamese recipes,1,1,2,0,0,1,0,0,0
+vegetarian vegan,0,1,2,0,0,1,0,0,0
+close menu https //wwwdeliciousmagazinecouk/wp content/themes/delicious/assets/icons/close iconsvg,1,0,6,0,0,4,0,0,0
+vegetarian vegan,1,1,2,0,0,1,0,0,0
+vegetarian recipes,1,1,2,0,0,1,0,0,0
+vegan recipes,1,1,2,0,0,1,0,0,0
+favourite vegetarian recipes,1,1,3,0,0,1,0,0,0
+quick vegetarian recipes,1,1,3,0,0,2,0,0,0
+baking,0,1,1,0,0,1,0,0,0
+close menu https //wwwdeliciousmagazinecouk/wp content/themes/delicious/assets/icons/close iconsvg,1,0,6,0,0,4,0,0,0
+baking,1,1,1,0,0,1,0,0,0
+loaf cake recipes,1,1,3,0,0,2,0,0,0
+celebration cake recipes,1,1,3,0,0,3,0,0,0
+biscuit recipes,1,1,2,0,0,2,0,0,0
+bread recipes,1,1,2,0,0,2,0,0,0
+brownie recipes,1,1,2,0,0,2,0,0,0
+bundt cake recipes,1,1,3,0,0,2,1,0,0
+chocolate cake recipes,1,1,3,0,0,3,0,0,0
+easy cake recipes,1,1,3,0,0,2,0,0,0
+occasion,0,1,1,0,0,1,0,0,0
+close menu https //wwwdeliciousmagazinecouk/wp content/themes/delicious/assets/icons/close iconsvg,1,0,6,0,0,4,0,0,0
+occasion,1,1,1,0,0,1,0,0,0
+easter baking ideas,1,1,3,0,0,1,1,0,0
+afternoon tea recipes,1,1,3,0,0,3,0,0,0
+birthday cake recipes,1,1,3,0,0,1,1,0,0
+brunch recipes,1,1,2,0,0,2,0,0,0
+healthy family meals,1,1,3,0,0,2,0,0,0
+midweek meal recipes,1,1,3,0,0,2,0,0,0
+recipes to celebrate spring,1,1,4,0,0,2,1,0,0
+special diets,0,1,2,0,0,1,0,0,0
+close menu https //wwwdeliciousmagazinecouk/wp content/themes/delicious/assets/icons/close iconsvg,1,0,6,0,0,4,0,0,0
+special diets,1,1,2,0,0,1,0,0,0
+dairy free recipes,1,1,3,0,0,2,0,0,0
+diabetes friendly recipes,1,1,3,0,0,2,0,0,0
+favourite vegetarian recipes,1,1,3,0,0,1,0,0,0
+gluten free recipes,1,1,3,0,0,1,0,0,0
+lower calorie mains,1,1,3,0,0,2,0,0,0
+healthy recipes and ideas,1,1,4,0,0,2,0,0,0
+learn,0,1,1,0,0,1,0,0,0
+close menu https //wwwdeliciousmagazinecouk/wp content/themes/delicious/assets/icons/close iconsvg,1,0,6,0,0,4,0,0,0
+learn,1,1,1,0,0,1,0,0,0
+videos,1,1,1,0,0,1,0,0,0
+skills hub,1,1,2,0,0,2,0,0,0
+cookery schools,1,1,2,0,0,2,0,0,0
+in the kitchen,1,1,3,0,0,1,0,0,0
+in the garden,1,1,3,0,0,1,0,0,0
+cook s dictionary,1,1,3,0,0,3,0,0,0
+stories,0,1,1,0,0,1,0,0,0
+close menu https //wwwdeliciousmagazinecouk/wp content/themes/delicious/assets/icons/close iconsvg,1,0,6,0,0,4,0,0,0
+stories,1,1,1,0,0,1,0,0,0
+latest features,1,1,2,0,0,1,0,0,0
+five minutes with,1,1,3,0,0,1,0,0,0
+cookbook road tests,1,1,3,0,0,3,0,0,0
+travel,1,1,1,0,0,1,0,0,0
+rants opinions,1,1,2,0,0,2,0,0,0
+podcasts,1,1,1,0,0,1,0,0,0
+lightbulb moments,1,1,2,0,0,2,0,0,0
+the sane view,1,1,3,0,0,2,0,0,0
+offers,0,1,1,0,0,1,0,0,0
+close menu https //wwwdeliciousmagazinecouk/wp content/themes/delicious/assets/icons/close iconsvg,1,0,6,0,0,4,0,0,0
+offers events,1,1,2,0,0,2,0,0,0
+personalised delicious cookbook,1,1,3,0,0,1,1,0,0
+delicious offers,1,1,2,0,0,1,0,0,0
+competitions,1,1,1,0,0,1,0,0,0
+april seasonal recipes,1,1,3,0,0,1,0,0,0
+20 minute meals,1,1,3,1,2,2,0,0,0
+easter recipes,2,1,2,0,0,2,0,0,0
+subscribe to magazine,0,2,3,0,0,2,0,0,0
+external link https //wwwdeliciousmagazinecouk/wp content/themes/delicious/assets/icons/external linksvg,2,0,6,0,0,5,0,0,0
+search,0,2,1,0,0,1,0,0,0
+search icon https //wwwdeliciousmagazinecouk/wp,1,0,4,0,0,4,0,0,0
+content/themes/delicious/assets/icons/search greensvg,0,1,2,0,0,2,0,0,0
+https //wwwdeliciousmagazinecouk/wp,1,0,2,0,0,2,0,0,0
+content/themes/delicious/assets/images/arrow right blacksvg,0,1,3,0,0,2,0,0,0
+https //wwwdeliciousmagazinecouk/wp,1,0,2,0,0,2,0,0,0
+content/themes/delicious/assets/images/arrow right blacksvg,2,1,3,0,0,2,0,0,0
+recipes,1,2,1,0,0,1,0,0,0
+chocolate,1,1,1,0,0,1,0,0,0
+chocolate mousse,1,1,2,0,0,2,0,0,0
+dark chocolate orange mousse cake,2,1,5,0,0,3,1,0,0
+dark chocolate orange mousse cake,0,2,5,0,0,3,1,0,0
+effort icon https //wwwdeliciousmagazinecouk/wp content/themes/delicious/assets/icons/effort greensvg a challenge,0,0,8,0,0,6,1,0,0
+dark chocolate orange mousse cake https //wwwdeliciousmagazinecouk/wp,1,0,7,0,0,5,1,0,0
+content/uploads/2018/07/330416 1 eng gb 6511jpg,0,1,5,1,17,3,0,0,0
+effort icon https //wwwdeliciousmagazinecouk/wp content/themes/delicious/assets/icons/effort greensvg a challenge,0,0,8,0,0,6,1,0,0
+test kitchen approved logo https //wwwdeliciousmagazinecouk/wp,1,0,6,0,0,4,1,0,0
+content/themes/delicious/assets/images/tkasvg test kitchen approved,0,1,4,0,0,2,1,0,0
+time icon https //wwwdeliciousmagazinecouk/wp content/themes/delicious/assets/icons/time greensvg hands on time 2 hours cooking time 30 min plus cooling and chilling,2,0,19,1,3,13,1,0,0
+keep this dark chocolate orange mousse cake recipe in your repertoire for the,1,2,13,0,0,5,2,0,0
+best showoff show stopping chocolate cake,2,1,6,0,0,4,1,0,0
+nutrition per serving,2,2,3,0,0,1,1,0,0
+calories,2,2,1,0,0,1,0,0,0
+808kcals,1,2,1,1,3,1,0,0,0
+fat,2,1,1,0,0,1,0,0,0
+477g 246g saturated,1,2,3,1,6,0,1,0,0
+protein,2,1,1,0,0,1,0,0,0
+114g,1,2,1,1,3,0,0,0,0
+carbohydrates,2,1,1,0,0,1,0,0,0
+80g 662g sugars,1,2,3,1,5,1,0,0,0
+fibre,2,1,1,0,0,1,0,0,0
+22g,1,2,1,1,2,0,0,0,0
+salt,2,1,1,0,0,1,0,0,0
+04g,2,2,1,1,2,0,0,0,0
+nutrition per serving,2,2,3,0,0,1,1,0,0
+calories,2,2,1,0,0,1,0,0,0
+808kcals,1,2,1,1,3,1,0,0,0
+fat,2,1,1,0,0,1,0,0,0
+477g 246g saturated,1,2,3,1,6,0,1,0,0
+protein,2,1,1,0,0,1,0,0,0
+114g,1,2,1,1,3,0,0,0,0
+carbohydrates,2,1,1,0,0,1,0,0,0
+80g 662g sugars,1,2,3,1,5,1,0,0,0
+fibre,2,1,1,0,0,1,0,0,0
+22g,1,2,1,1,2,0,0,0,0
+salt,2,1,1,0,0,1,0,0,0
+04g,0,2,1,1,2,0,0,0,0
+remove recipe icon https //wwwdeliciousmagazinecouk/wp,1,0,5,0,0,4,1,0,0
+content/themes/delicious/assets/icons/close whitesvg remove recipe,0,1,4,0,0,2,1,0,0
+save,1,0,1,0,0,0,1,0,0
+recipe icon https //wwwdeliciousmagazinecouk/wp,1,1,4,0,0,3,0,0,0
+content/themes/delicious/assets/icons/not saved whitesvg save recipe,2,1,5,0,0,3,2,0,0
+save,0,2,1,0,0,0,1,0,0
+remove recipe icon https //wwwdeliciousmagazinecouk/wp,1,0,5,0,0,4,1,0,0
+content/themes/delicious/assets/icons/close whitesvg remove recipe,0,1,4,0,0,2,1,0,0
+save,1,0,1,0,0,0,1,0,0
+recipe icon https //wwwdeliciousmagazinecouk/wp,1,1,4,0,0,3,0,0,0
+content/themes/delicious/assets/icons/not saved whitesvg save recipe print,2,1,6,0,0,3,2,0,0
+rate,2,2,1,0,0,1,0,0,0
+share,2,2,1,0,0,1,0,0,0
+advertisement,2,2,1,0,0,1,0,0,0
+ingredients,2,2,1,0,0,1,0,0,0
+for the genoese sponge,2,2,4,0,0,1,0,0,0
+2 large free range egg whites,1,2,6,1,1,3,0,0,1
+88g golden caster sugar,1,1,4,1,2,2,0,0,1
+6 free range egg yolks,1,1,5,1,1,3,0,0,1
+88g plain flour sifted,2,1,4,1,2,2,1,0,1
+for the wafer biscuit,2,2,4,0,0,2,0,0,0
+65g milk chocolate minimum 30 cocoa solids,1,2,7,1,4,4,0,0,1
+60g cornflakes,1,1,2,1,2,1,0,0,1
+35g ground almonds whizzed with 15g dark brown sugar and 1 tbsp vegetable oil,2,1,14,1,5,6,1,1,1
+for the chocolate mousse,2,2,4,0,0,2,0,0,0
+230g dark chocolate finely chopped minimum 70 cocoa solids william uses amadei toscano 70,1,2,14,1,7,4,3,0,1
+6 large free range egg yolks,1,1,6,1,1,3,0,0,1
+50g caster sugar,1,1,3,1,2,2,0,0,1
+30ml water,1,1,2,1,2,1,0,0,1
+250ml whipping cream,2,1,3,1,3,1,1,0,1
+for the grand marnier syrup,2,2,5,0,0,2,0,0,0
+45g caster sugar,1,2,3,1,2,2,0,0,1
+45g water,1,1,2,1,2,1,0,0,1
+40ml grand marnier orange liqueur,1,1,5,1,2,2,0,0,1
+vanilla pod,2,1,2,0,0,2,0,0,1
+for the chocolate gla age,2,2,5,0,0,3,0,0,0
+175ml whipping cream,1,2,3,1,3,1,1,0,1
+33g caster sugar,1,1,3,1,2,2,0,0,1
+26g liquid glucose available in the baking aisle of large supermarkets or online,1,1,13,1,2,5,0,0,1
+100g dark chocolate minimum 70 cocoa solids finely chopped,2,1,9,1,5,3,1,0,1
+to assemble,2,2,2,0,0,0,1,0,0
+3 tbsp sweet orange marmalade we used robinson s golden shred,1,2,11,1,1,4,2,1,1
+chocolate curls,1,1,2,0,0,2,0,0,1
+edible gold leaf available online from squires shopcom,2,1,8,0,0,4,1,0,1
+method,2,2,1,0,0,1,0,0,0
+1 preheat the oven to 180 c/fan160 c/gas 4 and line a 25cm x 33cm baking tray with baking paper make the sponge with an electric mixer whisk the egg whites until they form stiff peaks then gradually whisk in the sugar until you have a stiff meringue,1,2,48,1,12,14,8,0,0
+2 with the mixer going add the egg yolks one by one then gently fold in the flour until you have a smooth mousse like mixture spread onto the baking tray level the top and bake for 18 20 minutes until golden turn out and leave to cool on a wire rack,1,1,52,1,5,12,8,0,0
+3 for the wafer biscuit finely chop the chocolate and melt in a heatproof bowl set over a pan of simmering water don t let the water touch the bottom of the bowl line a baking sheet with baking paper then whizz the cornflakes with the almond and sugar mixture when the chocolate has melted stir through the almond and cornflake mixture spread in a thin layer on the baking sheet then chill in the fridge to set,1,1,78,1,1,27,13,0,0
+4 to make the syrup put the sugar and water in a saucepan with the scraped out seeds from the vanilla pod bring to a boil melt the sugar then stir in the grand marnier and set aside,1,1,38,1,1,11,6,0,0
+5 place a 14cm metal cake ring on a baking paper lined tray cut the wafer biscuit into a 13cm disc and place inside the ring the wafer leftovers are delicious for snacking or crumbled over ice cream,1,1,38,1,5,13,6,0,0
+6 cut out 2 x 12cm discs from the genoese sponge using a small saucer as a template liberally brush one with the grand marnier syrup about 2 3 tbsp then place it on top of the wafer base return to the fridge to chill,1,1,45,1,6,12,5,1,0
+7 to make the chocolate mousse melt the chocolate gently as in step 3 above then remove from the heat and allow to cool slightly,1,1,25,1,2,5,5,0,0
+8 meanwhile put the sugar and water in a small saucepan and bring to the boil cook until it reaches 120 c firm ball stage on a sugar thermometer keep an eye on it it will heat slowly at first then speed up dramatically take it off the heat when it reaches 118 c as it keeps warming up for a bit meanwhile while the sugar and water is bubbling whisk the egg yolks in a stand mixer until pale and fluffy when the sugar syrup is the right temperature with the whisks going pour the syrup down the side of the mixer bowl in a thin steady stream until it s all incorporated make sure you don t let the hot syrup touch the beaters as you pour as it might flick the hot syrup out of the bowl continue to whisk until the mixture has cooled,1,1,148,1,7,34,25,1,0
+9 in a separate bowl whip the cream until it forms soft peaks then fold it into the egg mixture carefully mix one third of this mixture into the melted chocolate then fold in the remainder don t worry if it curdles at first give it a whisk and it should come back together as you add more of the cream mix,1,1,62,1,1,15,9,0,0
+10 spread a layer of the chocolate mousse on top of the sponge and down the sides to fill the gap between the sponge and the cake ring spoon the marmalade over the mousse leaving a 1cm border around the outside brush the second sponge with the grand marnier syrup then gently place this on top of the marmalade,1,1,59,1,3,19,5,0,0
+11 carefully spread the rest of the mousse over the sponge and around the sides making sure there are no air pockets and fill the cake ring levelling the top chill in the freezer for 2 3 hours,1,1,38,1,4,10,6,0,0
+12 unmould the cake by running a chef s blow torch around the outside of the ring until you can see the edge of the mousse just begin to melt slide the mould off carefully then put the cake into the fridge for 10 minutes while you make the gla age,1,1,51,1,4,14,7,0,0
+13 for the gla age put the cream sugar and liquid glucose in a heavy based saucepan and bring to the boil in a mixing bowl gradually add the hot cream mixture to the finely chopped chocolate mixing continuously to form an emulsion when the gla age is smooth and glossy use immediately,1,1,53,1,2,16,7,0,0
+14 place the cake on a wire rack set over a tray to catch the excess icing pour the gla age carefully over the cake starting at the edges and working your way to the centre smoothing it with a palette knife to make sure it s even once completely coated put back in the fridge to set for half an hour then remove and leave in a cool place to defrost for a couple of hours,1,1,77,1,2,18,15,0,0
+15 decorate with chocolate curls and edible gold leaf before serving,2,1,11,1,2,5,1,0,0
+advertisement,2,2,1,0,0,1,0,0,0
+delicious tips,2,2,2,0,0,1,0,0,0
+1 this recipe is a labour of love but the result is something you might find in a parisian patisserie don t be tempted to deviate from the recipe though it needs to be followed to the letter,0,2,38,1,1,10,9,0,0
+and make sure you re fully prepped before you begin to assemble,2,0,12,0,0,0,5,0,0
+2 gla age is a type of shiny ganache used in classic patisserie to give a glossy professional looking finish for best results you ll need a sugar thermometer a stand mixer and a chef s blowtorch a genoese sponge is one made without a raising agent such as baking powder the whisked in air gives the sponge its lightness,2,2,60,1,1,17,13,0,0
+subscribe,2,2,1,0,0,1,0,0,0
+fancy getting a copy in print,0,2,6,0,0,3,1,0,0
+subscribe to our magazine,2,0,4,0,0,2,0,0,0
+data image/gif base64 r0lgodlhaqabaaaaach5baekaaealaaaaaabaaeaaaictaeaow,0,2,4,1,4,3,1,0,0
+https //wwwdeliciousmagazinecouk/wp,1,0,2,0,0,2,0,0,0
+content/uploads/2022/02/feb mags bannerpng,2,1,3,1,6,2,1,0,0
+related recipe collections,2,2,3,0,0,2,0,0,0
+chocolate mousse recipes chocolate orange recipes orange recipes,2,2,8,0,0,6,2,0,0
+rate review,2,2,2,0,0,2,0,0,0
+rate,2,2,1,0,0,1,0,0,0
+you must be logged in to rate a recipe click here to login,2,2,13,0,0,3,3,0,0
+reviews,2,2,1,0,0,1,0,0,0
+share a tip cancel comment,2,2,5,0,0,4,0,0,0
+you must be logged in to post a comment,2,2,9,0,0,1,3,0,0
+advertisement,2,2,1,0,0,1,0,0,0
+related recipe,0,2,2,0,0,1,1,0,0
+save recipe icon https //wwwdeliciousmagazinecouk/wp,1,0,5,0,0,3,1,0,0
+content/themes/delicious/assets/icons/not saved whitesvg,0,1,3,0,0,2,1,0,0
+save recipe,1,0,2,0,0,1,1,0,0
+icon https //wwwdeliciousmagazinecouk/wp,1,1,3,0,0,3,0,0,0
+content/themes/delicious/assets/icons/saved whitesvg save recipe,2,1,4,0,0,2,2,0,0
+data image/gif base64 r0lgodlhaqabaaaaach5baekaaealaaaaaabaaeaaaictaeaow,0,2,4,1,4,3,1,0,0
+https //wwwdeliciousmagazinecouk/wp,1,0,2,0,0,2,0,0,0
+content/uploads/2018/09/534007 1 eng gb ultimate chocolate mousse,1,1,7,1,13,5,0,0,0
+cake 299x310jpg,2,1,2,1,6,1,0,0,0
+chocolate cake recipes,2,2,3,0,0,3,0,0,0
+ultimate chocolate mousse cake,0,2,4,0,0,2,1,0,0
+effort icon https //wwwdeliciousmagazinecouk/wp content/themes/delicious/assets/icons/effort greensvg medium,2,0,7,0,0,7,0,1,0
+advertisement,2,2,1,0,0,1,0,0,0
+or how about,0,2,3,0,0,0,0,0,0
+save recipe icon https //wwwdeliciousmagazinecouk/wp,1,0,5,0,0,3,1,0,0
+content/themes/delicious/assets/icons/not saved whitesvg,0,1,3,0,0,2,1,0,0
+save recipe,1,0,2,0,0,1,1,0,0
+icon https //wwwdeliciousmagazinecouk/wp,1,1,3,0,0,3,0,0,0
+content/themes/delicious/assets/icons/saved whitesvg save recipe,2,1,4,0,0,2,2,0,0
+data image/gif base64 r0lgodlhaqabaaaaach5baekaaealaaaaaabaaeaaaictaeaow,0,2,4,1,4,3,1,0,0
+https //wwwdeliciousmagazinecouk/wp,1,0,2,0,0,2,0,0,0
+content/uploads/2018/09/785793 1 eng gb chetna chocolate mousse,1,1,7,1,13,6,0,0,0
+cake 299x310jpg,2,1,2,1,6,1,0,0,0
+chocolate cake recipes,2,2,3,0,0,3,0,0,0
+chetna makan s chocolate mousse layer cake,2,2,7,0,0,7,0,0,0
+an extra special chocolate cake recipe made with light chocolate sponges,1,2,11,0,0,5,1,0,0
+sandwiched between a rich,0,1,4,0,0,0,1,0,0
+effort icon https //wwwdeliciousmagazinecouk/wp content/themes/delicious/assets/icons/effort greensvg easy,0,0,7,0,0,6,0,0,0
+save recipe icon https //wwwdeliciousmagazinecouk/wp,1,0,5,0,0,3,1,0,0
+content/themes/delicious/assets/icons/not saved whitesvg,0,1,3,0,0,2,1,0,0
+save recipe,1,0,2,0,0,1,1,0,0
+icon https //wwwdeliciousmagazinecouk/wp,1,1,3,0,0,3,0,0,0
+content/themes/delicious/assets/icons/saved whitesvg save recipe,2,1,4,0,0,2,2,0,0
+data image/gif base64 r0lgodlhaqabaaaaach5baekaaealaaaaaabaaeaaaictaeaow,0,2,4,1,4,3,1,0,0
+https //wwwdeliciousmagazinecouk/wp,1,0,2,0,0,2,0,0,0
+content/uploads/2018/07/657130 1 eng gb chocolate passion fruit,1,1,7,1,13,6,0,0,0
+tart 299x310jpg,2,1,2,1,6,0,0,0,0
+chocolate tarts tortes and pies,2,2,5,0,0,4,0,0,0
+chocolate mousse and passion fruit tart,2,2,6,0,0,5,0,0,0
+a rich mousse silky ganache and chocolate oreo case makes up what must be,1,2,14,0,0,6,2,0,0
+the,0,1,1,0,0,0,0,0,0
+effort icon https //wwwdeliciousmagazinecouk/wp content/themes/delicious/assets/icons/effort greensvg medium,0,0,7,0,0,7,0,1,0
+save recipe icon https //wwwdeliciousmagazinecouk/wp,1,0,5,0,0,3,1,0,0
+content/themes/delicious/assets/icons/not saved whitesvg,0,1,3,0,0,2,1,0,0
+save recipe,1,0,2,0,0,1,1,0,0
+icon https //wwwdeliciousmagazinecouk/wp,1,1,3,0,0,3,0,0,0
+content/themes/delicious/assets/icons/saved whitesvg save recipe,2,1,4,0,0,2,2,0,0
+data image/gif base64 r0lgodlhaqabaaaaach5baekaaealaaaaaabaaeaaaictaeaow,0,2,4,1,4,3,1,0,0
+https //wwwdeliciousmagazinecouk/wp,1,0,2,0,0,2,0,0,0
+content/uploads/2020/11/delicious 1119 paulayoung,1,1,3,1,10,1,0,0,0
+chocolategingerbreaddripcake 00107 299x310jpg,2,1,3,1,11,0,1,0,0
+chocolate orange recipes,2,2,3,0,0,3,0,0,0
+chocolate orange cake with cointreau drizzle,2,2,6,0,0,5,0,0,0
+looking for a twist on the traditional christmas cake step forward this,1,2,12,0,0,3,2,0,0
+chocolate orange cake,0,1,3,0,0,3,0,0,0
+effort icon https //wwwdeliciousmagazinecouk/wp content/themes/delicious/assets/icons/effort greensvg easy,0,0,7,0,0,6,0,0,0
+save recipe icon https //wwwdeliciousmagazinecouk/wp,1,0,5,0,0,3,1,0,0
+content/themes/delicious/assets/icons/not saved whitesvg,0,1,3,0,0,2,1,0,0
+save recipe,1,0,2,0,0,1,1,0,0
+icon https //wwwdeliciousmagazinecouk/wp,1,1,3,0,0,3,0,0,0
+content/themes/delicious/assets/icons/saved whitesvg save recipe,2,1,4,0,0,2,2,0,0
+data image/gif base64 r0lgodlhaqabaaaaach5baekaaealaaaaaabaaeaaaictaeaow,0,2,4,1,4,3,1,0,0
+https //wwwdeliciousmagazinecouk/wp,1,0,2,0,0,2,0,0,0
+content/uploads/2012/02/marys choc orange cake 299x310jpg,2,1,5,1,12,3,1,0,0
+chocolate cake recipes,2,2,3,0,0,3,0,0,0
+mary berry s very best chocolate and orange cake,2,2,9,0,0,4,0,0,0
+a classic mary berry sponge recipe for chocolate and orange cake it s very,1,2,14,0,0,6,2,0,0
+easy,0,1,1,0,0,0,0,0,0
+effort icon https //wwwdeliciousmagazinecouk/wp content/themes/delicious/assets/icons/effort greensvg easy,2,0,7,0,0,6,0,0,0
+more food for thought,0,2,4,0,0,2,0,0,0
+how to temper,1,0,3,0,0,0,1,0,0
+chocolate data image/gif base64 r0lgodlhaqabaaaaach5baekaaealaaaaaabaaeaaaictaeaow,0,1,5,1,4,5,0,0,0
+how,1,0,1,0,0,0,0,0,0
+to temper chocolate https //wwwdeliciousmagazinecouk/wp,1,1,5,0,0,3,1,0,0
+content/uploads/2018/08/907090 1 eng gb temper cover 299x238jpg,2,1,7,1,19,4,0,0,0
+learn,2,2,1,0,0,1,0,0,0
+how to temper chocolate,2,2,4,0,0,1,1,0,0
+delicious team,1,2,2,0,0,1,0,0,0
+Mar-22,2,1,2,1,2,1,0,0,0
+related collections,0,2,2,0,0,1,0,0,0
+bruce bogtrotter chocolate cake,1,0,4,0,0,4,0,0,0
+image data image/gif base64 r0lgodlhaqabaaaaach5baekaaealaaaaaabaaeaaaictaeaow,0,1,5,1,4,4,1,0,0
+bruce,1,0,1,0,0,1,0,0,0
+bogtrotter chocolate cake image https //wwwdeliciousmagazinecouk/wp,1,1,6,0,0,6,0,0,0
+content/uploads/2018/09/screenshot 2018 09 21 at 102614 299x238png,2,1,7,1,26,0,0,0,0
+chocolate cake recipes,2,2,3,0,0,3,0,0,0
+ah the chocolate cake perfect for a birthday,2,2,8,0,0,4,0,0,0
+48 recipes,0,2,2,1,2,1,0,0,0
+chocolate,1,0,1,0,0,1,0,0,0
+tarts data image/gif base64 r0lgodlhaqabaaaaach5baekaaealaaaaaabaaeaaaictaeaow,0,1,5,1,4,4,1,0,0
+chocolate,1,0,1,0,0,1,0,0,0
+tarts https //wwwdeliciousmagazinecouk/wp,1,1,3,0,0,2,1,0,0
+content/uploads/2018/08/713428 1 eng gb 479465 1 eng gb chocolate meringue,1,1,10,1,20,6,1,0,0
+pie 299x238jpg,2,1,2,1,6,1,0,0,0
+chocolate tarts tortes and pies,2,2,5,0,0,4,0,0,0
+when you re in need of a slice of,2,2,9,0,0,2,1,1,0
+26 recipes,0,2,2,1,2,1,0,0,0
+dark chocolate,1,0,2,0,0,1,0,0,0
+recipes data image/gif base64 r0lgodlhaqabaaaaach5baekaaealaaaaaabaaeaaaictaeaow,0,1,5,1,4,4,1,0,0
+dark,1,0,1,0,0,1,0,0,0
+chocolate recipes https //wwwdeliciousmagazinecouk/wp,1,1,4,0,0,3,1,0,0
+content/uploads/2018/08/713414 1 eng gb 703764 1 eng gb caramel,1,1,9,1,20,5,1,0,0
+kisses 299x238jpg,2,1,2,1,6,1,0,0,0
+dark chocolate recipes,2,2,3,0,0,2,0,0,0
+if you re after a real cocoa hit then,2,2,9,0,0,1,2,0,0
+56 recipes,0,2,2,1,2,1,0,0,0
+white chocolate,1,0,2,0,0,1,0,0,0
+recipes data image/gif base64 r0lgodlhaqabaaaaach5baekaaealaaaaaabaaeaaaictaeaow,0,1,5,1,4,4,1,0,0
+white,1,0,1,0,0,0,0,0,0
+chocolate recipes https //wwwdeliciousmagazinecouk/wp,1,1,4,0,0,3,1,0,0
+content/uploads/2018/08/713379 1 eng gb 433456 1 eng,1,1,7,1,20,3,1,0,0
+gb tart v2 37080 299x238jpg,2,1,5,1,12,1,1,0,0
+white chocolate recipes,2,2,3,0,0,2,0,0,0
+for those with a sweet tooth geared towards,2,2,8,0,0,2,1,0,0
+32 recipes,2,2,2,1,2,1,0,0,0
+sponsored content,2,2,2,0,0,1,1,0,0
+subscribe to our magazine,2,2,4,0,0,2,0,0,0
+subscribe to delicious magazine for half price,2,2,7,0,0,3,0,0,0
+subscribe,2,2,1,0,0,1,0,0,0
+data image/gif base64 r0lgodlhaqabaaaaach5baekaaealaaaaaabaaeaaaictaeaow,0,2,4,1,4,3,1,0,0
+https //wwwdeliciousmagazinecouk/wp,1,0,2,0,0,2,0,0,0
+content/uploads/2022/02/feb mags banner 208x230png,2,1,4,1,12,2,1,0,0
+join our newsletter,2,2,3,0,0,1,1,0,0
+packed with menu ideas recipes latest competitions and more,2,2,9,0,0,3,2,0,0
+we treat your data with care see our privacy policy by signing up you are,1,2,15,0,0,4,4,0,0
+agreeing to delicious terms and conditions unsubscribe at any time,0,1,10,0,0,3,2,0,0
+delicious logo https //wwwdeliciousmagazinecouk/wp,1,0,4,0,0,3,0,0,0
+content/themes/delicious/assets/images/logos/delicious blacksvg,2,1,2,0,0,1,0,0,0
+stay in touch and share,2,2,5,0,0,3,0,0,0
+about,1,2,1,0,0,0,0,0,0
+food team,1,1,2,0,0,2,0,0,0
+latest issue,1,1,2,0,0,1,0,0,0
+contact,1,1,1,0,0,1,0,0,0
+sitemap,1,1,1,0,0,1,0,0,0
+cookie policy,1,1,2,0,0,2,0,0,0
+privacy policy,1,1,2,0,0,2,0,0,0
+advertise with us,2,1,3,0,0,1,0,0,0
+delicious magazine is a part of eye to eye media ltd,2,2,11,0,0,6,1,0,0
+close,2,2,1,0,0,0,0,0,0
+lost my password,2,2,3,0,0,1,1,0,0
+enter the email address associated with your,1,2,7,0,0,3,1,0,0
+account and we ll send you a link to reset your,1,1,11,0,0,2,3,0,0
+password,2,1,1,0,0,1,0,0,0
+email,2,2,1,0,0,1,0,0,0
+close,2,2,1,0,0,0,0,0,0
+email sent,2,2,2,0,0,2,0,0,0
+if an account was found for this email address,1,2,9,0,0,3,2,0,0
+we ve emailed you instructions to reset your,1,1,8,0,0,1,3,0,0
+password,2,1,1,0,0,1,0,0,0
+i didn t receive it,2,2,5,0,0,1,2,0,0
+close,2,2,1,0,0,0,0,0,0
+thank you for sign up to our newsletter,2,2,8,0,0,3,0,0,0
+now you can stay up to date with all the latest news recipes and offers,2,2,15,0,0,4,1,0,0
+continue exploring,2,2,2,0,0,1,1,0,0
+close,2,2,1,0,0,0,0,0,0
+subscribe to our magazine,2,2,4,0,0,2,0,0,0
+subscribe to delicious today for just 1350 that s half price,0,2,11,1,4,4,1,0,0
+mc4wp form id 28909,2,0,4,1,6,2,0,0,0
+close,2,2,1,0,0,0,0,0,0
+confirmation,2,2,1,0,0,1,0,0,0
+we have sent you an activation link,1,2,7,0,0,2,2,0,0
+please click this link to activate your account,2,1,8,0,0,3,2,0,0
+continue exploring,2,2,2,0,0,1,1,0,0

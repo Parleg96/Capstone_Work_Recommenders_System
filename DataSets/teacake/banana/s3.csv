@@ -1,0 +1,94 @@
+Sentence,newline_after,newline_before,nwords,numbers,nnumbers,nnouns,nverbs,nunits ,label
+please connect to internet to continue,2,0,6,0,0,1,3,0,0
+logo https //recipebookio/public/images/logo invertsvg,0,2,4,0,0,4,0,0,0
+close button https //recipebookio/public/images/mob btn closepng,2,0,6,0,0,5,0,0,0
+contest,1,2,1,0,0,1,0,0,0
+recipeblog,1,1,1,0,0,1,0,0,0
+recipes,1,1,1,0,0,1,0,0,0
+login,0,1,1,0,0,1,0,0,0
+recipebook logo https //recipebookio/public/images/logosvg,2,0,4,0,0,4,0,0,0
+categories,2,2,1,0,0,1,0,0,0
+meal type,1,2,2,0,0,2,0,0,0
+ingredient,1,1,1,0,0,1,0,0,0
+cuisine,1,1,1,0,0,1,0,0,0
+seasonal,1,1,1,0,0,0,0,0,0
+dish,1,1,1,0,0,1,0,0,0
+drinks,2,1,1,0,0,1,0,0,0
+breakfast recipes lunch recipes snacks recipes dinner recipes dessert,1,2,9,0,0,6,2,0,0
+recipes,2,1,1,0,0,1,0,0,0
+chicken fish pasta beef prawn paneer egg,2,2,7,0,0,6,0,0,0
+fruit pork cabbage seafood potato bread vegetarian,2,2,7,0,0,5,1,0,0
+chinese recipes french recipes indian recipes italian recipes mexican,1,2,9,0,0,4,0,0,0
+recipes maharashtrian recipes,2,1,3,0,0,2,0,0,0
+diwali recipes christmas recipes onam recipes easter recipes halloween,1,2,9,0,0,4,2,0,0
+recipes ifthar recipes eid recipes,2,1,5,0,0,3,2,0,0
+valentines day party recipes summer recipes winter recipes,2,2,8,0,0,8,0,0,0
+biriyani recipes cake recipes brownies sandwich recipes ice cream recipes,1,2,10,0,0,7,2,0,0
+cookies recipes pancakes recipes,2,1,4,0,0,3,1,0,0
+pickle recipes pie recipes pizza recipes momos recipes burger recipes bhaji,1,2,11,0,0,6,5,0,0
+salad recipes,2,1,2,0,0,2,0,0,0
+teas coffee juice cocktail recipes smoothies,2,2,6,0,0,6,0,0,0
+soup recipes shakes shots mocktails,2,2,5,0,0,4,1,0,0
+contest,1,2,1,0,0,1,0,0,0
+recipeblog,1,1,1,0,0,1,0,0,0
+login,0,1,1,0,0,1,0,0,0
+menu button https //recipebookio/public/images/magnifying glasspng,0,0,5,0,0,4,1,0,0
+menu button https //recipebookio/public/images/mob btnpng,2,0,5,0,0,5,0,0,0
+login to your account to manage all the services and explore our tools,2,2,13,0,0,4,2,0,0
+login with,2,2,2,0,0,1,0,0,0
+facebook,2,2,1,0,0,1,0,0,0
+google,2,2,1,0,0,1,0,0,0
+healthy food,2,2,2,0,0,1,0,0,0
+bring out the smart chef in you and bring compliments your way,2,2,12,0,0,4,2,0,0
+banana walnut tea cake,0,2,4,0,0,4,0,0,0
+share https //recipebookio/public/images/asset 4xxxhdpisvg,0,0,4,1,1,1,1,0,0
+share https //recipebookio/public/images/asset 3xxxhdpisvg,0,0,4,1,1,1,1,0,0
+share https //recipebookio/public/images/asset 2xxxhdpisvg,0,0,4,1,1,1,1,0,0
+share https //recipebookio/public/images/asset 1xxxhdpisvg,0,0,4,1,1,1,1,0,0
+banana walnut tea,1,0,3,0,0,3,0,0,0
+cake https //imgfoodboxspacein/image/rbk 5e4ebe090e887/xhdpijpg,2,1,4,1,8,2,1,0,0
+01-Jan,0,2,3,1,2,0,0,0,0
+https //imgfoodboxspacein/image/rbk 5e4ebe090e887/xhdpijpg,2,0,3,1,8,1,1,0,0
+cooking time,2,2,2,0,0,2,0,0,0
+preparation time 10,2,2,3,1,2,2,0,0,0
+cook time 20,2,2,3,1,2,2,0,0,0
+total time 30,2,2,3,1,2,1,0,0,0
+ingredients,2,2,1,0,0,1,0,0,0
+serves 4,2,2,2,1,1,1,0,0,0
+1/2 cup butter,2,2,3,1,2,2,0,1,1
+1 teaspoon vanilla,2,2,3,1,1,2,0,1,1
+1 1/2 cups light brown sugar,2,2,6,1,3,2,0,1,1
+3 eggs,2,2,2,1,1,1,0,0,1
+3 cups sifted all purpose flour,2,2,6,1,1,2,2,1,1
+2 teaspoons baking powder,2,2,4,1,1,2,1,1,1
+1 teaspoon salt,2,2,3,1,1,2,0,1,1
+1 1/3 mashed ripe banana,2,2,5,1,3,2,1,0,1
+1/4 cup milk,2,2,3,1,2,2,0,1,1
+1 cup chopped walnuts,2,2,4,1,1,2,1,1,1
+directions,2,2,1,0,0,1,0,0,0
+1,2,2,1,1,2,0,0,0,0
+heat oven to 350 f in a large mixing bowl cream butter vanilla and sugar,1,2,15,1,3,8,0,0,0
+until light and fluffy beat in eggs one at a time sift flour baking,1,1,14,0,0,3,1,0,0
+powder baking soda and salt together mix mashed bananas and milk together,2,1,12,0,0,5,3,0,0
+2,2,2,1,1,2,0,0,0,0
+blend dry ingredients into batter alternating with banana mixture stir in,1,2,11,0,0,5,1,0,0
+chopped nuts pour batter into 2 greased and floured 8 inch pans,2,1,12,1,2,4,3,1,0
+3,2,2,1,1,2,0,0,0,0
+bake for 30 to 40 minutes or until cake tester inserted in center comes out,1,2,15,1,4,4,2,0,0
+clean,2,1,1,0,0,1,0,0,0
+4,2,2,1,1,2,0,0,0,0
+cool 10 minutes then turn out on racks until thoroughly cool serve when,1,2,13,1,2,3,2,0,0
+chilled,2,1,1,0,0,0,1,0,0
+review,2,2,1,0,0,1,0,0,0
+0,2,2,1,1,1,0,0,0,0
+5 stars 4 stars 3 stars 2 stars 1 star,2,2,10,1,5,5,0,0,0
+post,2,2,1,0,0,1,0,0,0
+please login to comment,2,2,4,0,0,1,2,0,0
+see more,0,2,2,0,0,0,1,0,0
+https //imgfoodboxspacein/user image/rbkapp 5a9d669edd342/indexjpg,2,0,4,1,8,2,1,0,0
+shraddha tikkas,2,2,2,0,0,2,0,0,0
+1009 recipes,2,2,2,1,4,1,0,0,0
+follow,2,2,1,0,0,0,1,0,0
+tags,2,2,1,0,0,1,0,0,0
+vegetarian,2,2,1,0,0,0,0,0,0
+link copied,2,2,2,0,0,1,1,0,0

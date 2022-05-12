@@ -1,0 +1,885 @@
+Sentence,newline_after,newline_before,nwords,numbers,nnumbers,nnouns,nverbs,nunits ,label
+loading,2,0,1,0,0,0,1,0,0
+skip to main content,2,2,4,0,0,2,0,0,0
+search,2,2,1,0,0,1,0,0,0
+all recipes,2,2,2,0,0,1,0,0,0
+by type,1,2,2,0,0,1,0,0,0
+breads,1,1,1,0,0,1,0,0,0
+cakes,1,1,1,0,0,1,0,0,0
+cookies,1,1,1,0,0,1,0,0,0
+drinks,1,1,1,0,0,1,0,0,0
+eggless,1,1,1,0,0,1,0,0,0
+ice creams,1,1,2,0,0,2,0,0,0
+indian mithai,1,1,2,0,0,1,0,0,0
+no bake cakes,1,1,3,0,0,2,0,0,0
+pudding,1,1,1,0,0,0,1,0,0
+sorbet,1,1,1,0,0,1,0,0,0
+souffle,1,1,1,0,0,1,0,0,0
+sweet snacks,1,1,2,0,0,2,0,0,0
+by ingredients,1,1,2,0,0,1,0,0,0
+carrot,1,1,1,0,0,1,0,0,0
+chocolate,1,1,1,0,0,1,0,0,0
+coconut,1,1,1,0,0,1,0,0,0
+oats,1,1,1,0,0,1,0,0,0
+vanilla,1,1,1,0,0,1,0,0,0
+fruits,1,1,1,0,0,1,0,0,0
+dry fruits,1,1,2,0,0,1,0,0,0
+by season,1,1,2,0,0,1,0,0,0
+seasonal fruits,1,1,2,0,0,1,0,0,0
+summer special,1,1,2,0,0,2,0,0,0
+winter special,2,1,2,0,0,1,0,0,0
+recipe genie,1,2,2,0,0,2,0,0,0
+blogs,2,1,1,0,0,1,0,0,0
+all recipes,2,2,2,0,0,1,0,0,0
+by type,1,2,2,0,0,1,0,0,0
+breads,1,1,1,0,0,1,0,0,0
+cakes,1,1,1,0,0,1,0,0,0
+cookies,1,1,1,0,0,1,0,0,0
+drinks,1,1,1,0,0,1,0,0,0
+eggless,1,1,1,0,0,1,0,0,0
+ice creams,1,1,2,0,0,2,0,0,0
+indian mithai,1,1,2,0,0,1,0,0,0
+no bake cakes,1,1,3,0,0,2,0,0,0
+pudding,1,1,1,0,0,0,1,0,0
+sorbet,1,1,1,0,0,1,0,0,0
+souffle,1,1,1,0,0,1,0,0,0
+sweet snacks,1,1,2,0,0,2,0,0,0
+by ingredients,1,1,2,0,0,1,0,0,0
+carrot,1,1,1,0,0,1,0,0,0
+chocolate,1,1,1,0,0,1,0,0,0
+coconut,1,1,1,0,0,1,0,0,0
+oats,1,1,1,0,0,1,0,0,0
+vanilla,1,1,1,0,0,1,0,0,0
+fruits,1,1,1,0,0,1,0,0,0
+dry fruits,1,1,2,0,0,1,0,0,0
+by season,1,1,2,0,0,1,0,0,0
+seasonal fruits,1,1,2,0,0,1,0,0,0
+summer special,1,1,2,0,0,2,0,0,0
+winter special,2,1,2,0,0,1,0,0,0
+recipe genie,1,2,2,0,0,2,0,0,0
+blogs,2,1,1,0,0,1,0,0,0
+search,2,2,1,0,0,1,0,0,0
+search,2,2,1,0,0,1,0,0,0
+english,2,2,1,0,0,0,0,0,0
+login,2,2,1,0,0,1,0,0,0
+register,2,2,1,0,0,1,0,0,0
+recipes recipe genie,0,2,3,0,0,2,1,0,0
+rasmalai /sites/default/files/2022 03/rasmalai 1600x426jpg,2,0,4,1,13,1,1,0,0
+rasmalai recipe,2,2,2,0,0,2,0,0,0
+rasmalai is a popular and delicious bengali sweet where lip smacking cottage,1,2,12,0,0,6,1,0,0
+cheese balls are soaked in lusciously thick sweetened milk there s no better,1,1,13,0,0,2,4,0,0
+way to end a lavish meal than to indulge in the richness of this delicious,1,1,15,0,0,3,2,0,0
+dessert if you are a fan of this soft and light sweet dish you have reached,1,1,16,0,0,3,3,0,0
+the right spot with a good rasmalai recipe you can also make this sweet at,1,1,15,0,0,4,1,0,0
+home yes making the rasmalai sweet at home isn t difficult as long as you,1,1,15,0,0,6,1,0,0
+have step by step instructions to guide you in its preparation also this,1,1,13,0,0,3,3,0,0
+beautiful dessert does not need any accompaniments this rasmalai recipe by,1,1,11,0,0,4,2,0,0
+nestl milkmaid is the perfect guide for learning how to make the rasmalai,1,1,13,0,0,4,3,0,0
+sweet at home and all you need to make a delicious rasmalai are the right,1,1,15,0,0,4,3,0,0
+ingredients this rasmalai recipe calls for nestl milkmaid and nestl a,1,1,11,0,0,5,2,0,0
+nourish milk which will help you make your rasmalai soft and creamy,2,1,12,0,0,2,2,0,0
+servings 8 10,1,2,3,1,3,1,0,0,0
+preparation 5 min,1,1,3,1,1,2,0,0,0
+cooking 20 min,2,1,3,1,2,1,1,0,0
+ingredients,2,2,1,0,0,1,0,0,0
+tin 200 gm nestl milkmaid,2,2,5,1,3,4,0,0,1
+4 cups 600 ml nestl a nourish milk,2,2,8,1,4,3,0,1,1
+300 gm well mashedpaneer,2,2,4,1,3,1,1,0,1
+8 10 strandssaffron,2,2,3,1,3,1,0,0,1
+tspcardamom powder,2,2,2,0,0,2,0,1,1
+10 12 choppedpistachios,2,2,3,1,4,1,0,0,1
+1 literwater,2,2,2,1,1,1,0,0,1
+2 cups 300 gm sugar,2,2,5,1,4,3,0,1,1
+how to make rasmalai,2,2,4,0,0,1,1,0,0
+further mash paneer with hand for at least 6 minutes to make smooth dough,1,2,14,1,1,5,1,0,0
+alongside take a pan add sugar and water together and bring to boil to make syrup for cooking rasmalai,1,1,19,0,0,6,5,0,0
+make small balls of paneer dough and flatten add into boiling sugar syrup cover and cook for 10 minutes on medium heat remove and keep aside to cool,1,1,28,1,2,12,6,1,0
+in another pan pour in the nestl a milk and nestl milkmaid bring to boil and reduce to half turn of the flame add saffron and cardamom powder and mix well allow to cool,1,1,34,0,0,12,5,0,0
+take out the rasgullas from sugar syrup squeeze gently to remove the sugar syrup and put them into saffron ras,1,1,20,0,0,8,3,0,0
+garnished with chopped pistachio and serve chilled,2,1,7,0,0,2,2,0,0
+tags,2,2,1,0,0,1,0,0,0
+others,2,2,1,0,0,1,0,0,0
+indian mithai,2,2,2,0,0,1,0,0,0
+recipe you might like,2,2,4,0,0,1,1,0,0
+patishapta,2,2,1,0,0,1,0,0,0
+servings 16,1,2,2,1,2,1,0,0,0
+preparation 10 min,1,1,3,1,2,2,0,0,0
+cooking 20 min,0,1,3,1,2,1,1,0,0
+paatishapta https //wwwmilkmaidin/sites/default/files/2020 06/paatishapta 0jpg,2,0,5,1,7,2,1,0,0
+palada pradhaman,2,2,2,0,0,2,0,0,0
+servings 8,1,2,2,1,1,1,0,0,0
+preparation 20 min,1,1,3,1,2,2,0,0,0
+cooking 20 min,0,1,3,1,2,1,1,0,0
+ada pradhaman,1,0,2,0,0,2,0,0,0
+recipe https //wwwmilkmaidin/sites/default/files/2020 06/palada,1,1,4,1,6,2,1,0,0
+pradhamanjpg,2,1,1,0,0,1,0,0,0
+pineapple cheesecake,2,2,2,0,0,1,1,0,0
+servings 6,1,2,2,1,1,1,0,0,0
+preparation 20 min,1,1,3,1,2,2,0,0,0
+chilling 120 min,0,1,3,1,3,1,1,0,0
+pineapple,1,0,1,0,0,1,0,0,0
+cheesecake https //wwwmilkmaidin/sites/default/files/2020 06/pineapple,1,1,4,1,6,2,1,0,0
+cheesecakejpg,2,1,1,0,0,1,0,0,0
+pineapple upside down cake,2,2,4,0,0,1,1,0,0
+servings 10,1,2,2,1,2,1,0,0,0
+preparation 15 min,1,1,3,1,2,2,0,0,0
+baking 45 min,0,1,3,1,2,1,1,0,0
+pineapple upside down,1,0,3,0,0,1,0,0,0
+cake https //wwwmilkmaidin/sites/default/files/2020 06/pineapple upside,1,1,5,1,6,3,1,0,0
+down cakejpg,2,1,2,0,0,1,0,0,0
+thandai,2,2,1,0,0,1,0,0,0
+servings 12,1,2,2,1,2,1,0,0,0
+preparation 10 min,0,1,3,1,2,2,0,0,0
+thandai,1,0,1,0,0,1,0,0,0
+recipe https //wwwmilkmaidin/sites/default/files/2020 06/thandaijpg,2,1,4,1,6,2,1,0,0
+traffic lights,2,2,2,0,0,2,0,0,0
+servings 12,1,2,2,1,2,1,0,0,0
+preparation 15 min,1,1,3,1,2,2,0,0,0
+cooking 12 min,0,1,3,1,2,1,1,0,0
+traffic lights https //wwwmilkmaidin/sites/default/files/2020 06/traffic,1,0,5,1,6,2,1,0,0
+lights 0jpg,2,1,2,1,1,1,0,0,0
+trifle pudding,2,2,2,0,0,1,1,0,0
+servings 10,1,2,2,1,2,1,0,0,0
+preparation 35 min,1,1,3,1,2,2,0,0,0
+chilling 60 min,0,1,3,1,2,1,1,0,0
+trifle pudding https //wwwmilkmaidin/sites/default/files/2020 06/trifle,1,0,5,1,6,1,2,0,0
+puddingjpg,2,1,1,0,0,1,0,0,0
+mango sticky rice,2,2,3,0,0,2,0,0,0
+servings 4,1,2,2,1,1,1,0,0,0
+preparation 15 min,1,1,3,1,2,2,0,0,0
+cooking 20 min,0,1,3,1,2,1,1,0,0
+sweet coconut rice and mango,1,0,5,0,0,3,0,0,0
+dessert https //wwwmilkmaidin/sites/default/files/2020 06/sweet coconut,1,1,5,1,6,3,1,0,0
+rice and mango dessertjpg,2,1,4,0,0,3,0,0,0
+seviyan payasam,2,2,2,0,0,1,0,0,0
+servings 10,1,2,2,1,2,1,0,0,0
+preparation 5 min,1,1,3,1,1,2,0,0,0
+cooking 10 min,0,1,3,1,2,1,1,0,0
+semiyan,1,0,1,0,0,1,0,0,0
+payasam https //wwwmilkmaidin/sites/default/files/2020 06/semiyan,1,1,4,1,6,2,1,0,0
+payasamjpg,2,1,1,0,0,1,0,0,0
+shahi tukre,2,2,2,0,0,2,0,0,0
+servings 8,1,2,2,1,1,1,0,0,0
+preparation 15 min,1,1,3,1,2,2,0,0,0
+chilling 30 min,0,1,3,1,2,1,1,0,0
+shahi tudka,1,0,2,0,0,2,0,0,0
+recipe https //wwwmilkmaidin/sites/default/files/2020 06/shahi tukre 0jpg,2,1,6,1,7,3,1,0,0
+fruit pizza,2,2,2,0,0,2,0,0,0
+servings 6,1,2,2,1,1,1,0,0,0
+preparation 10 min,1,1,3,1,2,2,0,0,0
+cooking 15 min,0,1,3,1,2,1,1,0,0
+sweet pizza https //wwwmilkmaidin/sites/default/files/2020 06/sweet,1,0,5,1,6,2,1,0,0
+pizzajpg,2,1,1,0,0,1,0,0,0
+mango kulfi,2,2,2,0,0,2,0,0,0
+servings 10,1,2,2,1,2,1,0,0,0
+preparation 15 min,1,1,3,1,2,2,0,0,0
+chilling 360 min,0,1,3,1,3,1,1,0,0
+mango kulfi https //wwwmilkmaidin/sites/default/files/2020 06/mango,1,0,5,1,6,3,1,0,0
+kulfijpg,2,1,1,0,0,1,0,0,0
+mango tropical freeze,2,2,3,0,0,1,0,0,0
+servings 4,1,2,2,1,1,1,0,0,0
+preparation 20 min,1,1,3,1,2,2,0,0,0
+chilling 60 min,0,1,3,1,2,1,1,0,0
+mango tropical freeze,1,0,3,0,0,1,0,0,0
+recipe https //wwwmilkmaidin/sites/default/files/2020 06/mango tropical,1,1,5,1,6,2,1,0,0
+freeze 0jpg,2,1,2,1,1,1,0,0,0
+mawa kheer,2,2,2,0,0,2,0,0,0
+servings 4,1,2,2,1,1,1,0,0,0
+preparation 15 min,1,1,3,1,2,2,0,0,0
+cooking 15 min,0,1,3,1,2,1,1,0,0
+mawa kheer https //wwwmilkmaidin/sites/default/files/2020 07/mawa,1,0,5,1,6,3,1,0,0
+kheerjpg,2,1,1,0,0,1,0,0,0
+mawa modak,2,2,2,0,0,2,0,0,0
+servings 8,1,2,2,1,1,1,0,0,0
+preparation 15 min,1,1,3,1,2,2,0,0,0
+cooking 20 min,0,1,3,1,2,1,1,0,0
+mawa modak https //wwwmilkmaidin/sites/default/files/2022 04/mawa,1,0,5,1,6,3,1,0,0
+modak 385x619png,2,1,2,1,6,1,0,0,0
+mishti dahi,2,2,2,0,0,2,0,0,0
+servings 4,1,2,2,1,1,1,0,0,0
+preparation 30 min,1,1,3,1,2,2,0,0,0
+cooking 20 min,0,1,3,1,2,1,1,0,0
+mishti doi https //wwwmilkmaidin/sites/default/files/2020 07/mishti,1,0,5,1,6,3,1,0,0
+dahi 20 281 29jpg,2,1,4,1,7,1,0,0,0
+fruit cake,2,2,2,0,0,2,0,0,0
+servings 10,1,2,2,1,2,1,0,0,0
+preparation 40 min,1,1,3,1,2,2,0,0,0
+baking 60 min,0,1,3,1,2,1,1,0,0
+christmas fruit,1,0,2,0,0,2,0,0,0
+cake https //wwwmilkmaidin/sites/default/files/2021 12/pict0108 385x619jpg,2,1,5,1,16,2,1,0,0
+cup cakes,2,2,2,0,0,2,0,1,0
+servings 6,1,2,2,1,1,1,0,0,0
+preparation 10 min,1,1,3,1,2,2,0,0,0
+baking 20 min,0,1,3,1,2,1,1,0,0
+cup cakes https //wwwmilkmaidin/sites/default/files/2020 07/cup,1,0,5,1,6,2,1,1,0
+cakes 0 0jpg,2,1,3,1,2,1,0,0,0
+coconut modak,2,2,2,0,0,2,0,0,0
+servings 8,1,2,2,1,1,1,0,0,0
+preparation 15 min,1,1,3,1,2,2,0,0,0
+cooking 20 min,0,1,3,1,2,1,1,0,0
+coconut rose,1,0,2,0,0,1,1,0,0
+modak https //wwwmilkmaidin/sites/default/files/2022 04/coconut rose,1,1,5,1,6,2,1,0,0
+modak 385x619png,2,1,2,1,6,1,0,0,0
+gajar ka halwa,2,2,3,0,0,3,0,0,0
+servings 10,1,2,2,1,2,1,0,0,0
+preparation 20 min,1,1,3,1,2,2,0,0,0
+cooking 45 min,0,1,3,1,2,1,1,0,0
+halwa https //wwwmilkmaidin/sites/default/files/2022 03/gajar ka,1,0,5,1,6,3,1,0,0
+halwa 385x619jpg,2,1,2,1,6,1,0,0,0
+gujiya,2,2,1,0,0,1,0,0,0
+servings 8,1,2,2,1,1,1,0,0,0
+preparation 25 min,1,1,3,1,2,2,0,0,0
+cooking 30 min,0,1,3,1,2,1,1,0,0
+gujiya https //wwwmilkmaidin/sites/default/files/2020 07/gujiya 1jpg,2,0,5,1,7,2,1,0,0
+jauz ka meetha,2,2,3,0,0,3,0,0,0
+servings 8,1,2,2,1,1,1,0,0,0
+preparation 15 min,1,1,3,1,2,2,0,0,0
+cooking 20 min,0,1,3,1,2,1,1,0,0
+jauz ka meetha https //wwwmilkmaidin/sites/default/files/2020 07/jauz ka,1,0,7,1,6,5,1,0,0
+meetha 0jpg,2,1,2,1,1,1,0,0,0
+kalakand,2,2,1,0,0,1,0,0,0
+servings 12,1,2,2,1,2,1,0,0,0
+preparation 10 min,1,1,3,1,2,2,0,0,0
+cooking 10 min,0,1,3,1,2,1,1,0,0
+kalakand https //wwwmilkmaidin/sites/default/files/2022 03/kalakand 385x619jpg,2,0,5,1,12,2,1,0,0
+lauki halwa,2,2,2,0,0,2,0,0,0
+servings 4,1,2,2,1,1,1,0,0,0
+preparation 15 min,1,1,3,1,2,2,0,0,0
+cooking 15 min,0,1,3,1,2,1,1,0,0
+lauki halwa,1,0,2,0,0,2,0,0,0
+recipe https //wwwmilkmaidin/sites/default/files/2020 07/lauki halwa 0jpg,2,1,6,1,7,3,1,0,0
+mocha exquisite,2,2,2,0,0,1,1,0,0
+servings 8,1,2,2,1,1,1,0,0,0
+preparation 25 min,1,1,3,1,2,2,0,0,0
+chilling 30 min,0,1,3,1,2,1,1,0,0
+mocha exquisite https //wwwmilkmaidin/sites/default/files/2020 06/mocha,1,0,5,1,6,2,1,0,0
+exquisite 0jpg,2,1,2,1,1,0,0,0,0
+moong dal halwa,2,2,3,0,0,1,0,0,0
+servings 8,1,2,2,1,1,1,0,0,0
+preparation 45 min,1,1,3,1,2,2,0,0,0
+cooking 60 min,0,1,3,1,2,1,1,0,0
+moong dal halwa https //wwwmilkmaidin/sites/default/files/2020 06/moong,1,0,6,1,6,2,1,0,0
+dal halwa 0jpg,2,1,3,1,1,1,0,0,0
+nutty log,2,2,2,0,0,1,0,0,0
+servings 6,1,2,2,1,1,1,0,0,0
+preparation 20 min,1,1,3,1,2,2,0,0,0
+chilling 60 min,0,1,3,1,2,1,1,0,0
+nutty log recipe https //wwwmilkmaidin/sites/default/files/2020 06/nutty,1,0,6,1,6,2,1,0,0
+log 0jpg,2,1,2,1,1,1,0,0,0
+orange pudding,2,2,2,0,0,2,0,0,0
+servings 10,1,2,2,1,2,1,0,0,0
+preparation 15 min,1,1,3,1,2,2,0,0,0
+chilling 30 min,0,1,3,1,2,1,1,0,0
+orange delight pudding,1,0,3,0,0,1,2,0,0
+recipe https //wwwmilkmaidin/sites/default/files/2020 06/orange,1,1,4,1,6,2,1,0,0
+delightjpg,2,1,1,0,0,1,0,0,0
+peach sorbet,2,2,2,0,0,2,0,0,0
+servings 8,1,2,2,1,1,1,0,0,0
+preparation 15 min,1,1,3,1,2,2,0,0,0
+chilling 60 min,0,1,3,1,2,1,1,0,0
+peach sorbet https //wwwmilkmaidin/sites/default/files/2020 06/peach,1,0,5,1,6,3,1,0,0
+sorbet 0jpg,2,1,2,1,1,1,0,0,0
+pineapple souffle,2,2,2,0,0,2,0,0,0
+servings 10,1,2,2,1,2,1,0,0,0
+preparation 20 min,1,1,3,1,2,2,0,0,0
+chilling 120 min,0,1,3,1,3,1,1,0,0
+pineapple,1,0,1,0,0,1,0,0,0
+souffle https //wwwmilkmaidin/sites/default/files/2020 06/pineapple,1,1,4,1,6,2,1,0,0
+soufflejpg,2,1,1,0,0,1,0,0,0
+pumpkin halwa,2,2,2,0,0,2,0,0,0
+servings 6,1,2,2,1,1,1,0,0,0
+preparation 15 min,1,1,3,1,2,2,0,0,0
+cooking 30 min,0,1,3,1,2,1,1,0,0
+pumpkin halwa https //wwwmilkmaidin/sites/default/files/2020 06/pumpkin,1,0,5,1,6,3,1,0,0
+halwajpg,2,1,1,0,0,1,0,0,0
+rice kheer,2,2,2,0,0,2,0,0,0
+servings 10,1,2,2,1,2,1,0,0,0
+preparation 5 min,1,1,3,1,1,2,0,0,0
+cooking 20 min,0,1,3,1,2,1,1,0,0
+rice,1,0,1,0,0,1,0,0,0
+kheer https //wwwmilkmaidin/sites/default/files/2020 06/rice 20kheer 20banner 0jpg,2,1,7,1,11,2,1,0,0
+chocolate fudge cake,2,2,3,0,0,2,1,0,0
+servings 10,1,2,2,1,2,1,0,0,0
+preparation 20 min,1,1,3,1,2,2,0,0,0
+baking 25 min,0,1,3,1,2,1,1,0,0
+chocolate cake with fudge,1,0,4,0,0,3,0,0,0
+icing https //wwwmilkmaidin/sites/default/files/2020 06/chocolate cake,1,1,5,1,6,2,1,0,0
+with fudge icing 0jpg,2,1,4,1,1,1,1,0,0
+chocolate fudge,2,2,2,0,0,2,0,0,0
+servings 8,1,2,2,1,1,1,0,0,0
+preparation 5 min,1,1,3,1,1,2,0,0,0
+cooking 25 min,0,1,3,1,2,1,1,0,0
+chocolate,1,0,1,0,0,1,0,0,0
+fudge https //wwwmilkmaidin/sites/default/files/2020 06/chocolate,1,1,4,1,6,2,1,0,0
+fudge 0jpg,2,1,2,1,1,1,0,0,0
+phirni,2,2,1,0,0,1,0,0,0
+servings 8,1,2,2,1,1,1,0,0,0
+preparation 70 min,1,1,3,1,2,2,0,0,0
+cooking 15 min,0,1,3,1,2,1,1,0,0
+phirni https //wwwmilkmaidin/sites/default/files/2020 06/phirnijpg,2,0,4,1,6,2,1,0,0
+chocolate icecream,2,2,2,0,0,2,0,0,0
+servings 4,1,2,2,1,1,1,0,0,0
+preparation 10 min,1,1,3,1,2,2,0,0,0
+chilling 300 min,0,1,3,1,3,1,1,0,0
+chocolate ice,1,0,2,0,0,2,0,0,0
+cream https //wwwmilkmaidin/sites/default/files/2020 06/chocolate ice,1,1,5,1,6,3,1,0,0
+cream 0jpg,2,1,2,1,1,1,0,0,0
+chocolate modak,2,2,2,0,0,2,0,0,0
+servings 8,1,2,2,1,1,1,0,0,0
+preparation 15 min,1,1,3,1,2,2,0,0,0
+cooking 20 min,0,1,3,1,2,1,1,0,0
+chocolate,1,0,1,0,0,1,0,0,0
+modak https //wwwmilkmaidin/sites/default/files/2021 08/chocolate,1,1,4,1,6,2,1,0,0
+modak 385x619png,2,1,2,1,6,1,0,0,0
+chocolate souffle,2,2,2,0,0,2,0,0,0
+servings 6,1,2,2,1,1,1,0,0,0
+preparation 20 min,1,1,3,1,2,2,0,0,0
+chilling 60 min,0,1,3,1,2,1,1,0,0
+chocolate,1,0,1,0,0,1,0,0,0
+souffle https //wwwmilkmaidin/sites/default/files/2020 06/chocolate,1,1,4,1,6,2,1,0,0
+souffle 0jpg,2,1,2,1,1,0,0,0,0
+sandesh,2,2,1,0,0,1,0,0,0
+servings 10,1,2,2,1,2,1,0,0,0
+preparation 5 min,1,1,3,1,1,2,0,0,0
+cooking 30 min,0,1,3,1,2,1,1,0,0
+sandesh,1,0,1,0,0,1,0,0,0
+recipe https //wwwmilkmaidin/sites/default/files/2020 06/sandesh 0jpg,2,1,5,1,7,2,1,0,0
+thandai mousse,2,2,2,0,0,2,0,0,0
+servings 4,1,2,2,1,1,1,0,0,0
+preparation 10 min,1,1,3,1,2,2,0,0,0
+cooking 210 min,0,1,3,1,3,1,1,0,0
+thandai mousse https //wwwmilkmaidin/sites/default/files/2020 06/thandai,1,0,5,1,6,3,1,0,0
+mousse 0jpg,2,1,2,1,1,1,0,0,0
+chocolate tower,2,2,2,0,0,2,0,0,0
+servings 8,1,2,2,1,1,1,0,0,0
+preparation 20 min,1,1,3,1,2,2,0,0,0
+chilling 120 min,0,1,3,1,3,1,1,0,0
+chocolate,1,0,1,0,0,1,0,0,0
+tower https //wwwmilkmaidin/sites/default/files/2020 07/chocolate,1,1,4,1,6,2,1,0,0
+tower 0 0jpg,2,1,3,1,2,1,0,0,0
+malai peda,2,2,2,0,0,2,0,0,0
+servings 10,1,2,2,1,2,1,0,0,0
+preparation 10 min,1,1,3,1,2,2,0,0,0
+cooking 5 min,0,1,3,1,1,1,1,0,0
+malai peda https //wwwmilkmaidin/sites/default/files/2020 08/malai,1,0,5,1,6,3,1,0,0
+pedajpg,2,1,1,0,0,1,0,0,0
+malpua with rabri,2,2,3,0,0,2,0,0,0
+servings 10,1,2,2,1,2,1,0,0,0
+preparation 20 min,1,1,3,1,2,2,0,0,0
+cooking 40 min,0,1,3,1,2,1,1,0,0
+malpua with,1,0,2,0,0,1,0,0,0
+rabri https //wwwmilkmaidin/sites/default/files/2020 08/malpua with,1,1,5,1,6,2,1,0,0
+rabrijpg,2,1,1,0,0,1,0,0,0
+chocolate walnut spread,2,2,3,0,0,2,1,0,0
+servings 10,1,2,2,1,2,1,0,0,0
+preparation 5 min,1,1,3,1,1,2,0,0,0
+cooking 10 min,0,1,3,1,2,1,1,0,0
+chocolate walnut,1,0,2,0,0,2,0,0,0
+spread https //wwwmilkmaidin/sites/default/files/2020 07/chocolate walnut,1,1,5,1,6,3,1,0,0
+spread 1jpg,2,1,2,1,1,1,0,0,0
+citrus cinnamon delight,2,2,3,0,0,3,0,0,0
+servings 8,1,2,2,1,1,1,0,0,0
+preparation 20 min,1,1,3,1,2,2,0,0,0
+chilling 120 min,0,1,3,1,3,1,1,0,0
+citrus cinnamon,1,0,2,0,0,2,0,0,0
+delight https //wwwmilkmaidin/sites/default/files/2020 07/citrus cinnamon,1,1,5,1,6,3,1,0,0
+delight 0 0jpg,2,1,3,1,2,0,0,0,0
+coconut sorbet,2,2,2,0,0,2,0,0,0
+servings 8,1,2,2,1,1,1,0,0,0
+preparation 20 min,1,1,3,1,2,2,0,0,0
+chilling 120 180 min,0,1,4,1,6,1,1,0,0
+coconut sorbet,1,0,2,0,0,2,0,0,0
+recipe https //wwwmilkmaidin/sites/default/files/2020 07/coconut,1,1,4,1,6,2,1,0,0
+sorbet 0 0jpg,2,1,3,1,2,0,0,0,0
+coffee pannacotta,2,2,2,0,0,2,0,0,0
+servings 6,1,2,2,1,1,1,0,0,0
+preparation 20 min,1,1,3,1,2,2,0,0,0
+chilling 120 min,0,1,3,1,3,1,1,0,0
+coffee,1,0,1,0,0,1,0,0,0
+pannacotta https //wwwmilkmaidin/sites/default/files/2020 07/coffee,1,1,4,1,6,2,1,0,0
+pannacotta 1jpg,2,1,2,1,1,1,0,0,0
+date bake,2,2,2,0,0,2,0,0,0
+servings 8,1,2,2,1,1,1,0,0,0
+preparation 20 min,1,1,3,1,2,2,0,0,0
+baking 40 min,0,1,3,1,2,1,1,0,0
+date bake https //wwwmilkmaidin/sites/default/files/2020 07/date,1,0,5,1,6,3,1,0,0
+bake 0 1jpg,2,1,3,1,2,0,1,0,0
+eggless banana cake,2,2,3,0,0,2,1,0,0
+servings 10,1,2,2,1,2,1,0,0,0
+preparation 20 min,1,1,3,1,2,2,0,0,0
+baking 30 min,0,1,3,1,2,1,1,0,0
+eggless banana,1,0,2,0,0,2,0,0,0
+cake https //wwwmilkmaidin/sites/default/files/2020 07/eggless banana,1,1,5,1,6,3,1,0,0
+cake 0 0jpg,2,1,3,1,2,0,1,0,0
+eggless date cake,2,2,3,0,0,3,0,0,0
+servings 12,1,2,2,1,2,1,0,0,0
+preparation 20 min,1,1,3,1,2,2,0,0,0
+baking 40 min,0,1,3,1,2,1,1,0,0
+eggless date,1,0,2,0,0,2,0,0,0
+cake https //wwwmilkmaidin/sites/default/files/2020 07/eggless date,1,1,5,1,6,3,1,0,0
+cake 0 0jpg,2,1,3,1,2,0,1,0,0
+ginger bread,2,2,2,0,0,2,0,0,0
+servings 10,1,2,2,1,2,1,0,0,0
+preparation 25 min,1,1,3,1,2,2,0,0,0
+baking 45 min,0,1,3,1,2,1,1,0,0
+ginger bread,1,0,2,0,0,2,0,0,0
+cake https //wwwmilkmaidin/sites/default/files/2020 07/ginger bread,1,1,5,1,6,3,1,0,0
+cake 0 1jpg,2,1,3,1,2,0,1,0,0
+gulab ki thandi kheer,2,2,4,0,0,4,0,0,0
+servings 10,1,2,2,1,2,1,0,0,0
+preparation 15 min,1,1,3,1,2,2,0,0,0
+cooking 30 min,0,1,3,1,2,1,1,0,0
+gulab ki kheer https //wwwmilkmaidin/sites/default/files/2020 07/gulab,1,0,6,1,6,4,1,0,0
+ki thandi kheer 2jpg,2,1,4,1,1,2,1,0,0
+jam doughnut,2,2,2,0,0,2,0,0,0
+servings 6,1,2,2,1,1,1,0,0,0
+preparation 30 min,1,1,3,1,2,2,0,0,0
+cooking 15 min,0,1,3,1,2,1,1,0,0
+jam doughnut https //wwwmilkmaidin/sites/default/files/2020 07/jam,1,0,5,1,6,3,1,0,0
+doughnut 1jpg,2,1,2,1,1,1,0,0,0
+jelly pudding,2,2,2,0,0,0,1,0,0
+servings 8,1,2,2,1,1,1,0,0,0
+preparation 10 min,1,1,3,1,2,2,0,0,0
+chilling 180 min,0,1,3,1,3,1,1,0,0
+jelly pudding https //wwwmilkmaidin/sites/default/files/2020 07/jelly,1,0,5,1,6,1,2,0,0
+pudding 0 0jpg,2,1,3,1,2,0,1,0,0
+kaju katli,2,2,2,0,0,2,0,0,0
+servings 5,1,2,2,1,1,1,0,0,0
+preparation 5 min,1,1,3,1,1,2,0,0,0
+cooking 30 min,0,1,3,1,2,1,1,0,0
+kaju katli https //wwwmilkmaidin/sites/default/files/2020 07/kaaju,1,0,5,1,6,3,1,0,0
+katli 1jpg,2,1,2,1,1,1,0,0,0
+kesar shrikhand,2,2,2,0,0,1,1,0,0
+servings 4,1,2,2,1,1,1,0,0,0
+preparation 30 min,1,1,3,1,2,2,0,0,0
+chilling 30 min,0,1,3,1,2,1,1,0,0
+kesar shrikhand,1,0,2,0,0,1,1,0,0
+recipe https //wwwmilkmaidin/sites/default/files/2020 07/kesar,1,1,4,1,6,2,1,0,0
+shrikhand 0 0jpg,2,1,3,1,2,1,0,0,0
+litchi pudding,2,2,2,0,0,1,1,0,0
+servings 6,1,2,2,1,1,1,0,0,0
+preparation 15 min,1,1,3,1,2,2,0,0,0
+cooking 20 min,0,1,3,1,2,1,1,0,0
+litchi pudding,1,0,2,0,0,1,1,0,0
+recipe https //wwwmilkmaidin/sites/default/files/2020 07/litchi,1,1,4,1,6,2,1,0,0
+pudding 0jpg,2,1,2,1,1,0,1,0,0
+makhana kheer,2,2,2,0,0,2,0,0,0
+servings 8,1,2,2,1,1,1,0,0,0
+preparation 5 min,1,1,3,1,1,2,0,0,0
+cooking 15 min,0,1,3,1,2,1,1,0,0
+makhana kheer https //wwwmilkmaidin/sites/default/files/2020 07/makhana,1,0,5,1,6,3,1,0,0
+kheer 0 0jpg,2,1,3,1,2,0,1,0,0
+mango cheesecake,2,2,2,0,0,1,1,0,0
+servings 8,1,2,2,1,1,1,0,0,0
+preparation 20 min,1,1,3,1,2,2,0,0,0
+chilling 40 min,0,1,3,1,2,1,1,0,0
+mango cheesecake,1,0,2,0,0,1,1,0,0
+recipe https //wwwmilkmaidin/sites/default/files/2020 08/mango,1,1,4,1,6,2,1,0,0
+cheesecake 20copyjpg,2,1,2,1,2,1,0,0,0
+aamrakhand,2,2,1,0,0,1,0,0,0
+servings 6,1,2,2,1,1,1,0,0,0
+preparation 30 min,1,1,3,1,2,2,0,0,0
+chilling 30 min,0,1,3,1,2,1,1,0,0
+aamrakhand https //wwwmilkmaidin/sites/default/files/2020 08/aamrakhand 20copyjpg,2,0,5,1,8,2,1,0,0
+anjeer halwa,2,2,2,0,0,2,0,0,0
+servings 6,1,2,2,1,1,1,0,0,0
+preparation 60 min,1,1,3,1,2,2,0,0,0
+cooking 15 min,0,1,3,1,2,1,1,0,0
+anjeer halwa https //wwwmilkmaidin/sites/default/files/2020 08/anjeer,1,0,5,1,6,3,1,0,0
+halwa 20copy 202jpg,2,1,3,1,5,1,0,0,0
+apple and nuts delight,2,2,4,0,0,2,1,0,0
+servings 8,1,2,2,1,1,1,0,0,0
+preparation 15 min,1,1,3,1,2,2,0,0,0
+baking 35 min,0,1,3,1,2,1,1,0,0
+apple and nuts,1,0,3,0,0,2,0,0,0
+crumbl https //wwwmilkmaidin/sites/default/files/2020 08/apple and n uts,1,1,7,1,6,3,0,0,0
+crumblejpg,2,1,1,0,0,1,0,0,0
+apple crumble,2,2,2,0,0,2,0,0,0
+servings 8,1,2,2,1,1,1,0,0,0
+preparation 15 min,1,1,3,1,2,2,0,0,0
+baking 40 min,0,1,3,1,2,1,1,0,0
+apple crumble https //wwwmilkmaidin/sites/default/files/2020 08/apple,1,0,5,1,6,2,1,0,0
+crumble 20copy 202jpg,2,1,3,1,5,0,0,0,0
+badaam doodh,2,2,2,0,0,2,0,0,0
+servings 4,1,2,2,1,1,1,0,0,0
+preparation 15 min,0,1,3,1,2,2,0,0,0
+badam doodh https //wwwmilkmaidin/sites/default/files/2020 08/badam,1,0,5,1,6,3,1,0,0
+doodhjpg,2,1,1,0,0,1,0,0,0
+badam kheer,2,2,2,0,0,2,0,0,0
+servings 10,1,2,2,1,2,1,0,0,0
+preparation 45 min,1,1,3,1,2,2,0,0,0
+chilling 20 min,0,1,3,1,2,1,1,0,0
+badam kheer https //wwwmilkmaidin/sites/default/files/2020 08/badam,1,0,5,1,6,3,1,0,0
+kheerjpg,2,1,1,0,0,1,0,0,0
+banana date and nut smoothie,2,2,5,0,0,4,0,0,0
+servings 8,1,2,2,1,1,1,0,0,0
+preparation 15 min,1,1,3,1,2,2,0,0,0
+chilling 15 min,0,1,3,1,2,1,1,0,0
+banana date,1,0,2,0,0,2,0,0,0
+smoothie https //wwwmilkmaidin/sites/default/files/2020 08/bana date,1,1,5,1,6,3,1,0,0
+smoothiejpg,2,1,1,0,0,1,0,0,0
+basbousa with almonds,2,2,3,0,0,2,0,0,0
+servings 10,1,2,2,1,2,1,0,0,0
+preparation 15 min,1,1,3,1,2,2,0,0,0
+baking 35 min,0,1,3,1,2,1,1,0,0
+almond cake https //wwwmilkmaidin/sites/default/files/2022 03/basbousa,1,0,5,1,6,3,1,0,0
+with almonds 385x619 0jpg,2,1,4,1,7,1,0,0,0
+bengali channar payesh,2,2,3,0,0,3,0,0,0
+servings 10,1,2,2,1,2,1,0,0,0
+preparation 5 min,1,1,3,1,1,2,0,0,0
+cooking 15 min,0,1,3,1,2,1,1,0,0
+channaer,1,0,1,0,0,1,0,0,0
+payesh https //wwwmilkmaidin/sites/default/files/2020 08/bengali channaer,1,1,5,1,6,2,1,0,0
+payeshjpg,2,1,1,0,0,1,0,0,0
+black forest cake,2,2,3,0,0,1,0,0,0
+servings 12,1,2,2,1,2,1,0,0,0
+preparation 35 min,1,1,3,1,2,2,0,0,0
+baking 45 min,0,1,3,1,2,1,1,0,0
+black forest,1,0,2,0,0,1,0,0,0
+cake https //wwwmilkmaidin/sites/default/files/2022 03/blackforest,1,1,4,1,6,2,1,0,0
+cake 385x619jpg,2,1,2,1,6,1,0,0,0
+bread pudding,2,2,2,0,0,2,0,0,0
+servings 8,1,2,2,1,1,1,0,0,0
+preparation 10 min,1,1,3,1,2,2,0,0,0
+baking 40 min,0,1,3,1,2,1,1,0,0
+bread pudding https //wwwmilkmaidin/sites/default/files/2020 08/bread,1,0,5,1,6,2,2,0,0
+pudding 1jpg,2,1,2,1,1,0,1,0,0
+brownies,2,2,1,0,0,1,0,0,0
+servings 10,1,2,2,1,2,1,0,0,0
+preparation 15 min,1,1,3,1,2,2,0,0,0
+baking 30 min,0,1,3,1,2,1,1,0,0
+brownies https //wwwmilkmaidin/sites/default/files/2022 03/brownies 385x619jpg,2,0,5,1,12,1,1,0,0
+carrot cake,2,2,2,0,0,1,1,0,0
+servings 8,1,2,2,1,1,1,0,0,0
+preparation 30 min,1,1,3,1,2,2,0,0,0
+baking 50 min,0,1,3,1,2,1,1,0,0
+carrot cake https //wwwmilkmaidin/sites/default/files/2020 08/carrot,1,0,5,1,6,1,1,0,0
+cakejpg,2,1,1,0,0,1,0,0,0
+chana dal barfi,2,2,3,0,0,3,0,0,0
+servings 12,1,2,2,1,2,1,0,0,0
+preparation 15 min,1,1,3,1,2,2,0,0,0
+cooking 30 min,0,1,3,1,2,1,1,0,0
+chana dal barfi https //wwwmilkmaidin/sites/default/files/2020 08/chana,1,0,6,1,6,4,1,0,0
+dal barfi 1jpg,2,1,3,1,1,1,0,0,0
+chocolate bread pudding,2,2,3,0,0,3,0,0,0
+servings 4,1,2,2,1,1,1,0,0,0
+preparation 15 min,1,1,3,1,2,2,0,0,0
+baking 15 min,0,1,3,1,2,1,1,0,0
+chocolate bread,1,0,2,0,0,2,0,0,0
+pudding https //wwwmilkmaidin/sites/default/files/2022 04/chocolate bread,1,1,5,1,6,2,1,0,0
+pudding 385x619jpg,2,1,2,1,6,0,1,0,0
+channar puli,2,2,2,0,0,2,0,0,0
+servings 8,1,2,2,1,1,1,0,0,0
+preparation 10 min,1,1,3,1,2,2,0,0,0
+cooking 25 min,0,1,3,1,2,1,1,0,0
+channar puli https //wwwmilkmaidin/sites/default/files/2020 08/channar,1,0,5,1,6,3,1,0,0
+puli 17jpg,2,1,2,1,2,1,0,0,0
+almond cake with lemon icing,2,2,5,0,0,3,0,0,0
+servings 12,1,2,2,1,2,1,0,0,0
+preparation 15 min,1,1,3,1,2,2,0,0,0
+cooking 40 min,0,1,3,1,2,1,1,0,0
+almond cake https //wwwmilkmaidin/sites/default/files/2020 08/almond,1,0,5,1,6,3,1,0,0
+cake 385x619jpg,2,1,2,1,6,1,0,0,0
+chilled lime pie,2,2,3,0,0,2,1,0,0
+servings 6,1,2,2,1,1,1,0,0,0
+preparation 20 min,1,1,3,1,2,2,0,0,0
+chilling 120 min,0,1,3,1,3,1,1,0,0
+chilled lime,1,0,2,0,0,1,1,0,0
+pie https //wwwmilkmaidin/sites/default/files/2020 08/chilled lime,1,1,5,1,6,3,1,0,0
+pie 1jpg,2,1,2,1,1,1,0,0,0
+apple crumble cake,2,2,3,0,0,2,0,0,0
+servings 8,1,2,2,1,1,1,0,0,0
+preparation 15 min,1,1,3,1,2,2,0,0,0
+baking 30 min,0,1,3,1,2,1,1,0,0
+apple crumble,1,0,2,0,0,2,0,0,0
+recipe https //wwwmilkmaidin/sites/default/files/2022 03/apple crumble,1,1,5,1,6,2,1,0,0
+cake 385x619jpg,2,1,2,1,6,1,0,0,0
+pancake,2,2,1,0,0,1,0,0,0
+servings 4,1,2,2,1,1,1,0,0,0
+preparation 15 min,1,1,3,1,2,2,0,0,0
+cooking 10 min,0,1,3,1,2,1,1,0,0
+pancake https //wwwmilkmaidin/sites/default/files/2022 03/pancake 385x619jpg,2,0,5,1,12,2,1,0,0
+chocolate peda,2,2,2,0,0,2,0,0,0
+servings 6,1,2,2,1,1,1,0,0,0
+preparation 10 min,1,1,3,1,2,2,0,0,0
+cooking 10 min,0,1,3,1,2,1,1,0,0
+chocolate,1,0,1,0,0,1,0,0,0
+peda https //wwwmilkmaidin/sites/default/files/2020 08/chocolate peda 385x619jpeg,2,1,6,1,12,3,1,0,0
+eggless honey cake,2,2,3,0,0,3,0,0,0
+servings 12,1,2,2,1,2,1,0,0,0
+preparation 30 min,1,1,3,1,2,2,0,0,0
+baking 15 min,0,1,3,1,2,1,1,0,0
+eggless honey,1,0,2,0,0,2,0,0,0
+cake https //wwwmilkmaidin/sites/default/files/2020 08/eggless honey cake,1,1,6,1,6,4,0,0,0
+recipe 385x619jpg,2,1,2,1,6,1,0,0,0
+red velvet cupcake,2,2,3,0,0,2,0,1,0
+servings 12,1,2,2,1,2,1,0,0,0
+preparation 15 min,1,1,3,1,2,2,0,0,0
+cooking 15 min,0,1,3,1,2,1,1,0,0
+red velvet cupcake https //wwwmilkmaidin/sites/default/files/2020 08/red,1,0,6,1,6,3,1,1,0
+velvet cupcake 385x619jpg,2,1,3,1,6,1,1,1,0
+eggless american fudge cookies,2,2,4,0,0,2,0,0,0
+servings 12,1,2,2,1,2,1,0,0,0
+preparation 10 min,1,1,3,1,2,2,0,0,0
+baking 14 min,0,1,3,1,2,1,1,0,0
+eggless american fudge,1,0,3,0,0,1,0,0,0
+cookie https //wwwmilkmaidin/sites/default/files/2020 08/eggless american,1,1,5,1,6,2,1,0,0
+fudge cookies recipe 385x619jpg,2,1,4,1,6,2,1,0,0
+eggless lemon oat tart,2,2,4,0,0,3,0,0,0
+servings 6 to 8,1,2,4,1,2,1,0,0,0
+preparation 15 min,1,1,3,1,2,2,0,0,0
+baking 40 min,0,1,3,1,2,1,1,0,0
+lemon oat tart https //wwwmilkmaidin/sites/default/files/2020 08/lemon,1,0,6,1,6,3,1,0,0
+oat tart pic 385x619jpeg,2,1,4,1,6,2,1,0,0
+besan ladoo,2,2,2,0,0,2,0,0,0
+servings 24,1,2,2,1,2,1,0,0,0
+preparation 5 min,1,1,3,1,1,2,0,0,0
+cooking 15 min,0,1,3,1,2,1,1,0,0
+besan ladoo https //wwwmilkmaidin/sites/default/files/2022 03/besan,1,0,5,1,6,2,1,0,0
+ladoo 385x619jpg,2,1,2,1,6,1,0,0,0
+brigadeiros,2,2,1,0,0,1,0,0,0
+servings 8 12,1,2,3,1,3,1,0,0,0
+preparation 10 min,1,1,3,1,2,2,0,0,0
+cooking 15 min,0,1,3,1,2,1,1,0,0
+brigadeiros https //wwwmilkmaidin/sites/default/files/2020 08/brigadeiros 385x619jpg,2,0,5,1,12,1,1,0,0
+caramel squares,2,2,2,0,0,2,0,0,0
+servings 20,1,2,2,1,2,1,0,0,0
+preparation 15 min,1,1,3,1,2,2,0,0,0
+cooking 45 min,0,1,3,1,2,1,1,0,0
+caramel squares,1,0,2,0,0,2,0,0,0
+recipe https //wwwmilkmaidin/sites/default/files/2022 03/caramel,1,1,4,1,6,2,1,0,0
+squares 385x619jpg,2,1,2,1,6,1,0,0,0
+chocolate faces,2,2,2,0,0,1,1,0,0
+servings 8,1,2,2,1,1,1,0,0,0
+preparation 20 min,1,1,3,1,2,2,0,0,0
+cooking 15 min,0,1,3,1,2,1,1,0,0
+chocolate,1,0,1,0,0,1,0,0,0
+face https //wwwmilkmaidin/sites/default/files/2020 08/chocolate,1,1,4,1,6,2,1,0,0
+face 385x619jpg,2,1,2,1,6,1,0,0,0
+rose milk,2,2,2,0,0,1,1,0,0
+servings 6,1,2,2,1,1,1,0,0,0
+preparation 10 min,0,1,3,1,2,2,0,0,0
+rose milk https //wwwmilkmaidin/sites/default/files/2022 03/rose,1,0,5,1,6,2,2,0,0
+milk 385x619jpg,2,1,2,1,6,1,0,0,0
+baked yoghurt with fresh mango,2,2,5,0,0,2,1,0,0
+servings 4,1,2,2,1,1,1,0,0,0
+preparation 10 min,1,1,3,1,2,2,0,0,0
+baking 25 min,0,1,3,1,2,1,1,0,0
+baked yoghurt with fresh,1,0,4,0,0,1,1,0,0
+mango https //wwwmilkmaidin/sites/default/files/2020 08/milkmaid,1,1,4,1,6,2,1,0,0
+banner 232 385x619jpg,2,1,3,1,9,1,0,0,0
+rich milk cake,2,2,3,0,0,2,0,0,0
+servings 6 8,1,2,3,1,2,1,0,0,0
+preparation 30 min,1,1,3,1,2,2,0,0,0
+baking 20 min,0,1,3,1,2,1,1,0,0
+milk cake recipe https //wwwmilkmaidin/sites/default/files/2022 04/rich,1,0,6,1,6,4,1,0,0
+milk cake 385x619jpg,2,1,3,1,6,1,1,0,0
+banana toffee verrine,2,2,3,0,0,3,0,0,0
+servings 10 12,1,2,3,1,4,1,0,0,0
+preparation 120 min,1,1,3,1,3,2,0,0,0
+cooking 15 min,0,1,3,1,2,1,1,0,0
+banana toffee,1,0,2,0,0,2,0,0,0
+verrine https //wwwmilkmaidin/sites/default/files/2020 08/banana toffee,1,1,5,1,6,3,1,0,0
+verrine 385x619jpg,2,1,2,1,6,1,0,0,0
+irani dessert,2,2,2,0,0,2,0,0,0
+servings 10 12,1,2,3,1,4,1,0,0,0
+preparation 5 min,1,1,3,1,1,2,0,0,0
+cooking 45 min,0,1,3,1,2,1,1,0,0
+irani dessert https //wwwmilkmaidin/sites/default/files/2020 08/irani,1,0,5,1,6,3,1,0,0
+desert 385x619 0jpg,2,1,3,1,7,1,0,0,0
+wheat flour apple cake,2,2,4,0,0,4,0,0,0
+servings,1,2,1,0,0,1,0,0,0
+preparation,0,1,1,0,0,1,0,0,0
+wheat flour apple,1,0,3,0,0,3,0,0,0
+cake https //wwwmilkmaidin/sites/default/files/2020 08/wheat flour apple,1,1,6,1,6,4,1,0,0
+cake 385x619jpg,2,1,2,1,6,1,0,0,0
+vanilla ice cream with chocolate sauce,2,2,6,0,0,5,0,0,0
+servings 6,1,2,2,1,1,1,0,0,0
+preparation 10 min,1,1,3,1,2,2,0,0,0
+chilling 300 min,0,1,3,1,3,1,1,0,0
+vanilla ice,1,0,2,0,0,2,0,0,0
+cream https //wwwmilkmaidin/sites/default/files/2020 08/vanilla 3jpg,2,1,5,1,7,2,1,0,0
+mango ice cream,2,2,3,0,0,3,0,0,0
+servings 6,1,2,2,1,1,1,0,0,0
+preparation 25 min,1,1,3,1,2,2,0,0,0
+chilling 360 min,0,1,3,1,3,1,1,0,0
+mango ice,1,0,2,0,0,2,0,0,0
+cream https //wwwmilkmaidin/sites/default/files/2020 08/strawberry,1,1,4,1,6,2,1,0,0
+thumbjpg,2,1,1,0,0,1,0,0,0
+chikoo icecream,2,2,2,0,0,2,0,0,0
+servings 5,1,2,2,1,1,1,0,0,0
+preparation 15 min,1,1,3,1,2,2,0,0,0
+chilling 360 min,0,1,3,1,3,1,1,0,0
+chickoo ice,1,0,2,0,0,2,0,0,0
+cream https //wwwmilkmaidin/sites/default/files/2020 08/chickoo thumbjpg,2,1,5,1,6,3,1,0,0
+sheer kurma,2,2,2,0,0,2,0,0,0
+servings 4,1,2,2,1,1,1,0,0,0
+preparation 10 min,1,1,3,1,2,2,0,0,0
+cooking 20 min,0,1,3,1,2,1,1,0,0
+sheer,1,0,1,0,0,1,0,0,0
+kurma https //wwwmilkmaidin/sites/default/files/2020 08/shahi 3jpg,2,1,5,1,7,2,1,0,0
+truffles,2,2,1,0,0,1,0,0,0
+servings 10,1,2,2,1,2,1,0,0,0
+preparation 10 min,1,1,3,1,2,2,0,0,0
+chilling 120 min,0,1,3,1,3,1,1,0,0
+truffles https //wwwmilkmaidin/sites/default/files/2020 08/truffles 3jpg,2,0,5,1,7,1,1,0,0
+eggless chocolate cake,2,2,3,0,0,3,0,0,0
+servings 12,1,2,2,1,2,1,0,0,0
+preparation 15 min,1,1,3,1,2,2,0,0,0
+cooking 40 min,0,1,3,1,2,1,1,0,0
+chocolate cake https //wwwmilkmaidin/sites/default/files/2022 03/eggless,1,0,5,1,6,3,1,0,0
+chocolate cake 385x619jpg,2,1,3,1,6,2,0,0,0
+jaggery cake,2,2,2,0,0,2,0,0,0
+servings 15,1,2,2,1,2,1,0,0,0
+preparation 20 min,1,1,3,1,2,2,0,0,0
+cooking 40 min,0,1,3,1,2,1,1,0,0
+jaggery,1,0,1,0,0,1,0,0,0
+cake https //wwwmilkmaidin/sites/default/files/2020 08/jaggery 3jpg,2,1,5,1,7,2,1,0,0
+chocolate cookies,2,2,2,0,0,2,0,0,0
+servings 8,1,2,2,1,1,1,0,0,0
+preparation 20 min,1,1,3,1,2,2,0,0,0
+baking 10 min,0,1,3,1,2,1,1,0,0
+cookies https //wwwmilkmaidin/sites/default/files/2020 08/cookies 3jpg,2,0,5,1,7,1,1,0,0
+chocolate cake,2,2,2,0,0,2,0,0,0
+servings 12,1,2,2,1,2,1,0,0,0
+preparation 15 min,1,1,3,1,2,2,0,0,0
+cooking 40 min,0,1,3,1,2,1,1,0,0
+chocolate https //wwwmilkmaidin/sites/default/files/2022 03/chocolate,1,0,4,1,6,2,1,0,0
+cake 385x619jpg,2,1,2,1,6,1,0,0,0
+rabdi,2,2,1,0,0,1,0,0,0
+servings 10,1,2,2,1,2,1,0,0,0
+preparation 5 min,1,1,3,1,1,2,0,0,0
+cooking 15 min,0,1,3,1,2,1,1,0,0
+rabdi https //wwwmilkmaidin/sites/default/files/2022 03/rabadi 385x619jpg,2,0,5,1,12,2,1,0,0
+sooji ladoo,2,2,2,0,0,2,0,0,0
+servings 24,1,2,2,1,2,1,0,0,0
+preparation 5 min,1,1,3,1,1,2,0,0,0
+cooking 15 min,0,1,3,1,2,1,1,0,0
+sooji ladoo https //wwwmilkmaidin/sites/default/files/2022 03/sooji,1,0,5,1,6,3,1,0,0
+ladoo 385x619jpg,2,1,2,1,6,1,0,0,0
+gulab jamun,2,2,2,0,0,2,0,0,0
+servings 30 35,1,2,3,1,4,1,0,0,0
+preparation 10 min,1,1,3,1,2,2,0,0,0
+cooking 10 min,0,1,3,1,2,1,1,0,0
+gulab jamun https //wwwmilkmaidin/sites/default/files/2022 03/gulab,1,0,5,1,6,3,1,0,0
+jamun 385x619jpg,2,1,2,1,6,1,0,0,0
+eggless red velvet cup cake,2,2,5,0,0,3,1,1,0
+servings 15,1,2,2,1,2,1,0,0,0
+preparation 25 min,1,1,3,1,2,2,0,0,0
+cooking 15 min,0,1,3,1,2,1,1,0,0
+eggless red velvet cup,1,0,4,0,0,3,0,1,0
+cake https //wwwmilkmaidin/sites/default/files/2020 12/egglessred velvet,1,1,5,1,6,3,1,0,0
+cupcake 385x619jpg,2,1,2,1,6,1,0,1,0
+oats modak,2,2,2,0,0,1,1,0,0
+servings 8,1,2,2,1,1,1,0,0,0
+preparation 15 min,1,1,3,1,2,2,0,0,0
+cooking 20 min,0,1,3,1,2,1,1,0,0
+oats modak 3 https //wwwmilkmaidin/sites/default/files/2022 04/oats,1,0,6,1,7,2,1,0,0
+modak 385x619jpg,2,1,2,1,6,1,0,0,0
+orange modak,2,2,2,0,0,2,0,0,0
+servings 8,1,2,2,1,1,1,0,0,0
+preparation 15 min,1,1,3,1,2,2,0,0,0
+cooking 20 min,0,1,3,1,2,1,1,0,0
+orange modak2 https //wwwmilkmaidin/sites/default/files/2021 08/orange,1,0,5,1,7,3,1,0,0
+modak 385x619png,2,1,2,1,6,1,0,0,0
+orange kheer,2,2,2,0,0,2,0,0,0
+servings 4 6,1,2,3,1,2,1,0,0,0
+preparation 5 min,1,1,3,1,1,2,0,0,0
+cooking 25 min,0,1,3,1,2,1,1,0,0
+orange,1,0,1,0,0,1,0,0,0
+kheer https //wwwmilkmaidin/sites/default/files/2022 01/orangekheer,1,1,4,1,6,2,1,0,0
+thumbnail 385x619 20 281 29jpg,2,1,5,1,13,1,0,0,0
+choco nutty gujiya,2,2,3,0,0,2,0,0,0
+servings 10,1,2,2,1,2,1,0,0,0
+preparation 20 min,1,1,3,1,2,2,0,0,0
+cooking 15 min,0,1,3,1,2,1,1,0,0
+choco nutty,1,0,2,0,0,2,0,0,0
+gujiya https //wwwmilkmaidin/sites/default/files/2022 03/choco nutty,1,1,5,1,6,3,1,0,0
+gujiya 385x619jpg,2,1,2,1,6,1,0,0,0
+thandai milk cake,2,2,3,0,0,3,0,0,0
+servings 6,1,2,2,1,1,1,0,0,0
+preparation 15 min,1,1,3,1,2,2,0,0,0
+cooking 30 min,0,1,3,1,2,1,1,0,0
+thandai milk cake,1,0,3,0,0,3,0,0,0
+https //wwwmilkmaidin/sites/default/files/2022 03/thandai milk,1,1,4,1,6,2,1,0,0
+cake 385x619jpg,2,1,2,1,6,1,0,0,0
+tutti frutti sheer khurma,2,2,4,0,0,3,1,0,0
+servings 6,1,2,2,1,1,1,0,0,0
+preparation 5 min,1,1,3,1,1,2,0,0,0
+cooking 20 min,0,1,3,1,2,1,1,0,0
+tutti frutti sheer,1,0,3,0,0,3,0,0,0
+khurma https //wwwmilkmaidin/sites/default/files/2022 03/tutti frutti,1,1,5,1,6,3,1,0,0
+sheer khurma 385x619jpg,2,1,3,1,6,1,1,0,0
+choco nutty payasam,2,2,3,0,0,2,0,0,0
+servings 6,1,2,2,1,1,1,0,0,0
+preparation 5 min,1,1,3,1,1,2,0,0,0
+cooking 20 min,0,1,3,1,2,1,1,0,0
+choco nutty payasam,1,0,3,0,0,2,0,0,0
+https //wwwmilkmaidin/sites/default/files/2022 03/choco nutty,1,1,4,1,6,2,1,0,0
+payasam 385x619jpg,2,1,2,1,6,1,0,0,0
+quinoa payasam,2,2,2,0,0,2,0,0,0
+servings 6,1,2,2,1,1,1,0,0,0
+preparation 10 min,1,1,3,1,2,2,0,0,0
+cooking 35 min,0,1,3,1,2,1,1,0,0
+quinoa payasam,1,0,2,0,0,2,0,0,0
+https //wwwmilkmaidin/sites/default/files/2022 03/quinoa,1,1,3,1,6,1,1,0,0
+payasam 385x619 0jpg,2,1,3,1,7,1,0,0,0
+mango shahi tukda,2,2,3,0,0,3,0,0,0
+servings 8,1,2,2,1,1,1,0,0,0
+preparation 10 min,1,1,3,1,2,2,0,0,0
+cooking 10 min,0,1,3,1,2,1,1,0,0
+mango shahi,1,0,2,0,0,2,0,0,0
+tukda https //wwwmilkmaidin/sites/default/files/2022 03/mango shahi,1,1,5,1,6,3,1,0,0
+tukda 385x619jpg,2,1,2,1,6,1,0,0,0
+irani chai,2,2,2,0,0,2,0,0,0
+servings 6,1,2,2,1,1,1,0,0,0
+preparation 5 min,1,1,3,1,1,2,0,0,0
+cooking 40 min,0,1,3,1,2,1,1,0,0
+irani chai https //wwwmilkmaidin/sites/default/files/2022 03/irani,1,0,5,1,6,3,1,0,0
+chai 385x619jpg,2,1,2,1,6,1,0,0,0
+related blogs,2,2,2,0,0,1,0,0,0
+ramadan recipes celebrate ramadan with these iftar dessert recipes,2,2,9,0,0,6,1,0,0
+know more,0,2,2,0,0,0,1,0,0
+best ramadan,1,0,2,0,0,1,0,0,0
+recipes https //wwwmilkmaidin/sites/default/files/2022 04/ramadan 20article 20lp 393x396jpg,2,1,7,1,16,1,1,0,0
+bring in spring with these delicious fruit desserts,2,2,8,0,0,4,0,0,0
+know more,0,2,2,0,0,0,1,0,0
+best delicious,1,0,2,0,0,0,0,0,0
+recipes https //wwwmilkmaidin/sites/default/files/2022 04/milkmaid fruit,1,1,5,1,6,2,1,0,0
+desert 393x396jpg,2,1,2,1,6,1,0,0,0
+treat your taste buds this spring with 7 delicious ice cream recipes,2,2,12,1,1,5,1,0,0
+know more,0,2,2,0,0,0,1,0,0
+best ice cream,1,0,3,0,0,2,0,0,0
+recipes https //wwwmilkmaidin/sites/default/files/2022 04/milkmaid ice,1,1,5,1,6,2,1,0,0
+cream 393x396jpg,2,1,2,1,6,1,0,0,0
+beat the summer heat with these 6 mango dessert recipes,2,2,10,1,1,6,0,0,0
+know more,0,2,2,0,0,0,1,0,0
+best mango,1,0,2,0,0,1,0,0,0
+recipes https //wwwmilkmaidin/sites/default/files/2022 04/milkmaid mango,1,1,5,1,6,2,1,0,0
+desert 393x396jpg,2,1,2,1,6,1,0,0,0
+quick and easy dessert recipes for your dinner parties,2,2,9,0,0,5,0,0,0
+know more,0,2,2,0,0,0,1,0,0
+best dessert,1,0,2,0,0,1,0,0,0
+recipes https //wwwmilkmaidin/sites/default/files/2020 06/393x396 dessert 0jpg,2,1,6,1,13,2,1,0,0
+smoothie recipes you must try this summer,2,2,7,0,0,3,1,0,0
+know more,0,2,2,0,0,0,1,0,0
+best smoothie,1,0,2,0,0,1,0,0,0
+recipes https //wwwmilkmaidin/sites/default/files/2022 04/milkmaid,1,1,4,1,6,1,1,0,0
+smoothi 393x396jpg,2,1,2,1,6,1,0,0,0
+view all blogs,0,2,3,0,0,2,0,0,0
+right,1,0,1,0,0,1,0,0,0
+arrow /themes/custom/milkmaid/common/images/view alliconpng,2,1,3,0,0,3,0,0,0
+1 home,1,2,2,1,1,1,0,0,0
+2 all recipes,1,1,3,1,1,1,0,0,0
+3 rasmalai,2,1,2,1,1,1,0,0,0
+indian mithai,2,2,2,0,0,1,0,0,0
+winter special,2,2,2,0,0,1,0,0,0
+others,2,2,1,0,0,1,0,0,0
+rasmalai,2,2,1,0,0,1,0,0,0
+rasmalai,2,2,1,0,0,1,0,0,0
+follow us on,2,2,3,0,0,0,1,0,0
+privacy policy,1,2,2,0,0,2,0,0,0
+terms conditions,1,1,2,0,0,2,0,0,0
+contact us,2,1,2,0,0,1,0,0,0
+copyright 2020 nestl all rights reserved,2,2,6,1,4,2,1,0,0
+nestl india is not an e commerce entity the information on this website is intended to provide general information about our product for the benefit of consumers,2,2,27,0,0,10,4,0,0

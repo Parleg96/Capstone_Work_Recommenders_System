@@ -1,0 +1,319 @@
+Sentence,newline_after,newline_before,nwords,numbers,nnumbers,nnouns,nverbs,nunits ,label
+header right,2,0,2,0,0,2,0,0,0
+recipes in hindi,2,2,3,0,0,2,0,0,0
+recipes in gujarati,2,2,3,0,0,2,0,0,0
+cocktails,2,2,1,0,0,1,0,0,0
+top 10,1,2,2,1,2,0,0,0,0
+snacks,1,1,1,0,0,1,0,0,0
+breakfasts,1,1,1,0,0,1,0,0,0
+side dishes,1,1,2,0,0,2,0,0,0
+curries,1,1,1,0,0,1,0,0,0
+sweets desserts,1,1,2,0,0,2,0,0,0
+gallery,1,1,1,0,0,1,0,0,0
+vegetarian step by step,1,1,4,0,0,2,0,0,0
+juice smoothie milkshake,1,1,3,0,0,2,1,0,0
+popular,1,1,1,0,0,0,0,0,0
+manchurian,1,1,1,0,0,1,0,0,0
+paneer dishes,1,1,2,0,0,2,0,0,0
+chaat and tikki,1,1,3,0,0,2,0,0,0
+dhokla,1,1,1,0,0,1,0,0,0
+bhindi curries,1,1,2,0,0,2,0,0,0
+step by step,1,1,3,0,0,2,0,0,0
+step by step recipes,1,1,4,0,0,3,0,0,0
+courses,1,1,1,0,0,1,0,0,0
+breakfast,1,1,1,0,0,1,0,0,0
+starters,1,1,1,0,0,1,0,0,0
+lunch,1,1,1,0,0,1,0,0,0
+dinner,1,1,1,0,0,1,0,0,0
+desserts,1,1,1,0,0,1,0,0,0
+indian,1,1,1,0,0,0,0,0,0
+roti paratha,1,1,2,0,0,2,0,0,0
+curries,1,1,1,0,0,1,0,0,0
+rice and pulao,1,1,3,0,0,2,0,0,0
+daal kadhi,1,1,2,0,0,2,0,0,0
+snacks,1,1,1,0,0,1,0,0,0
+regional,1,1,1,0,0,0,0,0,0
+gujarati,1,1,1,0,0,1,0,0,0
+punjabi,1,1,1,0,0,1,0,0,0
+south indian,1,1,2,0,0,1,0,0,0
+north indian,1,1,2,0,0,0,0,0,0
+maharashtrian,1,1,1,0,0,1,0,0,0
+festival,1,1,1,0,0,1,0,0,0
+diwali,1,1,1,0,0,1,0,0,0
+navratri,1,1,1,0,0,1,0,0,0
+christmas,0,1,1,0,0,1,0,0,0
+cham cham https //cdn1foodvivacom/static content/food images/bengali,1,0,6,1,1,5,0,0,0
+recipes/cham cham/cham cham 250jpg,0,1,4,1,3,3,0,0,0
+rasgulla https //cdn1foodvivacom/static content/food images/desserts,1,0,5,1,1,4,0,0,0
+sweets recipes/rasgulla/rasgulla 250jpg,0,1,3,1,3,1,1,0,0
+sandesh sondesh https //cdn2foodvivacom/static content/food,1,0,5,1,1,2,0,0,0
+images/bengali recipes/sandesh sondesh/sandesh sondesh 250jpg,0,1,5,1,3,3,0,0,0
+apple kheer https //cdn2foodvivacom/static content/food images/desserts,1,0,6,1,1,5,0,0,0
+sweets recipes/apple kheer/apple kheer 250jpg,0,1,5,1,3,2,1,0,0
+rabri https //cdn3foodvivacom/wp content/themes/foodie,1,0,4,1,1,4,0,0,0
+pro/images/blankgif,0,1,1,0,0,1,0,0,0
+double ka meetha https //cdn3foodvivacom/wp content/themes/foodie,1,0,6,1,1,5,0,0,0
+pro/images/blankgif,0,1,1,0,0,1,0,0,0
+dudhi halwa lauki ka halwa https //cdn3foodvivacom/wp,1,0,7,1,1,7,0,0,0
+content/themes/foodie pro/images/blankgif,2,1,2,0,0,2,0,0,0
+home sweets rasmalai,2,2,3,0,0,2,1,0,0
+rasmalai recipe with step by step photos,2,2,7,0,0,5,0,0,0
+13 votes and 18 comments,2,2,5,1,4,2,0,0,0
+bengali recipes desserts sweets,2,2,4,0,0,3,1,0,0
+rasmalai soft and spongy cottage cheese patties in dry fruit laced saffron,1,2,12,0,0,5,1,0,0
+flavored creamy milk rabri this step by step photo recipe explains how to,1,1,13,0,0,6,2,0,0
+make ras malai at home from scratch with homemade chhena fresh paneer and,1,1,13,0,0,5,2,0,0
+thick milk rabri as well as how to make it instantly in just 15 minutes,1,1,15,1,2,3,1,0,0
+using readymade rasgulla and condensed milk no matter which way you are going,1,1,13,0,0,5,4,0,0
+to prepare this delicious bengali sweet cum dessert recipe will become your,1,1,12,0,0,4,2,0,0
+favorite way to satisfy your sweet cravings,0,1,7,0,0,2,1,0,0
+bengali ras malai recipe https //cdn3foodvivacom/static content/food,1,0,7,1,1,4,1,0,0
+images/desserts sweets recipes/rasmalai/rasmalaijpg,2,1,3,0,0,2,1,0,0
+more desserts sweets recipes,2,2,4,0,0,3,0,0,0
+apple kheer,1,2,2,0,0,2,0,0,0
+gulab jamun with gits ready mix,1,1,6,0,0,4,0,0,0
+kaju katli,1,1,2,0,0,2,0,0,0
+suji ka halwa,2,1,3,0,0,3,0,0,0
+preparation time 15 minutes,2,2,4,1,2,3,0,0,0
+cooking time 45 minutes,2,2,4,1,2,3,0,0,0
+serves 6 servings 12 pieces,2,2,5,1,3,3,0,0,0
+print recipe,2,2,2,0,0,2,0,0,0
+cooking measurements,2,2,2,0,0,2,0,0,0
+rasmalai recipe in hindi,2,2,4,0,0,3,0,0,0
+rasmalai recipe in gujarati,2,2,4,0,0,3,0,0,0
+ingredients for malai pattie chhena pattie,1,2,6,0,0,5,0,0,0
+1 liter milk,1,1,3,1,1,1,0,0,1
+2 tablespoons lemon juice,1,1,4,1,1,2,0,1,1
+1 cups sugar,1,1,3,1,1,2,0,1,1
+4 cups water,1,1,3,1,1,2,0,1,1
+for rabri,1,1,2,0,0,1,0,0,0
+1 liter milk,1,1,3,1,1,1,0,0,1
+3 tablespoons sugar,1,1,3,1,1,2,0,1,1
+1 teaspoon corn flour corn starch optional,1,1,7,1,1,5,1,1,1
+10 12 saffron strands kesar optional,1,1,6,1,4,2,1,0,1
+1/4 teaspoon green cardamom powder,1,1,5,1,2,3,0,1,1
+2 3 tablespoons chopped pistachio,1,1,5,1,2,2,1,1,1
+how to make instant rasmalai easy recipe,2,1,7,0,0,2,1,0,0
+to make it in shortest possible time we need to use readymade rasgullas and,1,2,14,0,0,2,3,0,0
+condensed milk to make rabri,2,1,5,0,0,2,2,0,0
+1 take readymade rasgullas and drain excess liquid by pressing each ball gently between two flat spatulas or spoon,1,2,19,1,1,8,1,0,0
+2 make rabri by cooking 1/2 cup condensed milk 2 cups milk and 10 12 saffron strands until thick and creamy,1,1,21,1,8,8,2,1,0
+3 add drained rasgullas and 2 tablespoons chopped pistachio in cooked rabri and cook for 5 minutes instant rasmalai is ready,2,1,21,1,3,8,3,1,0
+directions,2,2,1,0,0,1,0,0,0
+1,0,2,1,1,1,0,0,0,0
+step 1 https //cdn3foodvivacom/wp content/themes/foodie pro/images/blankgif,2,0,6,1,2,5,0,0,0
+make fresh paneer chhena using 1 liter milk and 2 tablespoons lemon juice,1,2,13,1,2,5,2,1,0
+take a clean muslin cloth or cheesecloth and tie chhena in it squeeze it,1,1,14,0,0,4,2,0,0
+gently to remove excess water and hang it over the hook or tap for around,1,1,15,0,0,4,1,0,0
+30 45 minutes to drain the excess water see detailed steps 1 to 5 with,1,1,15,1,6,3,2,0,0
+photos in this recipe of chhena,2,1,6,0,0,3,0,0,0
+2,0,2,1,1,1,0,0,0,0
+step 2 https //cdn3foodvivacom/wp content/themes/foodie pro/images/blankgif,2,0,6,1,2,5,0,0,0
+after about 30 minutes untie the muslin cloth and transfer chhena to a plate,2,2,14,1,2,5,2,0,0
+3,0,2,1,1,1,0,0,0,0
+step 3 https //cdn3foodvivacom/wp content/themes/foodie pro/images/blankgif,2,0,6,1,2,5,0,0,0
+crumble the chhena with hand it should be crumbly yet little moist if it,1,2,14,0,0,3,1,0,0
+has too much moisture rasmalai may break while cooking to remove excess,1,1,12,0,0,3,4,0,0
+moisture press chenna gently between paper napkins,2,1,7,0,0,5,0,0,0
+4,0,2,1,1,1,0,0,0,0
+step 4 https //cdn3foodvivacom/wp content/themes/foodie pro/images/blankgif,2,0,6,1,2,5,0,0,0
+mash and knead crumbled chhena with hand until it comes together and turns,1,2,13,0,0,4,3,0,0
+into dough stop kneading when your palm starts to turn greasy it will take,1,1,14,0,0,3,3,0,0
+around 5 8 minutes depending on the quality and quantity of chhena prepared,1,1,13,1,2,4,2,0,0
+from milk,2,1,2,0,0,1,0,0,0
+5,0,2,1,1,1,0,0,0,0
+step 5 https //cdn3foodvivacom/wp content/themes/foodie pro/images/blankgif,2,0,6,1,2,5,0,0,0
+divide it into 12 equal portions make a small ball from each portion press,1,2,14,1,2,4,2,1,0
+it gently between your palms to flatten it and turn into round pattie as shown,1,1,15,0,0,2,3,0,0
+it the photo pattie should be thick do not press it too much otherwise it,1,1,15,0,0,2,3,0,0
+may turn thin from sides and it will break from sides while cooking,2,1,13,0,0,2,3,0,0
+6,0,2,1,1,1,0,0,0,0
+step 6 https //cdn3foodvivacom/wp content/themes/foodie pro/images/blankgif,2,0,6,1,2,5,0,0,0
+take 4 cups water and 1 cups sugar in a deep pan or in a pressure cooker and,1,2,18,1,2,7,1,1,0
+start to heat over medium flame stir water with spatula to dissolve the sugar,1,1,14,0,0,7,1,1,0
+completely when it comes to rolling boil gently slide all patties one piece,1,1,13,0,0,3,2,0,0
+at a time from the side,2,1,6,0,0,2,0,0,0
+7,0,2,1,1,1,0,0,0,0
+step 7 https //cdn3foodvivacom/wp content/themes/foodie pro/images/blankgif,2,0,6,1,2,5,0,0,0
+cover pan with a lid if using pressure cooker remove whistle and rubber ring,1,2,14,0,0,8,2,0,0
+from the lid and then cover it and boil for 5 minutes over medium flame,1,1,15,1,1,4,2,1,0
+after about 5 minutes open the lid and flip each pattie gently with a,1,1,14,1,1,3,2,0,0
+spatula,2,1,1,0,0,1,0,0,0
+8,0,2,1,1,1,0,0,0,0
+step 8 https //cdn3foodvivacom/wp content/themes/foodie pro/images/blankgif,2,0,6,1,2,5,0,0,0
+again cover with a lid and cook for 7 minutes turn off the flame and remove,1,2,16,1,1,5,2,0,0
+the lid as you can see size of the pattie increases to almost double after,1,1,15,0,0,3,3,0,0
+cooking in sugar syrup this is due to chhena absorbing the sugar syrup,2,1,13,0,0,5,3,0,0
+9,0,2,1,1,1,0,0,0,0
+step 9 https //cdn3foodvivacom/wp content/themes/foodie pro/images/blankgif,2,0,6,1,2,5,0,0,0
+transfer it gently to a large bowl and let it cool to room temperature for 1 2,1,2,17,1,2,4,2,0,0
+hours after that drain each pattie and press gently between two spoons to,1,1,13,0,0,4,1,0,0
+remove excess sugar syrup be gentle while doing this process as it may break,1,1,14,0,0,4,5,0,0
+if you apply too much pressure,2,1,6,0,0,1,1,0,0
+10,0,2,1,1,2,0,0,0,0
+step 10 https //cdn3foodvivacom/wp content/themes/foodie pro/images/blankgif,2,0,6,1,3,5,0,0,0
+lets start to make rabri pour 1 liter milk in a heavy based pan thick,1,2,15,1,1,5,4,0,0
+bottomed pan and heat it over medium flame when it comes to rolling boil,1,1,14,0,0,5,3,1,0
+reduce flame to low and add saffron strands,2,1,8,0,0,2,2,0,0
+11,0,2,1,1,2,0,0,0,0
+step 11 https //cdn3foodvivacom/wp content/themes/foodie pro/images/blankgif,2,0,6,1,3,5,0,0,0
+stir at regular intervals in between to prevent sticking and cook until its,1,2,13,0,0,4,1,0,0
+quantity reduces to half it will take around 15 minutes you can also cook it,1,1,15,1,2,3,3,0,0
+over medium flame to speed up the process but make sure that milk doesn t burn,1,1,16,0,0,7,2,1,0
+and stick at the bottom of the pan stir frequently to prevent it from,1,1,14,0,0,3,2,0,0
+burning mix 1 teaspoon of corn flour with 1 tablespoon water and make sure,1,1,14,1,2,6,2,1,0
+that it doesn t have any lumps add 3 tablespoons sugar corn flour water,1,1,14,1,1,6,4,1,0
+mixture and 1/4 teaspoon cardamom powder,2,1,6,1,2,4,0,1,0
+12,0,2,1,1,2,0,0,0,0
+step 12 https //cdn3foodvivacom/wp content/themes/foodie pro/images/blankgif,2,0,6,1,3,5,0,0,0
+increase flame to medium stir continuously and cook for around 3 4 minutes,1,2,13,1,2,4,2,1,0
+until sugar dissolves add drained patties and chopped pistachio,2,1,9,0,0,3,3,0,0
+13,0,2,1,1,2,0,0,0,0
+step 13 https //cdn3foodvivacom/wp content/themes/foodie pro/images/blankgif,2,0,6,1,3,5,0,0,0
+cook for 4 5 minutes this helps pattie absorb the milk and get the flavor,1,2,15,1,2,4,3,0,0
+from inside as well,2,1,4,0,0,0,0,0,0
+14,0,2,1,1,2,0,0,0,0
+step 14 https //cdn3foodvivacom/wp content/themes/foodie pro/images/blankgif,2,0,6,1,3,5,0,0,0
+turn off the flame and transfer it to serving bowl let it cool to room,1,2,15,0,0,3,5,0,0
+temperature and then place it in refrigerator for at least 2 3 hours serve,1,1,14,1,2,3,2,0,0
+chilled ras malai as a dessert,2,1,6,0,0,2,1,0,0
+tips and variations,2,2,3,0,0,2,0,0,0
+if possible use cow s milk to make rasmalai pattie as it will softer texture,1,2,15,0,0,6,2,0,0
+chhena should have right moisture consistency little moist and not dry to make perfect pattie,1,1,15,0,0,5,2,0,0
+you can add crumbled paneer or mawa to thicken the rabri as well as to get authentic chunky texture,1,1,19,0,0,5,3,0,0
+add dry fruits of your choice like sliced almonds cashew nuts etc for variation,2,1,14,0,0,5,3,1,0
+taste sweet,2,2,2,0,0,2,0,0,0
+serving ideas serve rasmalai as a sweet dish along with meal or as a dessert,1,2,15,0,0,5,2,0,0
+after dinner,2,1,2,0,0,1,0,0,0
+author foram,2,2,2,0,0,2,0,0,0
+related step by step recipes,0,2,5,0,0,3,0,0,0
+cham cham https //cdn3foodvivacom/wp content/themes/foodie,1,0,5,1,1,5,0,0,0
+pro/images/blankgif,2,1,1,0,0,1,0,0,0
+cham cham,0,2,2,0,0,2,0,0,0
+rasgulla https //cdn3foodvivacom/wp content/themes/foodie,1,0,4,1,1,4,0,0,0
+pro/images/blankgif,2,1,1,0,0,1,0,0,0
+rasgulla,0,2,1,0,0,1,0,0,0
+sandesh sondesh https //cdn3foodvivacom/wp content/themes/foodie,1,0,5,1,1,3,0,0,0
+pro/images/blankgif,2,1,1,0,0,1,0,0,0
+sandesh sondesh,0,2,2,0,0,1,0,0,0
+apple kheer https //cdn3foodvivacom/wp content/themes/foodie,1,0,5,1,1,5,0,0,0
+pro/images/blankgif,2,1,1,0,0,1,0,0,0
+apple kheer,0,2,2,0,0,2,0,0,0
+rabri https //cdn3foodvivacom/wp content/themes/foodie,1,0,4,1,1,4,0,0,0
+pro/images/blankgif,2,1,1,0,0,1,0,0,0
+rabri,0,2,1,0,0,1,0,0,0
+double ka meetha https //cdn3foodvivacom/wp content/themes/foodie,1,0,6,1,1,5,0,0,0
+pro/images/blankgif,2,1,1,0,0,1,0,0,0
+double ka meetha,0,2,3,0,0,2,0,0,0
+dudhi halwa lauki ka halwa https //cdn3foodvivacom/wp,1,0,7,1,1,7,0,0,0
+content/themes/foodie pro/images/blankgif,2,1,2,0,0,2,0,0,0
+dudhi halwa lauki ka halwa,0,2,5,0,0,5,0,0,0
+kaddu ki kheer https //cdn3foodvivacom/wp content/themes/foodie,1,0,6,1,1,5,1,0,0
+pro/images/blankgif,2,1,1,0,0,1,0,0,0
+kaddu ki kheer,2,2,3,0,0,2,1,0,0
+other step by step recipes,2,2,5,0,0,3,0,0,0
+aloo methi curry dry,1,2,4,0,0,4,0,0,0
+green chilli chutney,1,1,3,0,0,2,0,0,0
+chole chana masala,1,1,3,0,0,3,0,0,0
+garlic chutney,2,1,2,0,0,1,0,0,0
+post a comment fields are required,1,2,6,0,0,3,2,0,0
+name,1,1,1,0,0,1,0,0,0
+email,1,1,1,0,0,1,0,0,0
+rating,1,1,1,0,0,1,0,0,0
+comment,1,1,1,0,0,1,0,0,0
+check this box to confirm you are not a robot,1,1,10,0,0,2,3,0,0
+18 comments,2,1,2,1,2,1,0,0,0
+jan 19 2021 by anjali,2,2,5,1,6,2,0,0,0
+can we see the inside of the balls please,0,2,9,0,0,3,1,0,0
+like a photo of one cut in half so,1,0,9,0,0,2,0,0,0
+we can see the structure inside,0,1,6,0,0,1,1,0,0
+thanks,2,0,1,0,0,1,0,0,0
+response hi anjali i will upload the photo when i make it next time,2,2,14,0,0,7,2,0,0
+sep 09 2020 by shilpa,2,2,5,1,6,1,0,0,0
+can i use milk powder for making rasmalai like milk powder instead of milk,0,2,14,0,0,7,2,0,0
+response hello shilpa i have never tried making rasmalai using milk,1,0,11,0,0,6,4,0,0
+powder so i m not sure about that,2,1,8,0,0,1,1,0,0
+oct 28 2017 by navjeet saggu,2,2,6,1,6,2,0,0,0
+hello there i have tried most of your recipes they all turned out great i,1,2,15,0,0,4,3,0,0
+just made the ras malai first the first time it looks great i will be trying,1,1,16,0,0,3,5,0,0
+it tomorrow with some friends and family it looks really good so i can t,1,1,15,0,0,3,2,0,0
+wait thank you,2,1,3,0,0,2,0,0,0
+jul 06 2017 by anshul,2,2,5,1,6,2,0,0,0
+hi its a very nice recipe but when i made it the rasmalai was greasy,1,2,15,0,0,3,3,0,0
+leaving a coat of ghee on tongue please suggest,2,1,9,0,0,4,2,0,0
+response don t knead the chenna too much to prevent rasmalai from,1,2,12,0,0,5,2,0,0
+turning greasy,2,1,2,0,0,1,1,0,0
+jan 13 2017 by meenu,2,2,5,1,6,2,0,0,0
+thanks for the delicious receipe i tried this my rasgullas were soft and,1,2,13,0,0,4,2,0,0
+spongy at room temp but when i kept in refrigerator they turned hard tried,1,1,14,0,0,4,2,0,0
+2 3 times but happened the same please guide me,2,1,10,1,2,2,2,0,0
+response hello meenu follow the given tips to prevent rasgullas from,1,2,11,0,0,5,3,0,0
+turning hard,1,1,2,0,0,0,1,0,0
+1 keep the rasgullas in a container in the refrigerator,1,1,10,1,1,3,1,0,0
+2 remove them from the refrigerator at least 30 minutes before serving,2,1,12,1,3,2,2,0,0
+aug 17 2016 by zeeshan,2,2,5,1,6,1,0,0,0
+very nicely explained i tried for first time and the taste was good but my,1,2,15,0,0,3,3,0,0
+paneer patties broke only 4 were good others got dissolved what could be the,1,1,14,1,1,3,5,0,0
+reason,0,1,1,0,0,1,0,0,0
+response thank you zeeshan for trying the recipe it happens if the,1,0,12,0,0,3,3,0,0
+chenna is too wet excess moisture,2,1,6,0,0,2,1,0,0
+jul 17 2016 by mr khera,2,2,6,1,6,3,0,0,0
+i love rasmalai but my patties were hard i don t know why it was like this,1,2,17,0,0,5,5,0,0
+and the rabri goes on consistent so plz help me out,2,1,11,0,0,2,2,0,0
+response thank you mr khera for trying the recipe the main reason,1,2,12,0,0,4,3,0,0
+behind hard rasmalai is the dry chenna if the chenna has not enough moisture,1,1,14,0,0,4,2,0,0
+the rasmalai will turn hard,2,1,5,0,0,1,1,0,0
+jul 05 2016 by mr khera,2,2,6,1,6,3,0,0,0
+awesome explanation of the recipe,1,2,5,0,0,2,0,0,0
+it was very yummy as i tried it for the first time really very delicious,2,1,15,0,0,2,2,0,0
+jun 18 2016 by bina,2,2,5,1,6,2,0,0,0
+my husband loves rasmalai and was very worried that the cheese balls will,1,2,13,0,0,2,2,0,0
+break when boiling in the hot sugar syrup thankfully it didn t will make a,1,1,15,0,0,5,2,0,0
+bigger batch tomorrow he s in for a treat thank you for showing us step by,1,1,16,0,0,5,2,0,0
+step,2,1,1,0,0,1,0,0,0
+apr 15 2016 by sonia,2,2,5,1,6,1,0,0,0
+thank you thank you thank you so much you explained the recipe so well i,1,2,15,0,0,2,4,0,0
+tried rassmalai first time and it came out so well,2,1,10,0,0,2,1,0,0
+response hi sonia glad to hear that it turned out well,2,2,11,0,0,4,2,0,0
+mar 04 2016 by ankita,2,2,5,1,6,2,0,0,0
+i love rasmalai but my patties are soft in touch and also in taste gilgili,1,2,15,0,0,6,2,0,0
+kind of can you tell me the reason why patties are flabby instead of spongey,0,1,15,0,0,4,2,0,0
+response hi ankita it happens if the chhena has excess moisture or they,1,0,13,0,0,4,2,0,0
+are not cooked enough when you try next time if it looks like chenna has too,1,1,16,0,0,2,5,0,0
+much moisture press it between papaer napkin to get rid of excess moisture,2,1,13,0,0,3,1,0,0
+mar 03 2016 by paritosh panda,2,2,6,1,6,3,0,0,0
+nice recipe simple words try at home excellent,2,2,8,0,0,5,1,0,0
+mar 01 2016 by arati panchariya,2,2,6,1,6,3,0,0,0
+very nice recipei tried it,2,2,5,0,0,1,1,0,0
+mar 01 2016 by savita,2,2,5,1,6,2,0,0,0
+so good thank you so much,2,2,6,0,0,1,0,0,0
+nov 21 2015 by shruthi,2,2,5,1,6,1,0,0,0
+superb explanation tried it loved itthank you so much,2,2,9,0,0,2,2,0,0
+oct 22 2015 by shubhangi,2,2,5,1,6,1,0,0,0
+the patties were coarse in texture otherwise wonderfulll,2,2,8,0,0,3,2,0,0
+sep 01 2015 by swetha,2,2,5,1,6,1,0,0,0
+delicious recipe for rasmalai it was easy to make,2,2,9,0,0,2,2,0,0
+aug 01 2015 by hiral,2,2,5,1,6,0,0,0,0
+very nice i love rasmalai,2,2,5,0,0,2,1,0,0
+primary sidebar,2,2,2,0,0,1,0,0,0
+like our recipes,0,2,3,0,0,1,0,0,0
+follow us,0,0,2,0,0,0,1,0,0
+https //cdn3foodvivacom/wp content/themes/foodie pro/images/blankgif,2,0,4,1,1,4,0,0,0
+recent recipes,2,2,2,0,0,1,0,0,0
+poha chivda fried,1,2,3,0,0,2,1,0,0
+apple halwa,1,1,2,0,0,2,0,0,0
+roasted poha chivda,2,1,3,0,0,2,1,0,0
+popular,2,2,1,0,0,0,0,0,0
+step by step,1,2,3,0,0,2,0,0,0
+snacks,1,1,1,0,0,1,0,0,0
+paneer curries and starters,1,1,4,0,0,3,0,0,0
+street food chaats,2,1,3,0,0,3,0,0,0
+food gallery,0,2,2,0,0,2,0,0,0
+photo gallery,0,0,2,0,0,2,0,0,0
+photo gallery,0,0,2,0,0,2,0,0,0
+photo gallery,0,0,2,0,0,2,0,0,0
+photo gallery,2,0,2,0,0,2,0,0,0
+view more photos in gallery,2,2,5,0,0,3,0,0,0
+footer,2,2,1,0,0,1,0,0,0
+privacy policycopyright infoterms conditionsabout uscontact usall,1,2,6,0,0,3,2,0,0
+recipeslatest recipesphoto gallerycocktails,2,1,3,0,0,3,0,0,0

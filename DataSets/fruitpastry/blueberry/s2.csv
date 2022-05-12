@@ -1,0 +1,470 @@
+Sentence,newline_after,newline_before,nwords,numbers,nnumbers,nnouns,nverbs,nunits ,label
+recipes,1,0,1,0,0,1,0,0,0
+party menus,1,1,2,0,0,2,0,0,0
+appetizers,1,1,1,0,0,1,0,0,0
+breakfast,1,1,1,0,0,1,0,0,0
+desserts,1,1,1,0,0,1,0,0,0
+cakes cookies and cupcakes,1,1,4,0,0,3,0,1,0
+drinks and beverages,1,1,3,0,0,2,0,0,0
+indian cuisine,1,1,2,0,0,1,0,0,0
+indian sweets,1,1,2,0,0,1,0,0,0
+no onion no garlic recipes,1,1,5,0,0,2,0,0,0
+vrat food,1,1,2,0,0,2,0,0,0
+main course,1,1,2,0,0,1,0,0,0
+pasta and noodles,1,1,3,0,0,2,0,0,0
+pizza burgers and sandwiches,1,1,4,0,0,3,0,0,0
+slow cooker recipes,1,1,3,0,0,2,0,0,0
+soups and salads,1,1,3,0,0,2,0,0,0
+breads and rolls,1,1,3,0,0,2,0,0,0
+instant pot,1,1,2,0,0,2,0,0,0
+reference guide,1,1,2,0,0,2,0,0,0
+kitchen basics,1,1,2,0,0,2,0,0,0
+shop amazon,1,1,2,0,0,2,0,0,0
+indian festivals,1,1,2,0,0,1,0,0,0
+work with me,1,1,3,0,0,1,0,0,0
+about us,1,1,2,0,0,0,0,0,0
+contact us,1,1,2,0,0,1,0,0,0
+privacy policy,2,1,2,0,0,2,0,0,0
+search for,2,2,2,0,0,1,0,0,0
+home,1,2,1,0,0,1,0,0,0
+work with me,1,1,3,0,0,1,0,0,0
+about,1,1,1,0,0,0,0,0,0
+contact,1,1,1,0,0,1,0,0,0
+disclosure,2,1,1,0,0,1,0,0,0
+ruchiskitchen,2,2,1,0,0,1,0,0,0
+cooking at your fingertips,2,2,4,0,0,1,1,0,0
+recipes,1,2,1,0,0,1,0,0,0
+instant pot,1,1,2,0,0,2,0,0,0
+party menus,1,1,2,0,0,2,0,0,0
+appetizers and snacks,1,1,3,0,0,2,0,0,0
+drinks and beverages,1,1,3,0,0,2,0,0,0
+cakes cookies and cupcakes,1,1,4,0,0,3,0,1,0
+desserts,1,1,1,0,0,1,0,0,0
+soups and salads,1,1,3,0,0,2,0,0,0
+breads and rolls,1,1,3,0,0,2,0,0,0
+pizza burgers and sandwiches,1,1,4,0,0,3,0,0,0
+pasta and noodles,1,1,3,0,0,2,0,0,0
+main course,1,1,2,0,0,1,0,0,0
+indian cuisine,1,1,2,0,0,1,0,0,0
+indian dishes,1,1,2,0,0,1,0,0,0
+indian sweets,1,1,2,0,0,1,0,0,0
+slow cooker recipes,1,1,3,0,0,2,0,0,0
+vrat food,1,1,2,0,0,2,0,0,0
+no onion no garlic recipes,1,1,5,0,0,2,0,0,0
+non veg recipes,1,1,3,0,0,1,0,0,0
+breakfast,1,1,1,0,0,1,0,0,0
+accompaniments and sides,1,1,3,0,0,2,0,0,0
+kitchen basics,1,1,2,0,0,2,0,0,0
+reference guide,1,1,2,0,0,2,0,0,0
+festivals,1,1,1,0,0,1,0,0,0
+shop,2,1,1,0,0,1,0,0,0
+home recipes cakes cookies and cupcakes blueberry cake recipe,2,2,9,0,0,6,2,1,0
+blueberry cake recipe,2,2,3,0,0,3,0,0,0
+published on october 10 2019 by ruchi,2,2,7,1,6,2,1,0,0
+this site uses cookies and affiliate links as an amazon affiliate i earn,1,2,13,0,0,6,2,0,0
+from qualifying purchases please read my disclosure,2,1,7,0,0,3,2,0,0
+nf,2,2,1,0,0,1,0,0,0
+sp13,2,2,1,1,2,1,0,0,0
+75k shares,2,2,2,1,2,1,0,0,0
+share31,1,2,1,1,2,1,0,0,0
+pin75k,1,1,1,1,2,1,0,0,0
+yummly,1,1,1,0,0,0,0,0,0
+reddit,2,1,1,0,0,1,0,0,0
+jump to recipe,0,2,3,0,0,1,1,0,0
+cake drizzled with lemon,1,0,4,0,0,2,1,0,0
+glaze data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20150 20150 3e 3c/svg 3e,0,1,16,1,27,3,2,0,0
+cake,1,0,1,0,0,1,0,0,0
+drizzled with lemon glaze https //wwwruchiskitchencom/wp,1,1,6,0,0,3,1,0,0
+content/uploads/2014/12/blueberry cake recipe 12 150x150jpg,0,1,5,1,14,2,1,0,0
+blueberry cake on a,1,0,4,0,0,2,0,0,0
+plate data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20150 20150 3e 3c/svg 3e,0,1,16,1,27,3,2,0,0
+blueberry,1,0,1,0,0,1,0,0,0
+cake on a plate https //wwwruchiskitchencom/wp,1,1,6,0,0,4,0,0,0
+content/uploads/2014/12/blueberry cake recipe 13 150x150jpg,2,1,5,1,14,2,1,0,0
+data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20150 20150 3e 3c/svg 3e,0,2,15,1,27,3,2,0,0
+https //wwwruchiskitchencom/wp,1,0,2,0,0,2,0,0,0
+content/uploads/2019/10/blueberry cake recipe pin 2 150x150jpg,2,1,6,1,13,3,1,0,0
+data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20150 20150 3e 3c/svg 3e,0,2,15,1,27,3,2,0,0
+https //wwwruchiskitchencom/wp,1,0,2,0,0,2,0,0,0
+content/uploads/2019/10/blueberry cake recipe pin 1 150x150jpg,2,1,6,1,13,3,1,0,0
+data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20150 20150 3e 3c/svg 3e,0,2,15,1,27,3,2,0,0
+https //wwwruchiskitchencom/wp,1,0,2,0,0,2,0,0,0
+content/uploads/2019/10/blueberry cake recipe creative pin 150x150jpg,2,1,6,1,12,2,1,0,0
+calling all blueberry lovers,0,2,4,0,0,2,1,0,0
+do you love blueberries,0,0,4,0,0,1,2,0,0
+well then you are,1,0,4,0,0,0,1,0,0
+going to love this wonderfully soft and fluffy blueberry cake recipe this,1,1,12,0,0,2,3,0,0
+decadent cake studded with juicy fresh blueberries is excellent for breakfast,1,1,11,0,0,4,2,0,0
+or as a delicious snack at any time of the day,2,1,11,0,0,3,0,0,0
+so bright tender and sweet tasting plus it s super easy to,1,2,12,0,0,3,1,0,0
+make and comes together in an hour,2,1,7,0,0,2,1,0,0
+data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20700 201019 3e 3c/svg 3e,0,2,15,1,28,3,2,0,0
+https //wwwruchiskitchencom/wp,1,0,2,0,0,2,0,0,0
+content/uploads/2019/10/blueberry cake recipe 1jpg,2,1,4,1,7,2,1,0,0
+it s officially the blueberry season and the recipe that i am sharing today is,1,2,15,0,0,4,5,0,0
+an all time favorite what makes it the favorite choice,0,1,10,0,0,2,1,0,0
+it s the luxurious combination of butter and cream cheese that s just,1,0,13,0,0,4,2,0,0
+perfect for this cake,2,1,4,0,0,2,0,0,0
+when mixed together they provide a creamy and velvet like texture to this,1,2,13,0,0,3,1,0,0
+deliciously yum pound cake the deliciousness doesn t end here,2,1,10,0,0,4,1,0,0
+spike this blueberry cake recipe with just the right amount of lemon zest and,1,2,14,0,0,5,1,0,0
+enjoy that bakery style taste rich tasting lemony and super moist,0,1,11,0,0,7,0,0,0
+make it to a dinner party potluck or a gathering and everyone will swoon for,1,0,15,0,0,5,2,0,0
+this delicious dessert,0,1,3,0,0,1,0,0,0
+cake drizzled with,1,0,3,0,0,1,1,0,0
+glaze data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20700 201050 3e 3c/svg 3e,0,1,16,1,28,3,2,0,0
+cake,1,0,1,0,0,1,0,0,0
+drizzled with glaze https //wwwruchiskitchencom/wp,1,1,5,0,0,2,1,0,0
+content/uploads/2019/10/blueberry cake recipe 5jpg,2,1,4,1,7,2,1,0,0
+reasons you ll this blueberry cake,2,2,6,0,0,2,2,0,0
+super easy to make,1,2,4,0,0,1,1,0,0
+made with pantry staples minus the berries of course,1,1,9,0,0,4,2,0,0
+no special equipment necessary,1,1,4,0,0,1,0,0,0
+bursting with flavor and,1,1,4,0,0,1,1,0,0
+the ultimate crowd pleaser,0,1,4,0,0,2,0,0,0
+the best part this delicious blueberry studded cake is perfect for every,1,0,12,0,0,3,2,0,0
+occasion from picnics to a potluck holiday lunch or dinner gatherings,1,1,11,0,0,7,0,0,0
+it s perfect for any time of the year,0,1,9,0,0,2,1,0,0
+what makes up this blueberry cake recipe,0,0,7,0,0,2,2,0,0
+all purpose flour required for cake structure and texture,2,0,9,0,0,4,1,0,0
+baking powder a leavening agent that makes a cake rise,2,2,10,0,0,5,2,0,0
+salt it enhances the overall flavor of all the other ingredients,2,2,11,0,0,3,1,0,0
+unsalted butter for a rich and buttery taste make sure the butter is,1,2,13,0,0,3,2,0,0
+at room temperature,2,1,3,0,0,2,0,0,0
+cream cheese use full fat cream cheese it lends a creamy and velvety,1,2,13,0,0,6,2,0,0
+texture to this cake,2,1,4,0,0,2,0,0,0
+granulated sugar for sweetness,2,2,4,0,0,2,1,0,0
+eggs it provides structure and stability to the cake batter it acts as,1,2,13,0,0,5,2,0,0
+an emulsifier and binds the ingredients,2,1,6,0,0,2,1,0,0
+water for moisture,2,2,3,0,0,2,0,0,0
+lemon zest adds a bright citrus flavor,2,2,7,0,0,3,1,0,0
+and not to forget blueberries,0,2,5,0,0,1,1,0,0
+i personally like blueberries in this blueberry cake recipe because they hold,1,0,12,0,0,3,2,0,0
+up their shape well release a beautiful deep purple to blue color in baked,1,1,14,0,0,3,2,0,0
+goods and all those embedded juicy berries make a beautiful presentation,0,1,11,0,0,4,1,0,0
+freshly baked,1,0,2,0,0,0,1,0,0
+cake data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20700 20958 3e 3c/svg 3e,0,1,16,1,27,3,2,0,0
+freshly,1,0,1,0,0,0,0,0,0
+baked cake https //wwwruchiskitchencom/wp,1,1,4,0,0,3,0,0,0
+content/uploads/2019/10/blueberry cake recipe 4jpg,2,1,4,1,7,2,1,0,0
+how to make a delicious blueberry cake recipe,0,2,8,0,0,2,2,0,0
+1 in a medium bowl sift together the all purpose flour baking powder,1,0,13,1,1,5,1,1,0
+and salt set it aside,2,1,5,0,0,1,1,0,0
+2 save 1 tablespoon of the sifted flour mix to coat the blueberries,1,2,13,1,2,3,1,1,0
+tossing the blueberries with a spoonful of flour will keep them evenly,1,1,12,0,0,3,2,0,0
+distributed throughout the baked cake,2,1,5,0,0,1,1,0,0
+data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20600 20450 3e 3c/svg 3e,0,2,15,1,27,3,2,0,0
+https //wwwruchiskitchencom/wp,1,0,2,0,0,2,0,0,0
+content/uploads/2014/12/blueberry tip1jpg,2,1,2,1,7,2,0,0,0
+3 next in the bowl of your stand mixer cream butter and sugar for 3 4,1,2,16,1,3,6,0,0,0
+minutes until light and fluffy,2,1,5,0,0,1,0,0,0
+4 mix in cream cheese and blend until well incorporated,2,2,10,1,1,4,1,0,0
+5 time to add your eggs one at a time to avoid the eggy taste in cakes,1,2,17,1,1,4,2,0,0
+add eggs one by one make sure the first one is blended well into the mix,1,1,16,0,0,5,3,0,0
+before the second one goes in,2,1,6,0,0,1,1,0,0
+6 lemon zest is next,0,2,5,1,1,1,1,0,0
+mix the dry ingredients with wet,1,0,6,0,0,2,1,0,0
+ingredients data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20600 20450 3e 3c/svg 3e,0,1,16,1,27,4,2,0,0
+mix,1,0,1,0,0,1,0,0,0
+the dry ingredients with wet ingredients https //wwwruchiskitchencom/wp,1,1,8,0,0,3,1,0,0
+content/uploads/2014/12/blueberry cake flour mixed injpg,2,1,5,1,6,2,1,0,0
+7 mix wet ingredients into dry ingredients until just combined,2,2,10,1,1,4,1,0,0
+8 now fold in the berries coated with flour in the previous step into,1,2,14,1,1,3,2,0,0
+the cake batter,2,1,3,0,0,2,0,0,0
+9 be very careful with the blueberries fold gently because if you mix,1,2,13,1,1,1,3,0,0
+more they will start to bleed in the batter and you will end up with a,1,1,16,0,0,1,3,0,0
+purple blueberry cake,0,1,3,0,0,3,0,0,0
+making of blueberry cake,1,0,4,0,0,3,0,0,0
+recipe data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20600 20450 3e 3c/svg 3e,0,1,16,1,27,3,2,0,0
+making,1,0,1,0,0,0,1,0,0
+of blueberry cake recipe https //wwwruchiskitchencom/wp,1,1,6,0,0,4,0,0,0
+content/uploads/2014/12/blueberry cake greased panjpg,2,1,4,1,6,3,1,0,0
+10 transfer the cake batter to a greased bundt pan and bake it at a,1,2,15,1,2,5,2,0,0
+preheated oven 350 degrees f for 45 minutes,2,1,8,1,5,2,2,0,0
+11 before placing the bundt pan in the oven tap the cake pan on the,1,2,15,1,2,4,2,0,0
+counter couple of times this will pop all the bubbles and help in the rising,1,1,15,0,0,5,1,0,0
+of the cake if you like you can top the cake with a handful of flour dusted,1,1,17,0,0,4,2,0,0
+blueberries,0,1,1,0,0,1,0,0,0
+cake studded with,1,0,3,0,0,1,1,0,0
+berries data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20700 20776 3e 3c/svg 3e,0,1,16,1,27,4,2,0,0
+cake,1,0,1,0,0,1,0,0,0
+studded with berries https //wwwruchiskitchencom/wp,1,1,5,0,0,2,2,0,0
+content/uploads/2014/12/blueberry cake recipe 1 e1567911117885jpg,2,1,5,1,20,3,1,0,0
+12 bake for 45 minutes or until a toothpick inserted in the center comes,1,2,14,1,4,4,2,0,0
+out clean every oven is different so start checking around 40 minutes this,1,1,13,1,2,2,2,0,0
+cake bakes beautifully with crispy brown edges,0,1,7,0,0,4,0,0,0
+freshly baked cake in the,1,0,5,0,0,1,1,0,0
+pan data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20700 20804 3e 3c/svg 3e,0,1,16,1,27,3,2,0,0
+freshly,1,0,1,0,0,0,0,0,0
+baked cake in the pan https //wwwruchiskitchencom/wp,1,1,7,0,0,4,0,0,0
+content/uploads/2014/12/blueberry cake recipe 2 e1567911154472jpg,2,1,5,1,20,3,1,0,0
+13 transfer the baked cake on to a baking rack and allow it to cool for,1,2,16,1,2,4,2,0,0
+15 minutes,2,1,2,1,2,1,0,0,0
+14 once cooled carefully remove from pan and cool completely,2,2,10,1,2,2,2,0,0
+15 top the cooled cake with a lemon glaze and serve your guests will,1,2,14,1,2,4,1,0,0
+keep coming back asking for seconds it s that good,0,1,10,0,0,1,4,0,0
+upside down,1,0,2,0,0,0,0,0,0
+cake data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20893 20666 3e 3c/svg 3e,0,1,16,1,27,3,2,0,0
+upside,1,0,1,0,0,1,0,0,0
+down cake https //wwwruchiskitchencom/wp content/uploads/2014/12/blueberry,1,1,5,1,6,3,0,0,0
+cake cut a piece1jpg,2,1,4,1,1,2,1,0,0
+tips to consider while making this blueberry cake recipe,0,2,9,0,0,3,3,0,0
+to prevent the batter from turning blue toss blueberries in a,1,0,11,0,0,3,2,0,0
+tablespoon of dry flour follow this simple trick and you will taste,1,1,12,0,0,3,2,1,0
+blueberries in every bite you take this will absorb some of the liquid,1,1,13,0,0,3,2,0,0
+released from the fruit preventing it from sinking to the bottom of the cake,2,1,14,0,0,3,3,0,0
+frozen blueberries can be used instead of fresh ones but remember to,1,2,12,0,0,2,3,0,0
+coat them in flour before adding to the batter to avoid sinking if you choose,1,1,15,0,0,2,5,0,0
+to use frozen berries add them to your mixture completely frozen do not,1,1,13,0,0,2,3,0,0
+defrost your berries,2,1,3,0,0,1,1,0,0
+you can swap fresh blueberries with any fruit some tested and tried,1,2,12,0,0,2,3,0,0
+options are raspberries chopped strawberries blackberries mixed berries,1,1,8,0,0,5,2,0,0
+even apples and it tastes divine,2,1,6,0,0,2,1,0,0
+lemon zest make sure you use the outer skin the yellow part of the,1,2,14,0,0,2,3,0,0
+lemon do not grate the white part as it tastes bitter,2,1,11,0,0,2,3,0,0
+do not overmix the batter overmixing allows the gluten to develop,1,2,11,0,0,2,5,0,0
+and that will result in a dense cake,2,1,8,0,0,2,1,0,0
+grease the bundt pan well butter it up in all corners/creases and in,1,2,13,0,0,5,0,0,0
+the center to avoid sticking,0,1,5,0,0,1,2,0,0
+slice of cake with,1,0,4,0,0,2,0,1,0
+fork data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20700 201050 3e 3c/svg 3e,0,1,16,1,28,3,2,0,0
+slice,1,0,1,0,0,1,0,1,0
+of cake with fork https //wwwruchiskitchencom/wp,1,1,6,0,0,4,0,0,0
+content/uploads/2019/10/blueberry cake recipe 16jpg,2,1,4,1,8,2,1,0,0
+faq s related to the blueberry cake recipe,0,2,8,0,0,3,2,0,0
+can i make this recipe egg free,0,0,7,0,0,2,2,0,0
+unfortunately the answer is no,0,0,5,0,0,1,1,0,0
+eggs are an essential part of this blueberry,1,0,8,0,0,3,1,0,0
+cake recipe therefore i can t guarantee the results however if you are,1,1,13,0,0,4,3,0,0
+looking for an egg free version then try these alternatives,2,1,10,0,0,3,2,0,0
+can i skip lemon zest,0,2,5,0,0,2,1,0,0
+of course you can,0,0,4,0,0,1,0,0,0
+use vanilla extract instead to flavor this cake,2,0,8,0,0,4,1,0,0
+can i skip the lemon glaze topping,0,2,7,0,0,2,3,0,0
+yes you can,0,0,3,0,0,0,0,0,0
+this blueberry cake tastes fantastic as is without a glaze,0,0,10,0,0,3,2,0,0
+slice drizzled with,1,0,3,0,0,1,1,1,0
+glaze data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 201000 201448 3e 3c/svg 3e,0,1,16,1,29,3,2,0,0
+slice,1,0,1,0,0,1,0,1,0
+drizzled with glaze https //wwwruchiskitchencom/wp,1,1,5,0,0,2,1,0,0
+content/uploads/2014/12/blueberry cake recipe 14 e1568845101124jpg,2,1,5,1,21,3,1,0,0
+can i bake this cake in a rectangular pan,0,2,9,0,0,2,2,0,0
+absolutely,0,0,1,0,0,0,0,0,0
+you can bake this blueberry cake in a 95 5 inch loaf pan baking time,1,0,15,1,3,6,1,1,0
+will vary therefore start keeping a watch on the cake around 38 minutes into,1,1,14,1,2,3,2,0,0
+baking,2,1,1,0,0,1,0,0,0
+after the time is done check the center of the cake by inserting a toothpick,1,2,15,0,0,4,4,0,0
+if it comes out clean it s done if not you can bake for some more time,2,1,17,0,0,1,4,0,0
+how can i store the leftover cake,0,2,7,0,0,2,2,0,0
+this cake stays good at room temperature for 24 hours after that the,1,0,13,1,2,4,1,0,0
+leftover blueberry cake needs to be refrigerated,2,1,7,0,0,3,3,0,0
+it stays good for 5 6 days in the refrigerator in an airtight container trust,1,2,15,1,2,5,1,0,0
+me the chilled cake tastes equally great,0,1,7,0,0,2,0,0,0
+freshly baked blueberry loaf,1,0,4,0,0,2,1,0,0
+cake data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20700 20935 3e 3c/svg 3e,0,1,16,1,27,3,2,0,0
+freshly,1,0,1,0,0,0,0,0,0
+baked blueberry loaf cake https //wwwruchiskitchencom/wp,1,1,6,0,0,3,2,0,0
+content/uploads/2019/10/blueberry cake recipe 11jpg,2,1,4,1,8,2,1,0,0
+let me know in the comments if you try this recipe feel free to contact me,1,2,16,0,0,2,5,0,0
+with any questions or inquiries and i would be happy to answer them,2,1,13,0,0,3,2,0,0
+craving for more try these other options,0,2,7,0,0,2,1,0,0
+white chocolate cranberry bundt cake,1,0,5,0,0,3,1,0,0
+cherry crumb cake,1,1,3,0,0,2,1,0,0
+orange bundt cake,1,1,3,0,0,2,1,0,0
+mini lemon bundt cake,2,1,4,0,0,4,0,0,0
+this recipe was originally posted in 2014 and has been updated to improve,1,2,13,1,4,1,6,0,0
+reader experience,1,1,2,0,0,2,0,0,0
+have you tried this recipe leave a star rating by clicking on the below,0,1,14,0,0,4,4,0,0
+data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20300 20200 3e 3c/svg 3e,0,0,15,1,27,3,2,0,0
+https //wwwruchiskitchencom/wp,1,0,2,0,0,2,0,0,0
+content/uploads/2014/12/blueberry 1 300x200jpg,2,1,3,1,13,1,0,0,0
+blueberry cake recipe,2,2,3,0,0,3,0,0,0
+author ruchi,2,2,2,0,0,2,0,0,0
+calling all blueberry lovers,0,2,4,0,0,2,1,0,0
+do you love blueberries,0,0,4,0,0,1,2,0,0
+well then you are,1,0,4,0,0,0,1,0,0
+going to love this wonderfully soft and fluffy blueberry cake recipe this,1,1,12,0,0,2,3,0,0
+decadent cake studded with juicy fresh blueberries is excellent for breakfast,1,1,11,0,0,4,2,0,0
+or as a delicious snack any time of the day,2,1,10,0,0,3,0,0,0
+457 from 51 votes,2,2,4,1,5,1,0,0,0
+print recipe pin recipe,2,2,4,0,0,4,0,0,0
+prep time 15 mins,2,2,4,1,2,2,0,0,0
+cook time 45 mins,2,2,4,1,2,3,0,0,0
+total time 1 hr,2,2,4,1,1,2,0,0,0
+course dessert,2,2,2,0,0,2,0,0,0
+cuisine american indian,2,2,3,0,0,1,0,0,0
+servings 10,2,2,2,1,2,1,0,0,0
+calories 264 kcal,2,2,3,1,3,1,0,0,0
+equipment,2,2,1,0,0,1,0,0,0
+glass mixing bowls,2,2,3,0,0,3,0,0,0
+strainer,2,2,1,0,0,1,0,0,0
+stand mixer,2,2,2,0,0,2,0,0,0
+bundt pan,2,2,2,0,0,2,0,0,0
+basting brush,2,2,2,0,0,1,1,0,0
+ingredients,4,2,1,0,0,1,0,0,0
+1x2x3x,2,4,1,1,3,0,0,0,0
+dry ingredients,2,2,2,0,0,1,0,0,0
+1 cup 3 tablespoons all purpose flour,1,2,7,1,2,3,1,1,1
+1 teaspoon baking powder,1,1,4,1,1,3,0,1,1
+a pinch of salt,2,1,4,0,0,2,0,1,1
+wet ingredients,2,2,2,0,0,2,0,0,0
+cup unsalted butter,1,2,3,0,0,2,1,1,1
+3 oz cream cheese,1,1,4,1,1,2,0,0,1
+1 cup sugar,1,1,3,1,1,2,0,1,1
+3 medium eggs,1,1,3,1,1,2,0,1,1
+1 cup fresh blueberries,1,1,4,1,1,2,0,1,1
+cup water,1,1,2,0,0,2,0,1,1
+1 teaspoon lemon zest,2,1,4,1,1,3,0,1,1
+us customary metric,2,2,3,0,0,0,0,0,0
+instructions,4,2,1,0,0,1,0,0,0
+before you begin make sure all the ingredients are at room temperature let s start by preheating your oven to 350 degrees f and greasing a bundt pan,2,4,28,1,3,7,7,0,0
+in a medium bowl sift together the all purpose flour baking powder and salt set it aside save 1 tablespoon dry mix to coat the blueberries,2,2,26,1,1,9,4,1,0
+dust the blueberries with saved flour this will prevent them from sinking to the bottom of the cake set aside,2,2,20,0,0,5,3,0,0
+next in the bowl of your stand mixer cream butter and sugar for 3 4 minutes until light and fluffy mix in cream cheese and blend until well incorporated,2,2,29,1,2,11,1,0,0
+time to add your eggs one at a time to avoid the eggy taste in cakes add eggs one by one make sure the first one is blended well into the mix before the second one goes in lemon zest is next,2,2,42,0,0,11,7,0,0
+mix wet ingredients into dry ingredients until just combined,2,2,9,0,0,4,1,0,0
+now fold in the berries coated with flour in the previous step into the cake batter be very careful with the blueberries fold gently because if you mix more they will start to bleed in the batter and you will end up with a purple blueberry cake,2,2,47,0,0,10,8,0,0
+transfer the cake batter to the pan and bake it at preheated oven 350 degrees f for 45 minutes before placing the bundt pan in the oven tap the cake pan on the counter couple of times this will pop all the bubbles and help in the rising of the cake,2,2,51,1,5,15,7,0,0
+bake for 45 minutes or until a toothpick inserted in the center comes out clean every oven is different so start checking around 40 minutes,2,2,25,1,4,6,4,0,0
+transfer the baked cake on to a baking rack and allow it to cool for 15 minutes,2,2,17,1,2,4,3,0,0
+once cooled carefully remove from pan and cool completely cut a big slice and enjoy this super moist and deliciously yummy cake,2,2,22,0,0,5,5,1,0
+for the lemon glaze sift 2 cups of powdered sugar into a bowl pour in 3 4 tablespoons of lemon juice and stir until the glaze is thin add more lemon juice to reach the desired consistency pour the glaze all over the cake and serve,2,2,46,1,3,16,3,1,0
+recipe notes,2,2,2,0,0,2,0,0,0
+tips to consider while making this blueberry cake recipe,0,2,9,0,0,3,3,0,0
+to prevent the batter from turning blue toss blueberries in a tablespoon of dry flour follow this simple trick and you will taste blueberries in every bite you take this will absorb some of the liquid released from the fruit preventing it from sinking to the bottom of the cake,1,0,50,0,0,12,9,1,0
+frozen blueberries can be used instead of fresh ones but remember to coat them in flour before adding to the batter to avoid sinking if you choose to use frozen berries add them to your batter completely frozen do not defrost your berries,1,1,43,0,0,7,12,0,0
+you can swap fresh blueberries with any fruit some tested and tried options are raspberries chopped strawberries blackberries mixed berries even apples and it tastes divine,2,1,26,0,0,9,6,0,0
+lemon zest make sure you use the outer skin the yellow part of the lemon do not grate the white part as it tastes bitter,1,2,25,0,0,4,6,0,0
+do not overmix the batter overmixing allows the gluten to develop and that will result in a dense cake,1,1,19,0,0,4,6,0,0
+grease thebundt pan well butter it up in all corners/creases and in the center to avoid sticking,2,1,17,0,0,6,2,0,0
+nutrition,2,2,1,0,0,1,0,0,0
+calories 264kcal carbohydrates 32g protein 4g fat 14g saturated,1,2,9,1,8,2,1,0,0
+fat 8g cholesterol 89mg sodium 51mg potassium 118mg fiber 1g,1,1,10,1,9,4,0,0,0
+sugar 22g vitamin a 486iu vitamin c 2mg calcium 47mg iron 1mg,2,1,12,1,9,5,1,0,0
+disclaimer the nutritional information provided above is approximate,1,2,8,0,0,2,3,0,0
+variations may exist due to the ingredients/brands used these numbers should,1,1,11,0,0,3,2,0,0
+be considered estimates as they are not calculated by a registered dietician,2,1,12,0,0,2,4,0,0
+are you going to make this recipe,0,2,7,0,0,1,3,0,0
+take a picture and mention ruchiskitchen,0,0,6,0,0,3,1,0,0
+i would love to see how it turned out for you,0,0,11,0,0,1,3,0,0
+75k shares,2,0,2,1,2,1,0,0,0
+share31,1,2,1,1,2,1,0,0,0
+pin75k,1,1,1,1,2,1,0,0,0
+yummly,1,1,1,0,0,0,0,0,0
+reddit,2,1,1,0,0,1,0,0,0
+looking for more,0,2,3,0,0,0,1,0,0
+try these,0,0,2,0,0,0,1,0,0
+best vegan chocolate cake data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20250 20250 3e 3c/svg 3e,0,0,19,1,27,5,2,0,0
+best vegan chocolate cake https //wwwruchiskitchencom/wp content/uploads/2021/12/best vegan chocolate cake recipe 4 250x250jpg best vegan chocolate cake,0,0,17,1,13,11,1,0,0
+motichoor ladoo data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20250 20250 3e 3c/svg 3e,0,0,17,1,27,4,2,0,0
+motichoor ladoo https //wwwruchiskitchencom/wp content/uploads/2016/03/motichoor ladoo recipe 5 250x250jpg motichoor ladoo,0,0,11,1,13,8,1,0,0
+ram ladoo recipe data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20250 20250 3e 3c/svg 3e,0,0,18,1,27,5,2,0,0
+ram ladoo recipe https //wwwruchiskitchencom/wp content/uploads/2015/06/ram ladoo recipe 12 250x250jpg ram ladoo recipe,0,0,13,1,14,10,1,0,0
+coconut panna cotta data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20250 20250 3e 3c/svg 3e,0,0,18,1,27,5,2,0,0
+coconut panna cotta https //wwwruchiskitchencom/wp content/uploads/2022/02/coconut panna cotta recipe ruchiskitchen 250x250jpg coconut panna cotta,2,0,14,1,12,12,1,0,0
+data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 200 200 3e 3c/svg 3e,0,2,15,1,23,3,2,0,0
+data image/gif base64 r0lgodlhnga3apmjamfhx6kiopycno7u7rm5ufdw8obm5rs0tm7ozv///waaaaaaaaaaaaaaaaaaaaaaach/c05fvfndqvbfmi4waweaaaah/hpdcmvhdgvkihdpdgggywphegxvywquaw5mbwah qqjcgajacwaaaaanga3aaaewddjsau9oovnu/9gki5kaz6lcqjcyaanws4capmgtb93uoqsqy8epa1bxdnx8wmkl51ckxcceiidjexnww4cuuxfhc0awidrvucwnwdpyteensqbdj1otwux3ixxiav1mwuxadhrbidqjo qkzktljwwhg cjpkagdwpnpovhsyppaezp6z6wn2grmajkjyxtba3ulm6u5o0iagih6g/gsoqexz3ssjlicnushuyv8g8kb65z7nh26zz0d/a1unheqah qqjcgajacwhaayalqavaaaesjdjswsdragyrp/gnwra2yvoomwlrqhw2lzxbc2lruts 62aqlv8bgolgpwwuj4edheceaclbmgneb59c2r2snnmanqy7fz8qz5uetwibgndlevws33molophwwr0mbhyahiimkiyhvcywjjpfejg8uzg2mmjsbkjuwg5cgvpkqkwgppqqrrk2ur7a7pxyzdnc0lgnqv5syu2u/xbdxo413gbwxhsmqxa29z8hnuazmmbeaifkecqoacqasbwahac8algaablawyumrbseay7v/eiamg2ievdaoaguqqyt3ijnflvji/dkqpmfj10smycphpyby3yar2wcz6ewjikr1ylpgntpo10tsfaifoqwajatv8lh8tq/bfyfrwxcncrehgwbyblxjtinweyalwhwgkfwpkyh2jvchcwv1hyz8frqif6awbot7pkmqq6ytyyjwm14ris6vwvdfwriopluzujy3illcsk6gxardq7/nua3mq8oueqah qqjcgajacwhaacalgauaaaerjdjsasfiqdlu/8jjowbaj5tno5oc6qrk3miod uwoj83 k crbue xwxsmhxuoxa69vk/ckspwzpgno4wa/4lb4tc6bz gbgtqqzrdhwvn9na lxmozz4/t 1pld3veywvzabufdwqfiy qkzjpbymhbpiifahwgj0gfqkyp3u4lx0hhno3ovmwqzotah6bn6d8qbrvn6gjizp4nf ffaanl2c1klcpzl lmbs4eqah qqjcgajacwhaacalqawaaaestdjsasfiqdlu/ yig5favazkj6smapt3iwjbfchee 8l/eth0gl0o1oxc9r1vsglmrnmzpugw/i6ywjxxkb4lb4tc6bz g0s5j zdtejppsdkadb/sbrf q/4cbgooehrqdbcmdjxw3a06lm3e9iveehny8utadmtubc1twljuxpn4dbgcibwycbzbacjsir5uebuagoakuaqugb3 8oxtef8clf7ugvmqzlokqrm4xeqah qqjcgajacwhaacalqavaaaerjdjsasfiqdlu/ yig5favazkj6smapt3iwjbfchee 8l/eth0gl0o1oxc9r1vsglmrnmzpugw/i6ywjxxkb4lb4tc6bz g0s5j zdtejppsdkadb/sbrf q/4cbgomlbgcibwaccffjfwanioo8fbwhkqeucr2rmdt2hj1znqawl42zr5sckjgtqhpvqxydbigdyia3hqnouic2uqsbncsrgcgzagw ggxbbau3eqah qqjcgajacwfaacalwauaaaertdjsauviarwu/9djowcaj6uno5oa6qrk4erum74jn5573u7h0bda9akmxhpvqv8ycwq1ombmps2hxz5cqq9wrb4tc6bzz3dyxqwoglnxltiak7c5 daljjkj3wxzlobuwvte3z zlt1fhimrenxcxzqbjcvmpucnz6wbjiea1mdwpigou0epltsffvnr3axnamkrucgbawngycfqgqfny5gna6evsqynsnoqdmrach5baukaakalayabwauac4aaasymmljq00gbhc7/1cmjbxonpm2jmglqqsrh6tqzpvxjifxitfcbfejcwwg4sp3bh52ssghwqtwojehjnxbcnhbgaeqnapfxk4yyjxrrbziexgc6xjtun7p7/v/gcydbhibhgnha4ystorfbitonlilyzsgyy5vkvufiysybxifjgqfokipqqusra6btnuxp5t1knbxrxphl7p1vlqruc63jro2oq cg6/frccs0kvorccueqa7,2,0,38,1,260,26,4,0,0
+data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20150 20150 3e 3c/svg 3e,0,2,15,1,27,3,2,0,0
+https //wwwruchiskitchencom/wp,1,0,2,0,0,2,0,0,0
+content/uploads/2019/03/ruchijpg,2,1,1,1,6,1,0,0,0
+hi i am ruchi,0,2,4,0,0,3,1,0,0
+i am so glad that you re here,0,0,8,0,0,1,2,0,0
+this is my happy little food paradise where you,1,0,9,0,0,2,1,0,0
+will find lots of yummy recipes ranging from healthy dinners to blissful sweet,1,1,13,0,0,4,3,0,0
+delights so grab your aprons and let s cook together more about me,2,1,13,0,0,2,3,0,0
+follow along,2,2,2,0,0,0,1,0,0
+search,2,2,1,0,0,1,0,0,0
+data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 2072 2056 3e 3c/svg 3e,0,2,15,1,25,3,2,0,0
+/wp,1,0,1,0,0,1,0,0,0
+content/themes/ruchikitchen/images/news2png,2,1,1,1,1,1,0,0,0
+subscribe today,2,2,2,0,0,2,0,0,0
+for all your favorite dishes straight to your inbox,2,2,9,0,0,2,1,0,0
+subscribe,1,2,1,0,0,1,0,0,0
+data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 2020 2020 3e 3c/svg 3e,0,1,15,1,25,3,2,0,0
+https //staticmailerlitecom/images/rollinggif,2,0,2,0,0,2,0,0,0
+let s connect on instagram,2,2,5,0,0,1,2,0,0
+data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20300 20300 3e 3c/svg 3e,0,2,15,1,27,3,2,0,0
+https //wwwruchiskitchencom/wp,1,0,2,0,0,2,0,0,0
+content/uploads/2022/02/ruchiskitchen nametag 1 300x300png,2,1,4,1,13,1,1,0,0
+featured on,2,2,2,0,0,0,1,0,0
+data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20268 20300 3e 3c/svg 3e,0,2,15,1,27,3,2,0,0
+https //wwwruchiskitchencom/wp,1,0,2,0,0,2,0,0,0
+content/uploads/2019/11/featured in 3 268x300png,2,1,4,1,13,0,1,0,0
+snack recipes,0,2,2,0,0,2,0,0,0
+corn kebabas on a tray with green,1,0,7,0,0,3,0,0,0
+chutney data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20400 20520 3e 3c/svg 3e,0,1,16,1,27,3,2,0,0
+corn,1,0,1,0,0,1,0,0,0
+kebabas on a tray with green chutney https //wwwruchiskitchencom/wp,1,1,9,0,0,5,0,0,0
+content/uploads/2022/03/bhuttey ke kebab 1 400x520jpg,0,1,5,1,13,1,1,0,0
+mini phyllo cups,1,0,3,0,0,3,0,1,0
+decorated with kachori,1,1,3,0,0,1,1,0,0
+filling data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20400 20520 3e 3c/svg 3e,0,1,16,1,27,3,3,0,0
+mini,1,0,1,0,0,1,0,0,0
+phyllo cups decorated with kachori filling https //wwwruchiskitchencom/wp,1,1,8,0,0,4,2,1,0
+content/uploads/2022/03/baked kachori bites recipe 1 400x520jpg,0,1,6,1,13,1,2,0,0
+vada pav,1,0,2,0,0,2,0,0,0
+topped with garlic,1,1,3,0,0,0,1,0,0
+chutney data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20400 20520 3e 3c/svg 3e,0,1,16,1,27,3,2,0,0
+vada,1,0,1,0,0,1,0,0,0
+pav topped with garlic chutney https //wwwruchiskitchencom/wp,1,1,7,0,0,4,1,0,0
+content/uploads/2015/04/vada pav,1,1,2,1,6,2,0,0,0
+recipe 3 400x520jpg data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20400 20520 3e 3c/svg 3e,0,1,18,1,34,4,2,0,0
+https //wwwruchiskitchencom/wp,1,0,2,0,0,2,0,0,0
+content/uploads/2015/06/ram ladoo recipe 12 400x520jpg,0,1,5,1,14,2,1,0,0
+stacked instant idli,1,0,3,0,0,1,1,0,0
+on a,1,1,2,0,0,0,0,0,0
+bowl data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20400 20520 3e 3c/svg 3e,0,1,16,1,27,3,2,0,0
+stacked,1,0,1,0,0,0,1,0,0
+instant idli on a bowl https //wwwruchiskitchencom/wp,1,1,7,0,0,4,0,0,0
+content/uploads/2016/01/instant rice idli recipe 3 1 400x520jpg,0,1,7,1,14,2,1,0,0
+filled,1,0,1,0,0,0,1,0,0
+katoris on a,1,1,3,0,0,1,0,0,0
+plate data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20400 20520 3e 3c/svg 3e,0,1,16,1,27,3,2,0,0
+filled,1,0,1,0,0,0,1,0,0
+katoris on a plate https //wwwruchiskitchencom/wp,1,1,6,0,0,4,0,0,0
+content/uploads/2014/12/katori chaat recipe 5 400x520jpg,2,1,5,1,13,2,1,0,0
+recipe key,2,2,2,0,0,2,0,0,0
+dfdairy free,1,2,2,0,0,1,0,0,0
+efegg free,1,1,2,0,0,0,0,0,0
+gfgluten free,1,1,2,0,0,1,0,0,0
+ipinstant pot,1,1,2,0,0,2,0,0,0
+nfnut free,1,1,2,0,0,0,0,0,0
+30under 30,1,1,2,1,4,0,0,0,0
+vgvegetarian,1,1,1,0,0,0,0,0,0
+vvegan,1,1,1,0,0,1,0,0,0
+nbno bake,1,1,2,0,0,1,1,0,0
+ppaleo,2,1,1,0,0,1,0,0,0
+spweight watchers smart points,2,2,4,0,0,2,1,0,0
+trending recipes,0,2,2,0,0,1,1,0,0
+spicy noodles in a,1,0,4,0,0,2,0,0,0
+bowl data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20400 20520 3e 3c/svg 3e,0,1,16,1,27,3,2,0,0
+spicy,1,0,1,0,0,1,0,0,0
+noodles in a bowl https //wwwruchiskitchencom/wp,1,1,6,0,0,4,0,0,0
+content/uploads/2018/07/vegan spicy peanut noodles,1,1,4,1,6,4,0,0,0
+recipe 6 400x520jpg data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20400 20520 3e 3c/svg 3e,0,1,18,1,34,4,2,0,0
+https //wwwruchiskitchencom/wp,1,0,2,0,0,2,0,0,0
+content/uploads/2015/12/focaccia,1,1,1,1,6,1,0,0,0
+bread 4 1 400x520jpg data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20400 20520 3e 3c/svg 3e,0,1,19,1,35,4,2,0,0
+https //wwwruchiskitchencom/wp,1,0,2,0,0,2,0,0,0
+content/uploads/2017/01/easy garlic,1,1,2,1,6,1,0,0,0
+rolls 5 400x520jpg data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20400 20520 3e 3c/svg 3e,0,1,18,1,34,4,2,0,0
+https //wwwruchiskitchencom/wp,1,0,2,0,0,2,0,0,0
+content/uploads/2018/01/chickpea salad,1,1,2,1,6,2,0,0,0
+recipe 11 400x520jpg data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20400 20520 3e 3c/svg 3e,0,1,18,1,35,4,2,0,0
+https //wwwruchiskitchencom/wp,1,0,2,0,0,2,0,0,0
+content/uploads/2016/06/apricot energy bites,1,1,3,1,6,3,0,0,0
+recipe 1 1 400x520jpg data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20400 20520 3e 3c/svg 3e,0,1,19,1,35,4,2,0,0
+https //wwwruchiskitchencom/wp,1,0,2,0,0,2,0,0,0
+content/uploads/2015/11/orange cake recipe 7 400x520jpg,2,1,5,1,13,2,1,0,0
+as featured in,2,2,3,0,0,0,1,0,0
+data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 201171 20100 3e 3c/svg 3e,0,2,15,1,28,3,2,0,0
+https //wwwruchiskitchencom/wp,1,0,2,0,0,2,0,0,0
+content/uploads/2019/07/featuredpng,2,1,1,1,6,1,0,0,0
+data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 2072 2056 3e 3c/svg 3e,0,2,15,1,25,3,2,0,0
+/wp,1,0,1,0,0,1,0,0,0
+content/themes/ruchikitchen/images/news2png,2,1,1,1,1,1,0,0,0
+subscribe today,2,2,2,0,0,2,0,0,0
+for all your favorite dishes straight to your inbox,2,2,9,0,0,2,1,0,0
+subscribe,1,2,1,0,0,1,0,0,0
+data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 2020 2020 3e 3c/svg 3e,0,1,15,1,25,3,2,0,0
+https //staticmailerlitecom/images/rollinggif,2,0,2,0,0,2,0,0,0

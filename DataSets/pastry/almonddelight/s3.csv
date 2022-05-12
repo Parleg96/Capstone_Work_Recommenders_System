@@ -1,0 +1,374 @@
+Sentence,newline_after,newline_before,nwords,numbers,nnumbers,nnouns,nverbs,nunits ,label
+https //wwwrecipezazzcom/rz new/img/site logopng,2,0,4,0,0,2,1,0,0
+recipe categories,0,2,2,0,0,2,0,0,0
+https //wwwrecipezazzcom/rz new/img/categories/menu coursepng course,2,0,5,0,0,3,1,0,0
+appetizers 3038,2,2,2,1,4,1,0,0,0
+beverages 2109,2,2,2,1,4,1,0,0,0
+breakfast 2601,2,2,2,1,4,1,0,0,0
+desserts 5732,2,2,2,1,4,1,0,0,0
+dinner 11661,2,2,2,1,5,1,0,0,0
+lunch 6819,0,2,2,1,4,1,0,0,0
+https //wwwrecipezazzcom/rz new/img/categories/menu ingredientpng ingredient,2,0,5,0,0,5,0,0,0
+beef 3355,2,2,2,1,4,1,0,0,0
+pasta 1884,2,2,2,1,4,1,0,0,0
+pork 3436,2,2,2,1,4,1,0,0,0
+poultry 4008,2,2,2,1,4,1,0,0,0
+salmon 493,0,2,2,1,3,1,0,0,0
+https //wwwrecipezazzcom/rz new/img/categories/menu cuisinepng cuisine,2,0,5,0,0,5,0,0,0
+asian 1118,2,2,2,1,4,0,0,0,0
+indian 423,2,2,2,1,3,0,0,0,0
+italian 1622,2,2,2,1,4,0,0,0,0
+mexican 1190,2,2,2,1,4,0,0,0,0
+southern 1287,2,2,2,1,4,0,0,0,0
+thai 289,0,2,2,1,3,1,0,0,0
+https //wwwrecipezazzcom/rz new/img/categories/menu conveniencepng convenience,2,0,5,0,0,4,0,0,0
+5 minute prep 3457,2,2,4,1,5,2,0,0,0
+casseroles 1442,2,2,2,1,4,1,0,0,0
+kid pleaser 7235,2,2,3,1,4,2,0,0,0
+quick meals 14845,2,2,3,1,5,1,0,0,0
+small batch cooking 2642,0,2,4,1,4,2,0,1,0
+https //wwwrecipezazzcom/rz new/img/categories/menu occasionpng occasion,2,0,5,0,0,5,0,0,0
+brunch 5725,2,2,2,1,4,1,0,0,0
+game/sports day 5659,2,2,3,1,4,2,0,0,0
+new years 2247,2,2,3,1,4,1,0,0,0
+potluck 4565,2,2,2,1,4,1,0,0,0
+sunday dinner 7932,2,2,3,1,4,2,0,0,0
+valentine s day 1242,0,2,4,1,4,2,0,0,0
+https //wwwrecipezazzcom/rz new/img/categories/menu cooking stylepng cooking style,2,0,7,0,0,5,1,0,0
+blender 1062,2,2,2,1,4,1,0,0,0
+grilling outdoor 1591,2,2,3,1,4,1,1,0,0
+oven bake 10575,2,2,3,1,5,0,1,0,0
+oven roast 1228,2,2,3,1,4,1,0,0,0
+pressure cooker 60,2,2,3,1,2,2,0,0,0
+slow cooker 855,2,2,3,1,3,1,0,0,0
+wok/stir fry 626,0,2,3,1,3,1,1,0,0
+https //wwwrecipezazzcom/rz new/img/categories/menu dietpng diet,2,0,5,0,0,5,0,0,0
+diabetic 1323,2,2,2,1,4,0,0,0,0
+gluten free 13026,2,2,3,1,5,1,0,0,0
+heart healthy 2286,2,2,3,1,4,1,0,0,0
+vegan 2884,2,2,2,1,4,1,0,0,0
+vegetarian 14216,0,2,2,1,5,0,0,0,0
+https //wwwrecipezazzcom/rz new/img/categories/menu make it withpng make it with,2,0,9,0,0,2,2,0,0
+cake mix 253,2,2,3,1,3,1,1,0,0
+canned fruit 273,2,2,3,1,3,1,1,0,0
+canned tomatoes 1086,2,2,3,1,4,1,1,0,0
+frozen vegetables 492,2,2,3,1,3,1,0,0,0
+make it from scratch 10732,2,2,5,1,5,1,1,0,0
+wine 1212,2,2,2,1,4,1,0,0,0
+all recipes,2,2,2,0,0,1,0,0,0
+1,1,2,1,1,1,0,0,0,0
+1 notifications clear all,1,1,4,1,1,1,1,0,0
+no cost to join recipezazzcom so join now,0,1,8,0,0,2,1,0,0
+create account,1,0,2,0,0,2,0,0,0
+browse recipes,0,1,2,0,0,2,0,0,0
+https //wwwrecipezazzcom/rz new/img/categories/menu coursepng course,2,0,5,0,0,3,1,0,0
+appetizers 3038,2,2,2,1,4,1,0,0,0
+beverages 2109,2,2,2,1,4,1,0,0,0
+breakfast 2601,2,2,2,1,4,1,0,0,0
+desserts 5732,2,2,2,1,4,1,0,0,0
+dinner 11661,2,2,2,1,5,1,0,0,0
+lunch 6819,0,2,2,1,4,1,0,0,0
+https //wwwrecipezazzcom/rz new/img/categories/menu ingredientpng ingredient,2,0,5,0,0,5,0,0,0
+beef 3355,2,2,2,1,4,1,0,0,0
+pasta 1884,2,2,2,1,4,1,0,0,0
+pork 3436,2,2,2,1,4,1,0,0,0
+poultry 4008,2,2,2,1,4,1,0,0,0
+salmon 493,0,2,2,1,3,1,0,0,0
+https //wwwrecipezazzcom/rz new/img/categories/menu cuisinepng cuisine,2,0,5,0,0,5,0,0,0
+asian 1118,2,2,2,1,4,0,0,0,0
+indian 423,2,2,2,1,3,0,0,0,0
+italian 1622,2,2,2,1,4,0,0,0,0
+mexican 1190,2,2,2,1,4,0,0,0,0
+southern 1287,2,2,2,1,4,0,0,0,0
+thai 289,0,2,2,1,3,1,0,0,0
+https //wwwrecipezazzcom/rz new/img/categories/menu conveniencepng convenience,2,0,5,0,0,4,0,0,0
+5 minute prep 3457,2,2,4,1,5,2,0,0,0
+casseroles 1442,2,2,2,1,4,1,0,0,0
+kid pleaser 7235,2,2,3,1,4,2,0,0,0
+quick meals 14845,2,2,3,1,5,1,0,0,0
+small batch cooking 2642,0,2,4,1,4,2,0,1,0
+https //wwwrecipezazzcom/rz new/img/categories/menu occasionpng occasion,2,0,5,0,0,5,0,0,0
+brunch 5725,2,2,2,1,4,1,0,0,0
+game/sports day 5659,2,2,3,1,4,2,0,0,0
+new years 2247,2,2,3,1,4,1,0,0,0
+potluck 4565,2,2,2,1,4,1,0,0,0
+sunday dinner 7932,2,2,3,1,4,2,0,0,0
+valentine s day 1242,0,2,4,1,4,2,0,0,0
+https //wwwrecipezazzcom/rz new/img/categories/menu cooking stylepng cooking style,2,0,7,0,0,5,1,0,0
+blender 1062,2,2,2,1,4,1,0,0,0
+grilling outdoor 1591,2,2,3,1,4,1,1,0,0
+oven bake 10575,2,2,3,1,5,0,1,0,0
+oven roast 1228,2,2,3,1,4,1,0,0,0
+pressure cooker 60,2,2,3,1,2,2,0,0,0
+slow cooker 855,2,2,3,1,3,1,0,0,0
+wok/stir fry 626,0,2,3,1,3,1,1,0,0
+https //wwwrecipezazzcom/rz new/img/categories/menu dietpng diet,2,0,5,0,0,5,0,0,0
+diabetic 1323,2,2,2,1,4,0,0,0,0
+gluten free 13026,2,2,3,1,5,1,0,0,0
+heart healthy 2286,2,2,3,1,4,1,0,0,0
+vegan 2884,2,2,2,1,4,1,0,0,0
+vegetarian 14216,0,2,2,1,5,0,0,0,0
+https //wwwrecipezazzcom/rz new/img/categories/menu make it withpng make it with,2,0,9,0,0,2,2,0,0
+cake mix 253,2,2,3,1,3,1,1,0,0
+canned fruit 273,2,2,3,1,3,1,1,0,0
+canned tomatoes 1086,2,2,3,1,4,1,1,0,0
+frozen vegetables 492,2,2,3,1,3,1,0,0,0
+make it from scratch 10732,2,2,5,1,5,1,1,0,0
+wine 1212,2,2,2,1,4,1,0,0,0
+all recipes,1,2,2,0,0,1,0,0,0
+recipes,1,1,1,0,0,1,0,0,0
+articles,1,1,1,0,0,1,0,0,0
+forums,1,1,1,0,0,1,0,0,0
+meal planner,1,1,2,0,0,2,0,0,0
+login,2,1,1,0,0,1,0,0,0
+advanced search search,2,2,3,0,0,2,0,0,0
+keyword search all words anywords exact phrase,4,2,7,0,0,5,0,0,0
+search go,2,4,2,0,0,1,1,0,0
+browse all categories,2,2,3,0,0,1,0,0,0
+home,1,2,1,0,0,1,0,0,0
+recipes,1,1,1,0,0,1,0,0,0
+main category,1,1,2,0,0,1,0,0,0
+nuts/seeds,1,1,1,0,0,1,0,0,0
+flour,2,1,1,0,0,1,0,0,0
+double almond delight cookies,2,2,4,0,0,3,0,0,0
+2,2,2,1,1,1,0,0,0,0
+write review,0,2,2,0,0,1,0,0,0
+double almond delight cookies,2,0,4,0,0,3,0,0,0
+/rz new/img/icons/photo blackpng,0,2,3,0,0,2,0,0,0
+double almond delight cookies,2,0,4,0,0,3,0,0,0
+16,1,2,1,1,2,0,0,0,0
+servings,2,1,1,0,0,1,0,0,0
+15m pt15m,1,2,2,1,4,1,0,0,0
+prep time,2,1,2,0,0,2,0,0,0
+10m pt10m,1,2,2,1,4,1,0,0,0
+cook time,2,1,2,0,0,2,0,0,0
+25m,1,2,1,1,2,0,0,0,0
+ready in,2,1,2,0,0,0,0,0,0
+recipe 10856,2,2,2,1,5,1,0,0,0
+october 28 2013,2,2,3,1,6,0,0,0,0
+categories desserts cookies shaped snacks nuts/seeds almond,1,2,7,0,0,5,2,0,0
+southern add it in the lunch box budget friendly easy/beginner cooking,1,1,11,0,0,5,1,0,0
+kid pleaser christmas entertaining game/sports day potluck oven,1,1,8,0,0,4,3,0,0
+bake vegetarian make it from scratch flour kosher dairy more,0,1,10,0,0,4,2,0,0
+recipe by,1,0,2,0,0,1,0,0,0
+chef shapeweaver,2,1,2,0,0,2,0,0,0
+save,1,2,1,0,0,0,1,0,0
+recipe,2,1,1,0,0,1,0,0,0
+rate,1,2,1,0,0,1,0,0,0
+review,2,1,1,0,0,1,0,0,0
+print,2,2,1,0,0,1,0,0,0
+get,1,2,1,0,0,0,1,0,0
+cooking,2,1,1,0,0,1,0,0,0
+pin,2,2,1,0,0,1,0,0,0
+share,2,2,1,0,0,1,0,0,0
+add to,1,2,2,0,0,1,0,0,0
+recipe book,2,1,2,0,0,2,0,0,0
+add to,1,2,2,0,0,1,0,0,0
+planner,2,1,1,0,0,1,0,0,0
+add,1,2,1,0,0,0,1,0,0
+private note,2,1,2,0,0,1,0,0,0
+add to,1,2,2,0,0,1,0,0,0
+shopping list,2,1,2,0,0,2,0,0,0
+send,1,2,1,0,0,1,0,0,0
+email,2,1,1,0,0,1,0,0,0
+follow,1,2,1,0,0,0,1,0,0
+member,0,1,1,0,0,1,0,0,0
+recipe by,1,0,2,0,0,1,0,0,0
+chef shapeweaver,2,1,2,0,0,2,0,0,0
+i originally posted this recipe to another site in 2009 the name and,1,2,13,1,4,4,1,0,0
+inspiration for this recipe came from a wonderful lady on another site who,1,1,13,0,0,4,1,0,0
+wanted to remain namelessshe will also remain nameless here if you like,1,1,12,0,0,0,4,0,0
+almonds as much as i do you really are going to enjoy this cookieif you are,1,1,16,0,0,2,5,0,0
+using whole almonds chop them before measuring also if you like a cookie that,1,1,14,0,0,2,4,0,0
+has a sweet/salty thing going on use the roasted and salted almonds to,1,1,13,0,0,3,2,0,0
+flatten the cookies use the flat bottom of a glass dipped in sugarthe way,1,1,14,0,0,4,3,0,0
+that this recipe is written gives me 32 cookies depending on how big you make,1,1,15,1,2,2,5,0,0
+yours you might get more or less the time for each cookie sheet is the time,1,1,16,0,0,5,2,0,0
+for baking please let cookies cool on cookie sheet for 2 to 3 minutes before,1,1,15,1,2,4,3,0,0
+removing let finish cooling on wire racksservings are for 2 cookies each,1,1,12,1,1,3,4,0,0
+and thanks again to my secret chef you know who you are posted to,1,1,14,0,0,2,3,0,0
+zazz on 10/28/13 keep smiling,2,1,5,1,6,3,0,0,0
+original recipe yields 16 servings,2,2,5,1,2,3,0,0,0
+ok,2,2,1,0,0,1,0,0,0
+metric us,2,2,2,0,0,0,0,0,0
+i ve tried it,2,2,4,0,0,1,2,0,0
+ingredients,2,2,1,0,0,1,0,0,0
+add to shopping list,2,2,4,0,0,2,1,0,0
+2 cups all purpose flour,2,2,5,1,1,2,1,1,1
+1 teaspoon baking soda,2,2,4,1,1,3,0,1,1
+1 teaspoon cream of tartar,2,2,5,1,1,3,0,1,1
+1/2 cup shortening,2,2,3,1,2,2,0,1,1
+1/4 cup margarine,2,2,3,1,2,2,0,1,1
+1/2 cup brown sugar,2,2,4,1,2,2,0,1,1
+1/2 cup granulated sugar white,2,2,5,1,2,1,1,1,1
+1 large egg well beaten,2,2,5,1,1,1,1,0,1
+1 teaspoon almond extract,2,2,4,1,1,3,0,1,1
+4 ounces chopped almonds 1 cup chopped,2,2,7,1,2,3,2,1,1
+nutritional,2,2,1,0,0,0,0,0,0
+serving size 1 48 g,1,2,5,1,3,2,1,0,0
+calories 2253,1,1,2,1,4,1,0,0,0
+total fat 133 g,1,1,4,1,3,1,0,0,0
+saturated fat 21 g,1,1,4,1,2,1,1,0,0
+cholesterol 134 mg,1,1,3,1,3,2,0,0,0
+sodium 1067 mg,1,1,3,1,4,2,0,0,0
+total carbohydrate 248 g,1,1,4,1,3,2,0,0,0
+dietary fiber 23 g,1,1,4,1,2,2,0,0,0
+sugars 128 g,1,1,3,1,3,2,0,0,0
+protein 37 g,1,1,3,1,2,1,0,0,0
+calcium 233 mg,1,1,3,1,3,2,0,0,0
+iron 08 mg,1,1,3,1,2,2,0,0,0
+vitamin c 0 mg,1,1,4,1,1,2,1,0,0
+thiamin 01 mg,2,1,3,1,2,2,0,0,0
+step 1,2,2,2,1,1,1,0,0,0
+preheat oven to 350 degrees,2,2,5,1,3,2,0,0,0
+step 2,2,2,2,1,1,1,0,0,0
+sift together flour soda and cream of tartar set aside,2,2,10,0,0,4,1,0,0
+step 3,2,2,2,1,1,1,0,0,0
+in a large bowl cream together both sugars shortening and margarine mixing,1,2,12,0,0,5,1,0,0
+well,2,1,1,0,0,0,0,0,0
+step 4,2,2,2,1,1,1,0,0,0
+add egg and extract mix well,2,2,6,0,0,2,1,0,0
+step 5,2,2,2,1,1,1,0,0,0
+then add flour to creamed mixture a little at a time until well blended then,1,2,15,0,0,3,3,0,0
+stir in almonds,2,1,3,0,0,2,0,0,0
+step 6,2,2,2,1,1,1,0,0,0
+take 1 tablespoon of cookie dough and shape into balls placing on cookie,1,2,13,1,1,6,2,1,0
+sheets,2,1,1,0,0,1,0,0,0
+step 7,2,2,2,1,1,1,0,0,0
+flatten each slightly with the bottom of a sugar coated glass,2,2,11,0,0,3,1,0,0
+step 8,2,2,2,1,1,1,0,0,0
+bake for 10 to 12 minutes or until just lightly browned don t let the,1,2,15,1,4,4,2,0,0
+cookies burn,2,1,2,0,0,1,1,0,0
+tips variations,2,2,2,0,0,2,0,0,0
+no special items needed,2,2,4,0,0,1,1,0,0
+tags desserts cookies shaped snacks,2,2,5,0,0,4,1,0,0
+share it,2,2,2,0,0,1,0,0,0
+related,2,2,1,0,0,0,0,0,0
+recipes,1,2,1,0,0,1,0,0,0
+roundups,1,1,1,0,0,1,0,0,0
+articles,1,1,1,0,0,1,0,0,0
+video,1,1,1,0,0,1,0,0,0
+categories,0,1,1,0,0,1,0,0,0
+banana bread,2,0,2,0,0,1,1,0,0
+banana bread,2,2,2,0,0,1,1,0,0
+0,0,2,1,1,1,0,0,0,0
+bavarian apple tart,2,0,3,0,0,2,0,0,0
+bavarian apple tart,2,2,3,0,0,2,0,0,0
+1,0,2,1,1,1,0,0,0,0
+crispy fry batter,2,0,3,0,0,3,0,0,0
+crispy fry batter,2,2,3,0,0,3,0,0,0
+13,0,2,1,1,2,0,0,0,0
+scary halloween recipes,2,0,3,0,0,2,0,0,0
+scary halloween recipes,2,2,3,0,0,2,0,0,0
+when the goblins are out and the night is upon us hunger strikes in and,1,2,15,0,0,3,2,0,0
+these,0,1,1,0,0,0,0,0,0
+25 leftover christmas turkey recipe ideas,2,0,6,1,2,5,0,0,0
+25 leftover christmas turkey recipe ideas,2,2,6,1,2,5,0,0,0
+looking for turkey leftover recipes,0,2,5,0,0,3,1,0,0
+everyone knows that after a wonderful,1,0,6,0,0,1,1,0,0
+christmas,0,1,1,0,0,1,0,0,0
+43 football dip recipes,2,0,4,1,2,3,0,0,0
+43 football dip recipes,2,2,4,1,2,3,0,0,0
+you know it s football time when you are running around trying to find the,1,2,15,0,0,2,6,0,0
+perfect dip,0,1,2,0,0,1,0,0,0
+martha stewart s banana bread with nuts or chocolate chips,2,0,10,0,0,4,3,0,0
+4,0,2,1,1,1,0,0,0,0
+stuffed chicken rolls with spinach cheese tomato olive sauce,2,0,9,0,0,6,0,0,0
+9,0,2,1,1,1,0,0,0,0
+glazed apple fritters,2,0,3,0,0,2,1,0,0
+4,0,2,1,1,1,0,0,0,0
+apricot cobbler dessert,2,0,3,0,0,2,0,0,0
+recipe stories / blog,2,2,4,0,0,3,1,0,0
+apricot cobbler dessert,2,2,3,0,0,2,0,0,0
+delete this it s that time of day again when the clock turns to a certain,2,2,16,0,0,4,2,0,0
+posted by,0,2,2,0,0,0,1,0,0
+wayne peters,2,0,2,0,0,2,0,0,0
+follow,0,2,1,0,0,0,1,0,0
+apricot cobbler dessert,2,0,3,0,0,2,0,0,0
+recipe stories / blog,2,2,4,0,0,3,1,0,0
+apricot cobbler dessert,2,2,3,0,0,2,0,0,0
+it s that time of day again when the clock turns to a certain time and seems,1,2,17,0,0,4,3,0,0
+to,2,1,1,0,0,0,0,0,0
+posted by,0,2,2,0,0,0,1,0,0
+wayne peters,2,0,2,0,0,2,0,0,0
+follow,0,2,1,0,0,0,1,0,0
+hawaiian fried egg peanut butter pickle sandwich,2,0,7,0,0,5,1,0,0
+hawaiian fried egg peanut butter pickle sandwich,2,2,7,0,0,5,1,0,0
+eggs,1,2,1,0,0,1,0,0,0
+nuts/seeds,0,1,1,0,0,1,0,0,0
+our favourite lemon loaf,2,0,4,0,0,2,0,0,0
+our favourite lemon loaf,2,2,4,0,0,2,0,0,0
+flour,1,2,1,0,0,1,0,0,0
+fruit,0,1,1,0,0,1,0,0,0
+toasted coconut cake doughnuts,2,0,4,0,0,2,2,0,0
+toasted coconut cake doughnuts,2,2,4,0,0,2,2,0,0
+flour,1,2,1,0,0,1,0,0,0
+fruit,1,1,1,0,0,1,0,0,0
+sugar,2,1,1,0,0,1,0,0,0
+write review,2,2,2,0,0,1,0,0,0
+fancipantsnanci,2,2,1,0,0,1,0,0,0
+these are great cookies that we enjoy all the time great for the holidays,1,2,14,0,0,3,2,0,0
+too which i will be making again this year,0,1,9,0,0,2,2,0,0
+review by fancipantsnanci,2,0,3,0,0,2,0,0,0
+03-Dec-15,2,2,3,1,5,1,0,0,0
+meganmuffins,2,2,1,0,0,1,0,0,0
+i made these and right out of the oven i dipped them in confectioners sugar,1,2,15,0,0,4,4,0,0
+they are delicious and my lil guy couldn t wait to take some to school in his,1,1,17,0,0,6,2,0,0
+lunch box a real winner for the 3 of us,0,1,10,1,1,2,1,0,0
+review by meganmuffins,2,0,3,0,0,2,0,0,0
+02-Nov-13,2,2,3,1,5,0,0,0,0
+popular recipes,0,2,2,0,0,1,0,0,0
+cinnamon bread french toast,2,0,4,0,0,3,0,0,0
+cinnamon bread french toast,0,2,4,0,0,3,0,0,0
+recipe by,2,0,2,0,0,1,0,0,0
+derf rip,0,2,2,0,0,2,0,0,0
+jackie s chicken scampi yankee kitchen,2,0,6,0,0,6,0,0,0
+jackie s chicken scampi yankee kitchen,0,2,6,0,0,6,0,0,0
+recipe by,2,0,2,0,0,1,0,0,0
+forevermama,0,2,1,0,0,1,0,0,0
+knock your socks off chicken,2,0,5,0,0,2,1,0,0
+knock your socks off chicken,0,2,5,0,0,2,1,0,0
+recipe by,2,0,2,0,0,1,0,0,0
+teresas,0,2,1,0,0,1,0,0,0
+roasted asparagus with balsamic vinegar,2,0,5,0,0,2,1,0,0
+roasted asparagus with balsamic vinegar,0,2,5,0,0,2,1,0,0
+recipe by,2,0,2,0,0,1,0,0,0
+mikekey,2,2,1,0,0,1,0,0,0
+recently viewed recipes,0,2,3,0,0,1,1,0,0
+double almond delight cookies,2,0,4,0,0,3,0,0,0
+double almond delight cookies,0,2,4,0,0,3,0,0,0
+recipe by,2,0,2,0,0,1,0,0,0
+chef,2,2,1,0,0,1,0,0,0
+load more,2,2,2,0,0,1,0,0,0
+exclusive recipes,2,2,2,0,0,1,0,0,0
+subscribe newsletter,2,2,2,0,0,2,0,0,0
+get the latest recipes and tips delivered right to your inbox,2,2,11,0,0,3,2,0,0
+subscribe,0,2,1,0,0,1,0,0,0
+https //wwwrecipezazzcom/rz new/img/site logopng,2,0,4,0,0,2,1,0,0
+recipezazzcom is a recipe sharing social network that allow members to post,1,2,12,0,0,3,4,0,0
+recipes rate and review other member s recipes and engage with other home,1,1,13,0,0,6,1,0,0
+cooks,2,1,1,0,0,1,0,0,0
+home,2,2,1,0,0,1,0,0,0
+blogs,1,2,1,0,0,1,0,0,0
+nutritional facts,1,1,2,0,0,1,0,0,0
+search tips,2,1,2,0,0,2,0,0,0
+recipe,2,2,1,0,0,1,0,0,0
+beverages,1,2,1,0,0,1,0,0,0
+breakfast,1,1,1,0,0,1,0,0,0
+desserts,1,1,1,0,0,1,0,0,0
+dinner,1,1,1,0,0,1,0,0,0
+lunch,1,1,1,0,0,1,0,0,0
+pasta,1,1,1,0,0,1,0,0,0
+slow cooker,2,1,2,0,0,1,0,0,0
+recipe books,2,2,2,0,0,2,0,0,0
+my recipe book,1,2,3,0,0,2,0,0,0
+submitted by sheri,1,1,3,0,0,1,1,0,0
+3397 recipes,2,1,2,1,4,1,0,0,0
+my unreviewed,1,2,2,0,0,0,0,0,0
+submitted by impat,1,1,3,0,0,1,1,0,0
+2826 recipes,2,1,2,1,4,1,0,0,0
+wow,1,2,1,0,0,1,0,0,0
+submitted by meganmuffins,1,1,3,0,0,1,1,0,0
+2471 recipes,2,1,2,1,4,1,0,0,0
+contact us privacy policy security terms conditions register,1,2,8,0,0,6,1,0,0
+support,2,1,1,0,0,1,0,0,0

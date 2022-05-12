@@ -1,0 +1,448 @@
+Sentence,newline_after,newline_before,nwords,numbers,nnumbers,nnouns,nverbs,nunits ,label
+like mother like,1,0,3,0,0,1,0,0,0
+daughter data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20300 20112 3e 3c/svg 3e,0,1,16,1,27,3,2,0,0
+like,1,0,1,0,0,0,0,0,0
+mother like daughter /wp content/themes/pmd lmld/images/headersvg,2,1,6,0,0,5,0,0,0
+search recipes,2,2,2,0,0,2,0,0,0
+home,1,2,1,0,0,1,0,0,0
+about,1,1,1,0,0,0,0,0,0
+about us,1,1,2,0,0,0,0,0,0
+faqs,1,1,1,0,0,1,0,0,0
+bucket lists,1,1,2,0,0,2,0,0,0
+ellen s 55 before 55,1,1,5,1,4,0,1,0,0
+aimee s 100,1,1,3,1,3,1,1,0,0
+recipe index,1,1,2,0,0,2,0,0,0
+main dishes,1,1,2,0,0,1,0,0,0
+beef,1,1,1,0,0,1,0,0,0
+chicken and turkey recipes,1,1,4,0,0,3,0,0,0
+pork recipes,1,1,2,0,0,2,0,0,0
+seafood recipes,1,1,2,0,0,2,0,0,0
+vegetarian recipes,1,1,2,0,0,1,0,0,0
+casseroles and enchiladas,1,1,3,0,0,2,0,0,0
+pasta and pizza recipes,1,1,4,0,0,3,0,0,0
+sandwiches burgers and wraps,1,1,4,0,0,3,0,0,0
+slow cooker recipes,1,1,3,0,0,2,0,0,0
+soup recipes,1,1,2,0,0,2,0,0,0
+dessert recipes,1,1,2,0,0,2,0,0,0
+brownies blondies and bars,1,1,4,0,0,3,0,0,0
+cakes and cupcakes,1,1,3,0,0,2,0,1,0
+candy,1,1,1,0,0,1,0,0,0
+cookies,1,1,1,0,0,1,0,0,0
+frozen desserts,1,1,2,0,0,1,0,0,0
+pies and tarts,1,1,3,0,0,2,0,0,0
+breakfast,1,1,1,0,0,1,0,0,0
+drinks,1,1,1,0,0,1,0,0,0
+sides and appetizers,1,1,3,0,0,2,0,0,0
+salad recipes,1,1,2,0,0,2,0,0,0
+snack recipes,1,1,2,0,0,2,0,0,0
+breads and muffins,1,1,3,0,0,2,0,0,0
+dips and salsas,1,1,3,0,0,2,0,0,0
+other,1,1,1,0,0,0,0,0,0
+baby things,1,1,2,0,0,2,0,0,0
+diy and crafts,1,1,3,0,0,2,0,0,0
+restaurant reviews,1,1,2,0,0,2,0,0,0
+travel posts,1,1,2,0,0,2,0,0,0
+contact,1,1,1,0,0,1,0,0,0
+contact,1,1,1,0,0,1,0,0,0
+work with us,1,1,3,0,0,1,0,0,0
+privacy policy,2,1,2,0,0,2,0,0,0
+x,2,2,1,0,0,1,0,0,0
+skip to primary navigation,1,2,4,0,0,2,0,0,0
+skip to main content,1,1,4,0,0,2,0,0,0
+skip to primary sidebar,2,1,4,0,0,2,0,0,0
+new recipes in your inbox,2,2,5,0,0,2,0,0,0
+new recipes in your inbox,0,2,5,0,0,2,0,0,0
+like mother like daughter,2,0,4,0,0,2,0,0,0
+a blog where a mother and daughter share their favorite recipes,2,2,11,0,0,5,0,0,0
+home,1,2,1,0,0,1,0,0,0
+about,1,1,1,0,0,0,0,0,0
+about us,1,1,2,0,0,0,0,0,0
+faqs,1,1,1,0,0,1,0,0,0
+bucket lists,1,1,2,0,0,2,0,0,0
+ellen s 55 before 55,1,1,5,1,4,0,1,0,0
+aimee s 100,1,1,3,1,3,1,1,0,0
+recipe index,1,1,2,0,0,2,0,0,0
+main dishes,1,1,2,0,0,1,0,0,0
+beef,1,1,1,0,0,1,0,0,0
+chicken and turkey recipes,1,1,4,0,0,3,0,0,0
+pork recipes,1,1,2,0,0,2,0,0,0
+seafood recipes,1,1,2,0,0,2,0,0,0
+vegetarian recipes,1,1,2,0,0,1,0,0,0
+casseroles and enchiladas,1,1,3,0,0,2,0,0,0
+pasta and pizza recipes,1,1,4,0,0,3,0,0,0
+sandwiches burgers and wraps,1,1,4,0,0,3,0,0,0
+slow cooker recipes,1,1,3,0,0,2,0,0,0
+soup recipes,1,1,2,0,0,2,0,0,0
+dessert recipes,1,1,2,0,0,2,0,0,0
+brownies blondies and bars,1,1,4,0,0,3,0,0,0
+cakes and cupcakes,1,1,3,0,0,2,0,1,0
+candy,1,1,1,0,0,1,0,0,0
+cookies,1,1,1,0,0,1,0,0,0
+frozen desserts,1,1,2,0,0,1,0,0,0
+pies and tarts,1,1,3,0,0,2,0,0,0
+breakfast,1,1,1,0,0,1,0,0,0
+drinks,1,1,1,0,0,1,0,0,0
+sides and appetizers,1,1,3,0,0,2,0,0,0
+salad recipes,1,1,2,0,0,2,0,0,0
+snack recipes,1,1,2,0,0,2,0,0,0
+breads and muffins,1,1,3,0,0,2,0,0,0
+dips and salsas,1,1,3,0,0,2,0,0,0
+other,1,1,1,0,0,0,0,0,0
+baby things,1,1,2,0,0,2,0,0,0
+diy and crafts,1,1,3,0,0,2,0,0,0
+restaurant reviews,1,1,2,0,0,2,0,0,0
+travel posts,1,1,2,0,0,2,0,0,0
+contact,1,1,1,0,0,1,0,0,0
+contact,1,1,1,0,0,1,0,0,0
+work with us,1,1,3,0,0,1,0,0,0
+privacy policy,1,1,2,0,0,2,0,0,0
+search recipes,2,1,2,0,0,2,0,0,0
+home breakfast blueberry turnovers,2,2,4,0,0,4,0,0,0
+blueberry turnovers,2,2,2,0,0,2,0,0,0
+created on june 21 2021 updated november 15 2021 18,1,2,10,1,14,1,1,0,0
+comments jump to recipe,2,1,4,0,0,2,1,0,0
+these blueberry turnovers are light and flaky and filled with a sweet,1,2,12,0,0,3,2,0,0
+blueberry filling they are so delicious for breakfast or dessert,0,1,10,0,0,3,2,0,0
+a few blueberry turnovers arranged on a piece of parchment on a wooden tray,1,0,14,0,0,5,1,0,0
+with other blueberries scattered around,1,1,5,0,0,1,1,0,0
+them data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 201200 201500 3e 3c/svg 3e,0,1,16,1,29,3,2,0,0
+a,1,0,1,0,0,0,0,0,0
+few blueberry turnovers arranged on a piece of parchment on a wooden tray,1,1,13,0,0,5,1,0,0
+with other blueberries scattered around them https //i1wpcom/lmldorg/wp,1,1,8,1,1,1,2,0,0
+content/uploads/2016/07/blueberry turnovers 3jpg,2,1,3,1,7,2,0,0,0
+it s ending the near of summer season and i m hanging on to every last drop,1,2,17,0,0,5,3,0,0
+of summer that i can except for the heat,0,1,9,0,0,3,1,0,0
+go away please,0,0,3,0,0,1,1,0,0
+but some of you,1,0,4,0,0,0,0,0,0
+are already probably preparing for fall and back to school season,2,1,11,0,0,3,2,0,0
+these berry turnovers are the perfect dessert for everyone and anyone whether,1,2,12,0,0,5,1,0,0
+you re enjoying the last berries of the season or thinking of after school,1,1,14,0,0,4,2,0,0
+treats for your kiddos,2,1,4,0,0,2,0,0,0
+these blueberry turnovers are the perfect breakfast pastries they re buttery,1,2,11,0,0,5,2,0,0
+flaky soft in the middle with the perfect crispy edges,2,1,10,0,0,3,0,0,0
+these turnovers are simple and easy to make because they start with a store,1,2,14,0,0,2,3,0,0
+bought puff pastry dough and are stuffed full of a fresh blueberry sauce and,1,1,14,0,0,5,3,0,0
+the perfect powdered sugar glaze which totally takes them to the next level,0,1,13,0,0,3,1,0,0
+four blueberry turnovers on a wooden tray each drizzled with a powdered,1,0,12,0,0,3,1,0,0
+sugar glaze over the,1,1,4,0,0,2,0,0,0
+top data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 201200 201500 3e 3c/svg 3e,0,1,16,1,29,3,2,0,0
+four,1,0,1,0,0,0,0,0,0
+blueberry turnovers on a wooden tray each drizzled with a powdered sugar,1,1,12,0,0,4,1,0,0
+glaze over the top https //i2wpcom/lmldorg/wp,1,1,6,1,1,3,0,0,0
+content/uploads/2016/07/blueberry turnovers 6 1jpg,2,1,4,1,8,2,0,0,0
+ingredients needed to make blueberry turnovers,2,2,6,0,0,3,2,0,0
+puff pastry dough,1,2,3,0,0,3,0,0,0
+blueberries fresh preferred but you can use frozen,1,1,8,0,0,1,1,0,0
+granulated sugar,1,1,2,0,0,1,1,0,0
+cornstarch,1,1,1,0,0,1,0,0,0
+water,1,1,1,0,0,1,0,0,0
+egg,1,1,1,0,0,1,0,0,0
+powdered sugar,1,1,2,0,0,1,1,0,0
+milk vanilla extract,0,1,3,0,0,3,0,0,0
+the ingredients needed to make blueberry,1,0,6,0,0,2,2,0,0
+turnovers data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 201200 201500 3e 3c/svg 3e,0,1,16,1,29,4,2,0,0
+the,1,0,1,0,0,0,0,0,0
+ingredients needed to make blueberry,1,1,5,0,0,2,2,0,0
+turnovers https //i2wpcom/lmldorg/wp content/uploads/2016/07/blueberry,1,1,4,1,7,2,1,0,0
+turnovers 7 1jpg,2,1,3,1,2,1,0,0,0
+how to make blueberry turnovers,0,2,5,0,0,2,1,0,0
+get your puff pastry out of the fridge and let it thaw according to the,1,0,15,0,0,3,4,0,0
+directions on the package preheat the oven and line a baking sheet with,1,1,13,0,0,5,1,0,0
+parchment paper,2,1,2,0,0,1,0,0,0
+then you re ready to make your blueberry sauce in a small sauce pan add,1,2,15,0,0,4,3,1,0
+blueberries sugar cornstarch and water and gently stir them together let,1,1,11,0,0,3,3,0,0
+the mixture heat over medium and let it cook for a couple minutes until the,1,1,15,0,0,5,2,1,0
+mixture starts to get nice and bubbly and slightly thickened remove the pot,1,1,13,0,0,2,4,0,0
+from the heat and let the sauce cool,2,1,8,0,0,3,1,0,0
+cut your puff pastry dough into squares down the middle 4 squares per sheet,1,2,14,1,1,6,1,0,0
+spoon 1 to 2 tbs of the blueberry filling into the middle of each square,2,1,15,1,2,4,1,0,0
+whisk together the water and egg in a small bowl and then brush egg wash over,1,2,16,0,0,6,1,1,0
+the edges of each of the pastries fold the pastry squares in half to make a,1,1,16,0,0,4,3,0,0
+triangle press the edges together with your fingers or with a fork pierce,1,1,13,0,0,6,0,0,0
+the top of each turnover with a pork of knife to let the steam escape when,1,1,16,0,0,6,1,0,0
+they are cooking,2,1,3,0,0,0,2,0,0
+place the pastries onto the prepared sheet and repeat with the remaining,1,2,12,0,0,4,1,0,0
+dough and filling brush the remaining egg wash over the top of the turnovers,2,1,14,0,0,5,3,0,0
+bake the turnovers in the oven until the tops are golden brown,2,2,12,0,0,4,2,0,0
+add the powdered sugar milk and vanilla extract to a small bowl and whisk,1,2,14,0,0,6,1,1,0
+them together till smooth add more milk or more powdered sugar as needed to,1,1,14,0,0,2,3,0,0
+get the desired consistency drizzle the glaze over the top of the turnovers,1,1,13,0,0,4,2,0,0
+and serve,0,1,2,0,0,0,1,0,0
+a collage of step by step photos showing how to make blueberry,1,0,12,0,0,5,2,0,0
+turnovers data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20954 202560 3e 3c/svg 3e,0,1,16,1,28,4,2,0,0
+a,1,0,1,0,0,0,0,0,0
+collage of step by step photos showing how to make blueberry,1,1,11,0,0,5,2,0,0
+turnovers https //i3wpcom/lmldorg/wp content/uploads/2016/07/blueberry,1,1,4,1,7,2,1,0,0
+turnovers step by step scaledjpg,2,1,5,0,0,4,0,0,0
+tips for making the best turnovers,2,2,6,0,0,2,1,0,0
+you could also make these with fresh raspberries or blackberries instead of blueberries,1,2,13,0,0,3,1,0,0
+if your berries aren t particularly sweet add 1 extra tablespoon or 2 of sugar to the berry mixture,1,1,19,1,2,5,2,1,0
+don t overfill the turnovers you want to keep the edges mostly sealed so the filling doesn t all leak out of the middle,1,1,24,0,0,7,4,0,0
+instead of adding the glaze after you brush the tops of the pastries with the egg wash you can sprinkle them with granulated sugar or coarse sugar,0,1,27,0,0,7,4,0,0
+a blueberry turnover cut in half to show the flaky layers and the blueberry,1,0,14,0,0,6,1,0,0
+filling data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 201200 201500 3e 3c/svg 3e,0,1,16,1,29,3,3,0,0
+a,1,0,1,0,0,0,0,0,0
+blueberry turnover cut in half to show the flaky layers and the blueberry,1,1,13,0,0,6,1,0,0
+filling https //i1wpcom/lmldorg/wp content/uploads/2016/07/blueberry,1,1,4,1,7,3,1,0,0
+turnovers 2jpg,2,1,2,1,1,1,0,0,0
+everyone will love these sweet and easy homemade pastries they are flaky,1,2,12,0,0,3,2,0,0
+light and delicious and filled with the best fruity filling your family,1,1,12,0,0,3,2,0,0
+your friends or you will devour them in minutes,2,1,9,0,0,2,1,0,0
+more blueberry recipes,2,2,3,0,0,1,0,0,0
+blueberry cheesecake,1,2,2,0,0,2,0,0,0
+blueberry shortcake,1,1,2,0,0,2,0,0,0
+blueberry pie,1,1,2,0,0,2,0,0,0
+blueberry muffins,2,1,2,0,0,2,0,0,0
+connect with like mother like daughter,2,2,6,0,0,3,0,0,0
+be sure to follow us on social media so you never miss a single post,0,2,15,0,0,2,3,0,0
+facebook instagram pinterest email,0,0,4,0,0,4,0,0,0
+a few blueberry turnovers arranged on a piece of parchment on a wooden tray,1,0,14,0,0,5,1,0,0
+with other blueberries scattered around,1,1,5,0,0,1,1,0,0
+them data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20255 20319 3e 3c/svg 3e,0,1,16,1,27,3,2,0,0
+a,1,0,1,0,0,0,0,0,0
+few blueberry turnovers arranged on a piece of parchment on a wooden tray,1,1,13,0,0,5,1,0,0
+with other blueberries scattered around them https //i1wpcom/lmldorg/wp,1,1,8,1,1,1,2,0,0
+content/uploads/2016/07/blueberry turnovers 3jpg,2,1,3,1,7,2,0,0,0
+blueberry turnovers,2,2,2,0,0,2,0,0,0
+created by aimee,2,2,3,0,0,1,1,0,0
+servings 8,2,2,2,1,1,1,0,0,0
+these blueberry turnovers are light and flaky and filled with a sweet,1,2,12,0,0,3,2,0,0
+blueberry filling and are so delicious for breakfast or dessert,0,1,10,0,0,4,1,0,0
+prep time 10 mins,2,0,4,1,2,2,0,0,0
+cook time 23 mins,2,2,4,1,2,3,0,0,0
+total time 33 mins,2,2,4,1,2,2,0,0,0
+print recipe,2,2,2,0,0,2,0,0,0
+pin recipe,2,2,2,0,0,2,0,0,0
+share recipe,2,2,2,0,0,2,0,0,0
+ingredients,2,2,1,0,0,1,0,0,0
+1x2x3x,2,2,1,1,3,0,0,0,0
+for the turnovers,2,2,3,0,0,1,0,0,0
+1 box puff pastry dough 2 sheets,2,2,7,1,2,4,0,0,1
+for the blueberry sauce,2,2,4,0,0,2,0,0,0
+1 cup fresh blueberries,1,2,4,1,1,2,0,1,1
+2 tbs granulated sugar,1,1,4,1,1,2,1,0,1
+1 tbs cornstarch,1,1,3,1,1,2,0,0,1
+1/4 cup water,2,1,3,1,2,2,0,1,1
+for the egg wash,2,2,4,0,0,2,0,0,0
+1 large egg,1,2,3,1,1,1,0,0,1
+1 tbs water,2,1,3,1,1,1,0,0,1
+for the glaze,2,2,3,0,0,1,0,0,0
+1 cup powdered sugar,1,2,4,1,1,2,1,1,1
+2 tbs milk,1,1,3,1,1,2,0,0,1
+1/2 tsp vanilla extract,2,1,4,1,2,2,0,1,1
+instructions,2,2,1,0,0,1,0,0,0
+thaw your puff pastry dough according to package directions,2,2,9,0,0,4,2,0,0
+preheat your oven to 400 degrees,2,2,6,1,3,2,1,0,0
+line a baking sheet with parchment or a silicone liner,2,2,10,0,0,5,0,0,0
+for the blueberry sauce,2,2,4,0,0,2,0,0,0
+in a small sauce pan combine the blueberries sugar cornstach and water stir together carefully,2,2,15,0,0,6,2,1,0
+heat over medium heat for 2 3 minutes until bubbling nicely and thickened slightly,2,2,14,1,2,4,2,1,0
+remove the blueberry sauce from the heat and let it cool,2,2,11,0,0,3,3,0,0
+for the turnovers,2,2,3,0,0,1,0,0,0
+cut the pastry dough into 4 squares per sheet,2,2,9,1,1,4,1,0,0
+put 1 2 tbs of filling in the middle of each square,2,2,12,1,2,3,2,0,0
+for the egg wash,2,2,4,0,0,2,0,0,0
+whisk together the water and egg in a small bowl to create an egg wash,2,2,15,0,0,6,1,1,0
+brush egg wash over each edge of the pastry dough and fold in half to make a triangle press edges together with fingers,2,2,23,0,0,10,2,0,0
+pierce the top of each turnover with a fork or knife to let steam escape,2,2,15,0,0,6,2,0,0
+place on prepared baking sheet and repeat with remaining dough and filling,2,2,12,0,0,5,1,0,0
+brush remaining egg wash over the tops of turnovers,2,2,9,0,0,5,1,0,0
+bake for 15 20 minutes until golden brown,2,2,8,1,4,3,0,0,0
+allow to cool for about 20 minutes,2,2,7,1,2,1,2,0,0
+for the glaze,2,2,3,0,0,1,0,0,0
+add the powdered sugar milk and vanilla extract to a small bowl and whisk them together until smooth add more powdered sugar or more milk as needed to get the right consistency,2,2,32,0,0,8,5,1,0
+drizzle the glaze over each turnover and serve,2,2,8,0,0,2,2,0,0
+nutrition,2,2,1,0,0,1,0,0,0
+calories 264kcalcarbohydrates 36gprotein 3gfat 12gsaturated fat,1,2,6,1,8,2,0,0,0
+3gpolyunsaturated fat 2gmonounsaturated fat 7gtrans fat 1gcholesterol,1,1,7,1,4,1,0,0,0
+21mgsodium 87mgpotassium 46mgfiber 1gsugar 20gvitamin a 46iuvitamin c,1,1,8,1,11,1,0,0,0
+2mgcalcium 12mgiron 1mg,2,1,3,1,4,0,0,0,0
+made this recipe tag me and share,0,2,7,0,0,2,2,0,0
+mention lmldfood or tag lmldfood,0,0,5,0,0,4,0,0,0
+these blueberry turnovers were first posted on july 27 2016 the photos and,1,0,13,1,6,4,2,0,0
+text were updated for clarity on june 21 2021,2,1,9,1,6,3,2,0,0
+these blueberry turnovers were originally made using splenda brand as,1,2,10,0,0,3,3,0,0
+part of a sponsored post for socialstars splendasweeties sweetswaps,1,1,9,0,0,5,0,0,0
+madeinamerica all opinions are my own,4,1,6,0,0,2,1,0,0
+related posts,0,4,2,0,0,1,0,0,0
+a slice of blueberry cheesecake on a white plate topped with blueberry,1,0,12,0,0,4,1,1,0
+sauce whipped cream and fresh,1,1,5,0,0,2,1,0,0
+blueberries data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20750 20938 3e 3c/svg 3e,0,1,16,1,27,4,2,0,0
+a,1,0,1,0,0,0,0,0,0
+slice of blueberry cheesecake on a white plate topped with blueberry sauce,1,1,12,0,0,5,1,1,0
+whipped cream and fresh blueberries https //i0wpcom/lmldorg/wp,1,1,7,1,1,3,2,0,0
+content/uploads/2016/04/blueberry cheesecake 3jpg,2,1,3,1,7,1,1,0,0
+blueberry cheesecake,0,2,2,0,0,2,0,0,0
+blueberry topping in a jar with a,1,0,7,0,0,2,1,0,0
+spoon data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20750 20938 3e 3c/svg 3e,0,1,16,1,27,3,2,0,0
+blueberry,1,0,1,0,0,1,0,0,0
+topping in a jar with a spoon https //i0wpcom/lmldorg/wp,1,1,9,1,1,4,1,0,0
+content/uploads/2020/06/blueberry sauce 9jpg,2,1,3,1,7,1,1,0,0
+blueberry sauce,0,2,2,0,0,2,0,0,0
+a piece of blueberry pie with ice cream on,1,0,9,0,0,5,0,0,0
+top data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20680 20850 3e 3c/svg 3e,0,1,16,1,27,3,2,0,0
+a,1,0,1,0,0,0,0,0,0
+piece of blueberry pie with ice cream on top https //i3wpcom/lmldorg/wp,1,1,11,1,1,7,0,0,0
+content/uploads/2017/11/blueberry pie 3ajpg,2,1,3,1,7,1,1,0,0
+blueberry pie,2,2,2,0,0,2,0,0,0
+breakfast dessert recipes sponsored posts,2,2,5,0,0,4,1,0,0
+reader interactions,2,2,2,0,0,2,0,0,0
+comments,2,2,1,0,0,1,0,0,0
+1 roberta okumura says,2,2,4,1,1,2,1,0,0
+march 1 2022 at 10 27 pm,2,2,7,1,9,2,0,0,0
+can i sprinkle powered sugar on top instead of corse sugar,0,2,11,0,0,3,2,0,0
+reply,2,0,1,0,0,1,0,0,0
+aimee says,2,2,2,0,0,1,1,0,0
+march 2 2022 at 7 27 am,2,2,7,1,8,1,1,0,0
+powdered sugar will soak into the pastry when baked so if you want them extra,1,2,15,0,0,2,5,0,0
+sweet you can add it but you can also leave the extra sugar off,2,1,14,0,0,2,2,0,0
+2 diane toth says,2,2,4,1,1,2,1,0,0
+january 23 2022 at 12 08 pm,0,2,7,1,10,1,0,0,0
+5,1,0,1,1,1,0,0,0,0
+stars data image/gif base64 r0lgoddhaqabapaaap///waaacwaaaaaaqabaeacakqbads,1,1,5,1,3,3,1,0,0
+i was wanting something fruity and sweet this was it,0,1,10,0,0,3,4,0,0
+i will definitely subscribe to your website,0,0,7,0,0,2,1,0,0
+reply,2,0,1,0,0,1,0,0,0
+aimee says,2,2,2,0,0,1,1,0,0
+january 23 2022 at 2 14 pm,2,2,7,1,9,1,0,0,0
+i m so glad you loved it,0,2,7,0,0,1,1,0,0
+3 judy eklund says,2,0,4,1,1,2,1,0,0
+august 29 2021 at 12 34 pm,2,2,7,1,10,1,0,0,0
+excellent recipe will be making all kinds of delicious turnovers now that i,1,2,13,0,0,4,2,0,0
+found this recipe,0,1,3,0,0,1,1,0,0
+reply,2,0,1,0,0,1,0,0,0
+4 terri jeppesen says,2,2,4,1,1,2,1,0,0
+august 18 2021 at 3 24 am,0,2,7,1,9,0,1,0,0
+5,1,0,1,1,1,0,0,0,0
+stars data image/gif base64 r0lgoddhaqabapaaap///waaacwaaaaaaqabaeacakqbads,1,1,5,1,3,3,1,0,0
+wonderful absolutely wonderful and easy recipe,0,1,6,0,0,1,0,0,0
+my family loves it when i,1,0,6,0,0,2,1,0,0
+bake and these are one of the favories,2,1,8,0,0,2,1,0,0
+reply,2,2,1,0,0,1,0,0,0
+5 yolanda davis says,2,2,4,1,1,2,1,0,0
+july 20 2021 at 5 28 am,2,2,7,1,9,0,1,0,0
+thank you so very much ellen and aimee for all your wonderful and delicious,1,2,14,0,0,4,0,0,0
+recipes i make some of them for my two granddaughters and let them bake also,1,1,15,0,0,3,3,0,0
+have a great week yolanda,2,1,5,0,0,2,1,0,0
+reply,2,2,1,0,0,1,0,0,0
+aimee says,2,2,2,0,0,1,1,0,0
+july 20 2021 at 12 31 pm,2,2,7,1,10,1,0,0,0
+yay,0,2,1,0,0,1,0,0,0
+i m so glad you all loved them,2,0,8,0,0,1,1,0,0
+6 laura says,2,2,3,1,1,1,1,0,0
+july 17 2021 at 10 33 am,0,2,7,1,10,0,1,0,0
+5,1,0,1,1,1,0,0,0,0
+stars data image/gif base64 r0lgoddhaqabapaaap///waaacwaaaaaaqabaeacakqbads,1,1,5,1,3,3,1,0,0
+so easy and they look so pretty,0,1,7,0,0,0,1,0,0
+i added a dab of lemon curd to the blueberry,1,0,10,0,0,4,1,0,0
+filling to punch up the flavor delicious especially when served warm thank,1,1,12,0,0,3,2,0,0
+you,0,1,1,0,0,0,0,0,0
+reply,2,0,1,0,0,1,0,0,0
+aimee says,2,2,2,0,0,1,1,0,0
+july 18 2021 at 1 25 pm,2,2,7,1,9,1,0,0,0
+that sounds so good adding lemon curd i will have to try that next time,0,2,15,0,0,3,4,0,0
+7 deana madison says,2,0,4,1,1,2,1,0,0
+december 27 2020 at 8 58 pm,0,2,7,1,9,1,0,0,0
+5,1,0,1,1,1,0,0,0,0
+stars data image/gif base64 r0lgoddhaqabapaaap///waaacwaaaaaaqabaeacakqbads,1,1,5,1,3,3,1,0,0
+easeasy and delishouse y and delicious,2,1,6,0,0,3,0,0,0
+reply,2,2,1,0,0,1,0,0,0
+8 becky b says,2,2,4,1,1,2,1,0,0
+july 25 2020 at 7 10 am,0,2,7,1,9,0,1,0,0
+5,1,0,1,1,1,0,0,0,0
+stars data image/gif base64 r0lgoddhaqabapaaap///waaacwaaaaaaqabaeacakqbads,1,1,5,1,3,3,1,0,0
+loved this recipe,0,1,3,0,0,1,1,0,0
+they were gone very quickly,0,0,5,0,0,0,2,0,0
+instead of doing the glaze,1,0,5,0,0,1,1,0,0
+drizzle i did an egg wash and sprinkled coarse sugar on top before baking,0,1,14,0,0,7,3,0,0
+so,1,0,1,0,0,0,0,0,0
+good,0,1,1,0,0,0,0,0,0
+reply,2,0,1,0,0,1,0,0,0
+ellen says,2,2,2,0,0,1,1,0,0
+august 4 2020 at 6 29 pm,2,2,7,1,8,1,0,0,0
+that sounds so good i love the change,2,2,8,0,0,2,2,0,0
+9 karly says,2,2,3,1,1,0,1,0,0
+august 2 2016 at 8 24 am,2,2,7,1,8,0,1,0,0
+omg totally drooling over here i mean i ve already had one breakfast today,1,2,14,0,0,2,4,0,0
+but as the most important meal of the day it wouldn t be too terrible to have,1,1,17,0,0,2,3,0,0
+another right,0,1,2,0,0,1,0,0,0
+i just don t know if i can wait to try these guys,0,0,13,0,0,3,4,0,0
+reply,2,0,1,0,0,1,0,0,0
+10 denise sweet peas saffron says,2,2,6,1,2,3,2,0,0
+july 29 2016 at 11 43 am,2,2,7,1,10,0,1,0,0
+i m hanging onto summer well into september,0,2,8,0,0,2,2,0,0
+i hate that they already have,1,0,6,0,0,1,2,0,0
+back to school stuff in the stores / these look so delicious,0,1,12,0,0,3,2,0,0
+i love,1,0,2,0,0,1,1,0,0
+turnovers from scratch,0,1,3,0,0,2,0,0,0
+reply,2,0,1,0,0,1,0,0,0
+11 megan the emotional baker says,2,2,6,1,2,1,1,0,0
+july 29 2016 at 5 00 am,2,2,7,1,9,0,1,0,0
+why does summer have to end,0,2,6,0,0,1,3,0,0
+i ve been obsessed with making fresh fruit,1,0,8,0,0,2,4,0,0
+treats this year and i m sure i d absolutely love these turnovers so,1,1,14,0,0,5,1,0,0
+beautiful and perfect,0,1,3,0,0,2,0,0,0
+reply,2,0,1,0,0,1,0,0,0
+12 ayn says,2,2,3,1,2,1,1,0,0
+july 28 2016 at 8 53 am,2,2,7,1,9,0,1,0,0
+c n you please give the amount of sugar neede in this recipe if you prefer,1,2,16,0,0,5,4,0,0
+not to use splenda thanks,2,1,5,0,0,1,1,0,0
+reply,2,2,1,0,0,1,0,0,0
+aimee berrett says,2,2,3,0,0,1,2,0,0
+july 28 2016 at 1 01 pm,2,2,7,1,9,1,0,0,0
+yeah of course it should be the same amount of sugar as splenda so it d be 2,1,2,18,1,1,5,3,0,0
+tbs sugar and 1 to 1 1/4 cup of powdered sugar,0,1,11,1,4,4,0,1,0
+leave a reply cancel reply,2,0,5,0,0,3,1,0,0
+your email address will not be published required fields are marked,2,2,11,0,0,3,4,0,0
+recipe rating recipe rating,1,2,4,0,0,4,0,0,0
+comment,2,1,1,0,0,1,0,0,0
+name,2,2,1,0,0,1,0,0,0
+email,2,2,1,0,0,1,0,0,0
+primary sidebar,0,2,2,0,0,1,0,0,0
+about like mother like,1,0,4,0,0,1,0,0,0
+daughter data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20150 20150 3e 3c/svg 3e,0,1,16,1,27,3,2,0,0
+about,1,0,1,0,0,0,0,0,0
+like mother like daughter https //i3wpcom/lmldorg/wp,1,1,6,1,1,4,0,0,0
+content/uploads/2022/01/858233 480562412007947 1239303290 o 1 150x150 1jpeg,2,1,7,1,45,2,0,0,0
+welcome,0,2,1,0,0,1,0,0,0
+hi,0,0,1,0,0,1,0,0,0
+we are ellen and aimee the mother daughter duo behind this blog,0,0,12,0,0,4,3,0,0
+here,1,0,1,0,0,0,0,0,0
+we share our favorite recipes that will quickly become favorites for your,1,1,12,0,0,3,1,0,0
+family as well read more,2,1,5,0,0,1,1,0,0
+get our new recipes,2,2,4,0,0,1,1,0,0
+in your inbox,0,2,3,0,0,1,0,0,0
+thank you,0,0,2,0,0,1,0,0,0
+you have successfully subscribed to our newsletter,2,0,7,0,0,1,2,0,0
+subscribe,1,2,1,0,0,1,0,0,0
+data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 2020 2020 3e 3c/svg 3e,0,1,15,1,25,3,2,0,0
+https //staticmailerlitecom/images/rolling 2xgif,2,0,3,1,1,1,1,0,0
+find recipes,2,2,2,0,0,1,1,0,0
+search recipes,0,2,2,0,0,2,0,0,0
+50 fixes for brownie,1,0,4,1,2,2,0,0,0
+mixes data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20389 20499 3e 3c/svg 3e,0,1,16,1,27,4,2,0,0
+50,1,0,1,1,2,0,0,0,0
+fixes for brownie mixes https //i0wpcom/lmldorg/wp,1,1,6,1,1,4,1,0,0
+content/uploads/2022/01/cookbookjpg,2,1,1,1,6,1,0,0,0
+get our book,0,2,3,0,0,1,1,0,0
+50 fixes for brownie mixes,2,0,5,1,2,3,0,0,0
+gooey chewy and chocolaty brownies are everyone s favorite dessert,0,2,10,0,0,7,1,0,0
+get your copy,0,0,3,0,0,1,1,0,0
+get our new recipes,2,0,4,0,0,1,1,0,0
+in your inbox,0,2,3,0,0,1,0,0,0
+thank you,0,0,2,0,0,1,0,0,0
+you have successfully subscribed to our newsletter,2,0,7,0,0,1,2,0,0
+subscribe,1,2,1,0,0,1,0,0,0
+data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 2020 2020 3e 3c/svg 3e,0,1,15,1,25,3,2,0,0
+https //staticmailerlitecom/images/rolling 2xgif,2,0,3,1,1,1,1,0,0
+2022 like mother like daughter privacy policy about contact,2,2,9,1,4,5,0,0,0
+design by pixel me designs,2,2,5,0,0,2,1,0,0
+this blog contains affiliate links we include these links to help you find,1,2,13,0,0,3,4,0,0
+products that we love and use in our recipes if you purchase an item from the,1,1,16,0,0,3,3,0,0
+link on like mother like daughter we will receive a small percentage of the,1,1,14,0,0,4,1,1,0
+purchase at no extra cost to you like mother like daughter is a participant,1,1,14,0,0,5,1,0,0
+in the amazon services llc associates program an affiliate advertising,1,1,10,0,0,5,2,0,0
+program designed to provide a means for sites to earn advertising fees by,1,1,13,0,0,5,3,0,0
+advertising and linking to amazoncom,2,1,5,0,0,1,2,0,0
+pinterest,1,2,1,0,0,1,0,0,0
+facebook,1,1,1,0,0,1,0,0,0

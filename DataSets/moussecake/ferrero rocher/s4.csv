@@ -1,0 +1,246 @@
+Sentence,newline_after,newline_before,nwords,numbers,nnumbers,nnouns,nverbs,nunits ,label
+the cooking foodie /images/desktop logojpg,2,0,5,0,0,3,0,0,0
+home,1,2,1,0,0,1,0,0,0
+recipes,1,1,1,0,0,1,0,0,0
+contact,1,1,1,0,0,1,0,0,0
+shop,0,1,1,0,0,1,0,0,0
+ferrero rocher cake recipe /images/site/products/youtube lazyjpg,2,0,6,0,0,5,0,0,0
+ferrero rocher cake recipe,2,2,4,0,0,3,0,0,0
+2019 02 26,2,2,3,1,8,0,0,0,0
+35 stars 145 voters,2,2,4,1,5,2,0,0,0
+12 comments,2,2,2,1,2,1,0,0,0
+this cake is a special cake for ferrero rocher lover this ferrero rocher cake,1,2,14,0,0,8,1,0,0
+is rich delicate full of hazelnut and chocolate flavors perfect cake for,1,1,12,0,0,4,2,0,0
+birthdays holidays or just a cake for the weekend this beautiful cake,1,1,12,0,0,4,1,0,0
+contains 3 layers of chocolate hazelnut cake chocolate hazelnut frosting,1,1,10,1,1,6,2,0,0
+wafers and ferrero rocher candies,2,1,5,0,0,4,0,0,0
+difficulty,2,2,1,0,0,1,0,0,0
+medium,2,2,1,0,0,1,0,1,0
+yields,2,2,1,0,0,1,0,0,0
+10,2,2,1,1,2,0,0,0,0
+prep time,2,2,2,0,0,2,0,0,0
+1 hours,2,2,2,1,1,1,0,0,0
+work time,2,2,2,0,0,2,0,0,0
+30 minutes,2,2,2,1,2,1,0,0,0
+recipe cuisine,2,2,2,0,0,2,0,0,0
+world,2,2,1,0,0,1,0,0,0
+ingredients,2,2,1,0,0,1,0,0,0
+for the cake,2,2,3,0,0,1,0,0,0
+6 eggs,1,2,2,1,1,1,0,0,1
+1/2 cup 100g sugar,1,1,4,1,5,2,0,1,1
+180g 6oz ground hazelnuts,1,1,4,1,4,2,0,0,1
+3 tablespoons 25g flour,1,1,4,1,3,2,0,1,1
+3 tablespoons 22g cocoa powder,1,1,5,1,3,3,0,1,1
+2 teaspoons baking powder,1,1,4,1,1,2,1,1,1
+pinch salt,2,1,2,0,0,2,0,1,1
+for the frosting,2,2,3,0,0,1,0,0,0
+260g 1 cup 2 tablespoons butter room temperature,1,2,8,1,5,5,0,1,1
+2/3 cup 200g nutella,1,1,4,1,5,2,0,1,1
+170g 6oz dark/milk chocolate,2,1,4,1,4,2,0,0,1
+for the syrup,2,2,3,0,0,1,0,0,0
+1/2 cup 100g sugar,1,2,4,1,5,2,0,1,1
+1/2 cup 120ml water,2,1,4,1,5,2,0,1,1
+also,2,2,1,0,0,0,0,0,0
+40g crushed wafers,1,2,3,1,2,1,1,0,1
+8 ferrero rocher candies,1,1,4,1,1,3,0,0,1
+100g 35oz chopped hazelnuts,2,1,4,1,5,1,1,0,1
+directions,2,2,1,0,0,1,0,0,0
+1 preheat oven to 350f 175c line three 8 inch 20cm round pans with,1,2,14,1,10,5,1,1,0
+parchment paper and grease with butter,2,1,6,0,0,3,0,0,0
+2 place the hazelnuts in a food processor and process until finely ground,2,2,13,1,1,6,0,0,0
+3 in one bowl sift flour cocoa powder baking powder stir in the ground,1,2,14,1,1,6,2,0,0
+hazelnuts,2,1,1,0,0,1,0,0,0
+4 in a large bowl whip eggs on high speed slowly add sugar and whip until,1,2,16,1,1,6,1,0,0
+tripled in volume about 10 minutes,2,1,6,1,2,2,1,0,0
+5 using a spatula gently fold the dry ingredients into the eggs in 3,1,2,14,1,2,3,2,0,0
+additions,2,1,1,0,0,1,0,0,0
+6 divide the batter between three pans and bake for 40 minutes until a,1,2,14,1,3,3,1,0,0
+toothpick inserted in the center comes out clean,2,1,8,0,0,2,2,0,0
+7 let cool for 10 minutes in the pans release from the pan and let cool,1,2,16,1,3,5,2,0,0
+completely on cooling rack,2,1,4,0,0,1,1,0,0
+8 make the frosting in a heatproof bowl melt the chocolate over a double,1,2,14,1,1,4,2,0,0
+boiler or in a microwave in a 30 sec pulses and let cool to room,1,1,15,1,2,6,1,0,0
+temperature add room temperature butter and nutella whip until fully,1,1,10,0,0,5,1,0,0
+incorporated and fluffy,2,1,3,0,0,0,2,0,0
+9 assemble transfer 5 6 tablespoons of the frosting to a piping bag and,1,2,14,1,3,5,0,1,0
+keep for later place one cake layer on your serving dish spread a layer of,1,1,15,0,0,5,2,0,0
+frosting and sprinkle with half of the crushed wafers place another layer of,1,1,13,0,0,5,1,0,0
+cake and repeat the process spread the remaining frosting on top and side of,1,1,14,0,0,4,3,0,0
+the cake,2,1,2,0,0,1,0,0,0
+10 for final decoration toast the hazelnuts on a pan crush them and coat,1,2,14,1,2,4,1,0,0
+the side of the cake pipe starts on top of the cake and place 1 ferrero,1,1,16,1,1,7,1,0,0
+rocher on each star,2,1,4,0,0,2,0,0,0
+11 refrigerate for 2 hours before serving,2,2,7,1,3,2,1,0,0
+notes,2,2,1,0,0,1,0,0,0
+i forgot to show it in the video but to make the cake more moist before you,1,2,17,0,0,4,3,0,0
+spread the frosting over the cake layers brush the cake with some syrup rum,1,1,14,0,0,5,3,0,0
+jam water or some other liquid otherwise your cake will be too dry,0,1,13,0,0,3,1,0,0
+recipe for a simple syrup to soak the cake in a medium saucepan combine,1,0,14,0,0,6,1,1,0
+cup sugar and 1/2 cup water bring to a boil stirring until sugar has,1,1,14,1,2,7,2,1,0
+dissolved allow to cool,2,1,4,0,0,0,2,0,0
+you can make this cake with only two layers,2,2,9,0,0,2,1,0,0
+if your oven is big enough you can bake all 3 cake pans together my over,1,2,16,1,1,3,2,0,0
+is too small for that,2,1,5,0,0,0,1,1,0
+for the decoration i chopped the hazelnuts coarsely but looking back i,1,2,12,0,0,4,2,0,0
+think it is better to finely chop them,2,1,8,0,0,0,3,0,0
+making this recipe,0,2,3,0,0,1,1,0,0
+share it with us on instagram and tag thecookingfoodie so we can see your,1,0,14,0,0,4,1,0,0
+cooking adventures,0,1,2,0,0,2,0,0,0
+ferrero rocher,1,0,2,0,0,2,0,0,0
+hazelnut,1,1,1,0,0,1,0,0,0
+birthday cake,1,1,2,0,0,1,1,0,0
+cake recipes,1,1,2,0,0,2,0,0,0
+desserts,1,1,1,0,0,1,0,0,0
+christmas dessert recipes,1,1,3,0,0,3,0,0,0
+thanksgiving dessert recipes,2,1,3,0,0,2,1,0,0
+comments 12,2,2,2,1,2,1,0,0,0
+g,2,2,1,0,0,1,0,0,0
+gigi,2,2,1,0,0,1,0,0,0
+11/18/2019,2,2,1,1,8,0,0,0,0
+will this taste as good if made the night before,0,2,10,0,0,2,1,0,0
+reply,0,0,1,0,0,1,0,0,0
+the cooking foodie logo /images/logo blackjpg,2,0,6,0,0,5,0,0,0
+the cooking foodie,2,2,3,0,0,2,0,0,0
+11/19/2019,2,2,1,1,8,0,0,0,0
+yes,2,2,1,0,0,1,0,0,0
+reply,2,2,1,0,0,1,0,0,0
+m,2,2,1,0,0,1,0,0,0
+marion,2,2,1,0,0,1,0,0,0
+6/23/2020,2,2,1,1,7,0,0,0,0
+lovely recipe cake was beautiful recipe was perfect in every way,2,2,11,0,0,3,2,0,0
+reply,2,2,1,0,0,1,0,0,0
+s,2,2,1,0,0,1,0,0,0
+shakthi,2,2,1,0,0,1,0,0,0
+05-03-2020,2,2,1,1,6,0,0,0,0
+how many kgs this ferrero rocher cake yields,0,2,8,0,0,2,1,0,0
+reply,2,0,1,0,0,1,0,0,0
+s,2,2,1,0,0,1,0,0,0
+sanah,2,2,1,0,0,1,0,0,0
+6/27/2020,2,2,1,1,7,0,0,0,0
+hi i want to make this cake put what flour do you use,0,2,13,0,0,4,5,0,0
+plain or self raising,0,0,4,0,0,3,0,0,0
+reply,0,0,1,0,0,1,0,0,0
+the cooking foodie logo /images/logo blackjpg,2,0,6,0,0,5,0,0,0
+the cooking foodie,2,2,3,0,0,2,0,0,0
+6/29/2020,2,2,1,1,7,0,0,0,0
+plain flour,2,2,2,0,0,0,0,0,0
+reply,2,2,1,0,0,1,0,0,0
+show more comments,2,2,3,0,0,2,0,0,0
+m,2,2,1,0,0,1,0,0,0
+mark boreham,2,2,2,0,0,2,0,0,0
+11-12-2020,2,2,1,1,8,0,0,0,0
+plain or self raising flour,0,2,5,0,0,3,1,0,0
+reply,2,0,1,0,0,1,0,0,0
+l,2,2,1,0,0,1,0,0,0
+lady jane briones,2,2,3,0,0,2,0,0,0
+12/16/2020,2,2,1,1,8,0,0,0,0
+what kind of wafers did you use,0,2,7,0,0,2,2,0,0
+reply,2,0,1,0,0,1,0,0,0
+b,2,2,1,0,0,1,0,0,0
+biff,2,2,1,0,0,1,0,0,0
+6/25/2021,2,2,1,1,7,0,0,0,0
+i was also wondering this as well,0,2,7,0,0,1,2,0,0
+reply,2,0,1,0,0,1,0,0,0
+arietta,2,2,1,0,0,1,0,0,0
+02-05-2021,2,2,1,1,6,0,0,0,0
+hello thanks for your recipe have tried it but the base of cake was,1,2,14,0,0,4,3,0,0
+bitter any tips to avoid that,0,1,6,0,0,1,1,0,0
+reply,2,0,1,0,0,1,0,0,0
+j,2,2,1,0,0,1,0,0,0
+jan veale,2,2,2,0,0,2,0,0,0
+04-02-2022,2,2,1,1,6,0,0,0,0
+the timings for this are way out 15 mins max,0,2,10,1,2,3,2,0,0
+reply,2,0,1,0,0,1,0,0,0
+post a comment,2,2,3,0,0,2,0,0,0
+your email address will not be published,2,2,7,0,0,2,2,0,0
+notify me of followup comments via email,2,2,7,0,0,2,0,0,0
+join to the newsletter,2,2,4,0,0,2,0,0,0
+post comment,2,2,2,0,0,2,0,0,0
+related recipes,0,2,2,0,0,1,0,0,0
+classic vanilla cake recipe how to make birthday,1,0,8,0,0,3,2,0,0
+cake /images/site/products/lazypng,2,1,2,0,0,2,0,0,0
+classic vanilla cake recipe how to make birthday cake,0,2,9,0,0,2,3,0,0
+the best vanilla sponge cake recipe genoise,1,0,7,0,0,5,0,0,0
+/images/site/products/lazypng,2,1,1,0,0,1,0,0,0
+the best vanilla sponge cake recipe genoise,0,2,7,0,0,5,0,0,0
+chocolate birthday cake recipe /images/site/products/lazypng,2,0,5,0,0,3,1,0,0
+chocolate birthday cake recipe,0,2,4,0,0,3,1,0,0
+the best nutella brownies recipe /images/site/products/lazypng,2,0,6,0,0,3,1,0,0
+the best nutella brownies recipe,0,2,5,0,0,2,1,0,0
+healthier ferrero rosher recipe /images/site/products/lazypng,2,0,5,0,0,5,0,0,0
+healthier ferrero rosher recipe,0,2,4,0,0,4,0,0,0
+2 birthday cake recipes how to make birthday,1,0,8,1,1,2,2,0,0
+cake /images/site/products/lazypng,2,1,2,0,0,2,0,0,0
+2 birthday cake recipes how to make birthday cake,2,2,9,1,1,1,3,0,0
+more recipes,0,2,2,0,0,1,0,0,0
+no bake blueberry cheesecake recipe /images/site/products/m lazyjpg,2,0,7,0,0,5,1,0,0
+no bake blueberry cheesecake recipe,2,2,5,0,0,3,1,0,0
+2018 10 12 60 minutes,2,2,5,1,10,1,0,0,0
+no bake blueberry cheesecake recipe easy to make delicate and delicious cake,1,2,12,0,0,4,2,0,0
+that you must try,0,1,4,0,0,0,1,0,0
+read more,0,0,2,0,0,0,1,0,0
+best new york cheesecake recipe /images/site/products/m lazyjpg,2,0,7,0,0,5,0,0,0
+best new york cheesecake recipe,2,2,5,0,0,3,0,0,0
+2018 11 18 1 hours,2,2,5,1,9,1,0,0,0
+new york style cheesecake recipe rich creamy delicate and super delicious,1,2,11,0,0,6,1,0,0
+cake making a cheesecake can be intimidated but if you follow this rec,2,1,13,0,0,3,4,0,0
+read more,0,2,2,0,0,0,1,0,0
+no bake oreo cheesecake /images/site/products/m lazyjpg,2,0,6,0,0,3,1,0,0
+no bake oreo cheesecake,2,2,4,0,0,2,1,0,0
+2018 11 18 30 minutes,2,2,5,1,10,1,0,0,0
+follow this recipe to learn how to make perfect no bake oreo cheesecake with,1,2,14,0,0,3,4,0,0
+white chocolate you can make this cake for birthday or any occasion if,2,1,13,0,0,4,1,0,0
+read more,0,2,2,0,0,0,1,0,0
+matcha crepe cake recipe /images/site/products/m lazyjpg,2,0,6,0,0,4,1,0,0
+matcha crepe cake recipe,2,2,4,0,0,3,1,0,0
+2019 01 17 15 hours,2,2,5,1,10,1,0,0,0
+amazing matcha mille crepe cake with 15 layers of green tea matcha crepes,1,2,13,1,2,6,2,0,0
+between the crepes there is amazing mascarpone cream this cake is so beaut,2,1,13,0,0,4,3,0,0
+read more,0,2,2,0,0,0,1,0,0
+number cake recipe alphabet cake how to make cream,1,0,9,0,0,3,3,0,0
+tart /images/site/products/m lazyjpg,2,1,3,0,0,2,1,0,0
+number cake recipe alphabet cake how to make cream tart,2,2,10,0,0,4,3,0,0
+2019 01 19 25 hours,2,2,5,1,10,1,0,0,0
+decorative cream tart recipe also known as numbers cake or letter cake or,1,2,13,0,0,6,2,0,0
+alphabet cake this cake is super trendy on instagram in 2018 basically it,2,1,13,1,4,3,2,0,0
+read more,0,2,2,0,0,0,1,0,0
+no bake strawberry cheesecake recipe /images/site/products/m lazyjpg,2,0,7,0,0,3,2,0,0
+no bake strawberry cheesecake recipe,2,2,5,0,0,3,1,0,0
+2019 01 19 1 hour,2,2,5,1,9,1,0,0,0
+no bake strawberry cheesecake an easy and beautiful dessert recipe that you,1,2,12,0,0,4,1,0,0
+don t need to bake at all follow this recipe to learn how to make cream,2,1,16,0,0,4,5,0,0
+read more,0,2,2,0,0,0,1,0,0
+tiramisu mousse cake recipe /images/site/products/m lazyjpg,2,0,6,0,0,4,1,0,0
+tiramisu mousse cake recipe,2,2,4,0,0,3,1,0,0
+2019 01 19 45 minutes,2,2,5,1,10,1,0,0,0
+amazing tiramisu cake this is not the traditional tiramisu cake but tiramisu,1,2,12,0,0,5,2,0,0
+mousse cake beautiful elegant and super delicious cake perfect for b,2,1,11,0,0,4,1,0,0
+read more,0,2,2,0,0,0,1,0,0
+flourless chocolate cake recipe /images/site/products/m lazyjpg,2,0,6,0,0,6,0,0,0
+flourless chocolate cake recipe,2,2,4,0,0,4,0,0,0
+2019 01 20 40 minutes,2,2,5,1,10,1,0,0,0
+flourless chocolate cake you need only 4 ingredients to make this gluten,1,2,12,1,1,5,2,0,0
+free chocolate cake this cake is so moist rich and delicious that it goin,2,1,14,0,0,3,2,0,0
+read more,2,2,2,0,0,0,1,0,0
+newsletter,2,2,1,0,0,1,0,0,0
+join our newsletter for free recipes cooking tips video recipes and special,1,2,12,0,0,5,2,0,0
+offers,2,1,1,0,0,1,0,0,0
+send,2,2,1,0,0,1,0,0,0
+categories,2,2,1,0,0,1,0,0,0
+desserts,1,2,1,0,0,1,0,0,0
+cake recipes,1,1,2,0,0,2,0,0,0
+vegan recipes,1,1,2,0,0,1,0,0,0
+vegetarian recipes,1,1,2,0,0,1,0,0,0
+easy recipes,2,1,2,0,0,1,0,0,0
+navigation,2,2,1,0,0,1,0,0,0
+home,1,2,1,0,0,1,0,0,0
+recipes,1,1,1,0,0,1,0,0,0
+contact us,2,1,2,0,0,1,0,0,0
+popular,2,2,1,0,0,0,0,0,0
+tiramisu,1,2,1,0,0,1,0,0,0
+overnight oats,1,1,2,0,0,1,0,0,0
+oreo ice cream,1,1,3,0,0,3,0,0,0
+best chocolate cake,1,1,3,0,0,2,0,0,0
+lasagna,1,1,1,0,0,1,0,0,0
+giant oreo cake,2,1,3,0,0,1,1,0,0
+2022 the cooking foodie all rights reserved,2,2,7,1,4,3,1,0,0

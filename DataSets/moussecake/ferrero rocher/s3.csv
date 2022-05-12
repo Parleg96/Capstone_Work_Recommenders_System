@@ -1,0 +1,238 @@
+Sentence,newline_after,newline_before,nwords,numbers,nnumbers,nnouns,nverbs,nunits ,label
+home,1,0,1,0,0,1,0,0,0
+recipes,1,1,1,0,0,1,0,0,0
+biscuit,2,1,1,0,0,1,0,0,0
+ferrero rocher cake,2,2,3,0,0,3,0,0,0
+another great addition to your recipe collection,0,2,7,0,0,3,0,0,0
+sweet shark cake /media/35flkksf/sweet shark cakejpg,2,0,6,1,2,4,0,0,0
+recipe by,2,2,2,0,0,1,0,0,0
+sweet shark cake,2,2,3,0,0,1,1,0,0
+biscuitbiscuit cakecakecaramelchocolate,0,2,2,0,0,2,0,0,0
+ferrero rocher,1,0,2,0,0,2,0,0,0
+cake /media/a13lfdgf/sweet shark cake 09062021 1jpg width 800 height 800 mode crop bgcolor ffffff,2,1,14,1,17,6,2,0,0
+ingredients,2,2,1,0,0,1,0,0,0
+sponge biscuit,2,2,2,0,0,2,0,0,1
+eggs,2,2,1,0,0,1,0,0,1
+5pc,2,2,1,1,1,0,0,0,1
+sugar,2,2,1,0,0,1,0,0,1
+85g,2,2,1,1,2,0,0,0,1
+298oz,2,2,1,1,3,0,0,0,1
+034cup,2,2,1,1,3,0,0,1,1
+570tbsp,2,2,1,1,3,0,0,1,1
+cocoa powder,2,2,2,0,0,2,0,0,1
+30g,2,2,1,1,2,0,0,0,1
+105oz,2,2,1,1,3,0,0,0,1
+2tbsp,2,2,1,1,1,0,0,1,1
+flour,2,2,1,0,0,1,0,0,1
+26g,2,2,1,1,2,0,0,0,1
+091oz,2,2,1,1,3,0,0,0,1
+174tbsp,2,2,1,1,3,0,0,1,1
+baking powder,2,2,2,0,0,1,1,0,1
+4g,2,2,1,1,1,0,0,0,1
+014oz,2,2,1,1,3,0,0,0,1
+027tbsp,2,2,1,1,3,0,0,1,1
+hazelnuts,2,2,1,0,0,1,0,0,1
+200g,2,2,1,1,3,0,0,0,1
+7oz,2,2,1,1,1,0,0,0,1
+080cup,2,2,1,1,3,0,0,1,1
+1340tbsp,2,2,1,1,4,0,0,1,1
+filling,2,2,1,0,0,0,1,0,0
+butter,2,2,1,0,0,1,0,0,1
+200g,2,2,1,1,3,0,0,0,1
+7oz,2,2,1,1,1,0,0,0,1
+080cup,2,2,1,1,3,0,0,1,1
+1340tbsp,2,2,1,1,4,0,0,1,1
+chocolate,2,2,1,0,0,1,0,0,1
+200g,2,2,1,1,3,0,0,0,1
+7oz,2,2,1,1,1,0,0,0,1
+080cup,2,2,1,1,3,0,0,1,1
+1340tbsp,2,2,1,1,4,0,0,1,1
+nutella,2,2,1,0,0,1,0,0,1
+100g,2,2,1,1,3,0,0,0,1
+350oz,2,2,1,1,3,0,0,0,1
+040cup,2,2,1,1,3,0,0,1,1
+670tbsp,2,2,1,1,3,0,0,1,1
+crunchy waffles,2,2,2,0,0,2,0,0,1
+120g,2,2,1,1,3,0,0,0,1
+420oz,2,2,1,1,3,0,0,0,1
+048cup,2,2,1,1,3,0,0,1,1
+8tbsp,2,2,1,1,1,0,0,1,1
+method,2,2,1,0,0,1,0,0,0
+chocolate cake layers,2,2,3,0,0,3,0,0,0
+1 wash the hazelnuts toast them in the oven at 160c 320f for about 10 15 min after that transfer the nuts to the food processor and grind them into small pieces do not crush to powder however,1,2,38,1,11,7,7,1,0
+2 combine the eggs and sugar together and whip the mixture until frothy and lightened add the sieved dry ingredients and carefully fold them in with a silicone spatula trying to keep the mixture as airy as possible once that is done add the chopped nuts and mix it all together one more time,1,1,54,1,1,10,9,0,0
+3 evenly spraed the cake mixture between two 18cm 710 inch baking pans then bake it at 180c 356f for about 30 min use a toothpick to check if the cakes are ready it should come out completely dry leave the cakes to cool then slice both of them into 2 layers with a cake leveler,2,1,56,1,15,12,9,1,0
+filling,2,2,1,0,0,0,1,0,0
+1 to make the filling melt the chocolate in the microwave or in a hot water bath and then leave it to cool to room temperature,1,2,26,1,1,7,4,0,0
+2 whip the softened butter until you get a fluffy and light colored mixture then start gradually pouring in the melted chocolate one spoon at a time without stopping whipping avoid adding all the chocolate at once otherwise the butter will melt and we definitely don t want that,0,1,49,1,1,11,10,0,0
+3 add the room temperatured nutella take your waffles and chop it into small pieces then add the crumbs to the filling mixture mix it all together with a spatula,2,0,30,1,1,7,5,1,0
+cake assembling,2,2,2,0,0,1,1,0,0
+follow the next assembling order sponge cake layer filling sponge cake,1,2,11,0,0,7,2,0,0
+layer filling sponge cake layer filling sponge cake layer,2,1,9,0,0,5,2,0,0
+if you want you can also decorate your cake with some chocolate ganache,1,2,13,0,0,3,2,0,0
+chocolate whipped cream in the 1 1 ratio or glaze it having refrigerated,1,1,13,1,2,3,4,0,0
+it beforehand with some chocolate gourmet glaze melt 100g 355 oz of,1,1,12,1,6,3,3,0,0
+chocolate then add 33g 120 oz of vegetable oil and 33g 120 oz of,1,1,14,1,10,4,1,0,0
+chopped nuts let the mixture to cool and glaze the cake with it,2,1,13,0,0,3,4,0,0
+recipe source,2,2,2,0,0,2,0,0,0
+next prev,2,2,2,0,0,1,0,0,0
+you will also like next recipe,2,2,6,0,0,1,0,0,0
+french meringue sponge biscuit,2,2,4,0,0,3,0,0,0
+enjoy the chiffon sponge biscuit recipe,0,2,6,0,0,4,1,0,0
+method,2,0,1,0,0,1,0,0,0
+cooking,2,2,1,0,0,1,0,0,0
+combine the egg whites together with sugar add it gradually then whip the mixture until you get a stiff meringue consistency,1,2,21,0,0,5,5,0,0
+start adding the egg yolks one by one without stopping whipping once all of them have been added your mixture should become very fluffy yet stable in consistency,1,1,28,0,0,4,8,0,0
+combine the flour and the starch and then add it to the mixture in 2 3 passes pour in the then fold it into the egg mixture without mixing just move your spatula in one direction as if tucking the ingredients into each other do the same with the rest of the dry mixture,1,1,54,1,2,11,8,0,0
+always remember to check the bottom and the middle of your cake mixture these are the places where flour gathers the most,0,1,22,0,0,6,4,0,0
+bake the sponge at 180c 356f until done,1,0,8,1,6,1,2,0,0
+while baking the cake should still remain quite light in color without going golden brown,2,1,15,0,0,3,3,0,0
+explore full recipe,0,2,3,0,0,1,0,0,0
+french meringue sponge biscuit /assets/imagescms/550x550png,2,0,5,1,6,4,0,0,0
+just as tasty,0,2,3,0,0,0,0,0,0
+/media/4ynntrng/sweet history 09072021 1jpg width 360 height 250 mode crop bgcolor ffffff,2,0,12,1,16,5,1,0,0
+biscuit,2,2,1,0,0,1,0,0,0
+caramel cake with hazelnuts,0,2,4,0,0,2,1,0,0
+/media/guuhbsjf/sweet historyjpg,2,0,2,0,0,2,0,0,0
+sweet history,0,2,2,0,0,1,0,0,0
+/media/5iuljrnc/inna v,1,0,2,1,1,2,0,0,0
+yanchenko 28022021 1jpg width 360 height 250 mode crop bgcolor ffffff,2,1,11,1,15,4,1,0,0
+biscuit,2,2,1,0,0,1,0,0,0
+extra chocolate cake,0,2,3,0,0,2,0,0,0
+/media/lv5jvnww/inna v yanchenkojpg,2,0,3,1,1,3,0,0,0
+innavyanchenko,0,2,1,0,0,1,0,0,0
+/media/lb2f4nfp/tortikotmary 09042021 1jpg width 360 height 250 mode crop bgcolor ffffff,2,0,11,1,17,4,1,0,0
+biscuit,2,2,1,0,0,1,0,0,0
+coffee cake with cranberry caramel,0,2,5,0,0,4,0,0,0
+/media/5ovmdfnq/tortikotmaryjpg,2,0,1,1,1,1,0,0,0
+tortikotmary,0,2,1,0,0,0,0,0,0
+/media/lfhpcpmp/cakeberry 33 24022021 1jpg width 360 height 250 mode crop bgcolor ffffff,2,0,12,1,17,4,1,0,0
+biscuit,2,2,1,0,0,1,0,0,0
+chocolate cake with oreo nutella crispies,0,2,6,0,0,4,0,0,0
+/media/4wkjrqcd/cakeberry 33jpg,2,0,2,1,3,1,0,0,0
+cakeberry 33,0,2,2,1,2,1,0,0,0
+/media/hlugidjb/elvira cake art,1,0,3,0,0,2,1,0,0
+png width 360 height 250 mode crop bgcolor ffffff,2,1,9,1,6,6,1,0,0
+biscuit cake,2,2,2,0,0,2,0,0,0
+chocolate cake with condensed milk caramel frosting,0,2,7,0,0,5,0,0,0
+/media/h1apuolq/elvira cake artjpg,2,0,3,1,1,2,1,0,0
+elvira cake art,0,2,3,0,0,2,1,0,0
+/media/xpkoutnx/ elena kalutska 13122021 1jpg width 360 height 250 mode crop bgcolor ffffff,2,0,13,1,15,5,2,0,0
+biscuit cake,2,2,2,0,0,2,0,0,0
+rich blackcurrant cake with two types of chocolate biscuit,0,2,9,0,0,4,0,0,0
+/media/sweh52tz/ elena kalutskajpg,2,0,3,1,2,2,0,0,0
+elena kalutska,0,2,2,0,0,2,0,0,0
+/media/cyzcxbxr/kseniya akx 01042022 8jpg width 360 height 250 mode crop bgcolor ffffff,2,0,12,1,15,4,2,0,0
+biscuit cake,2,2,2,0,0,2,0,0,0
+chocolate caramel honey cake with baileys cheesecake,0,2,7,0,0,5,1,0,0
+/media/iw3l4cjc/kseniya akxjpg,2,0,2,1,2,2,0,0,0
+kseniya akx,0,2,2,0,0,2,0,0,0
+/media/st0h5use/dom tort spb 28022021 4jpg width 360 height 250 mode crop bgcolor ffffff,2,0,13,1,17,6,2,0,0
+biscuit,2,2,1,0,0,1,0,0,0
+caramel autumn cake,0,2,3,0,0,2,1,0,0
+/media/3bfbhz1l/dom tort spbjpg,2,0,3,1,2,3,0,0,0
+dom tort spb,0,2,3,0,0,3,0,0,0
+/media/bh5ohvlk/ mari bell 04042022 1jpg width 360 height 250 mode crop bgcolor ffffff,2,0,13,1,16,6,2,0,0
+biscuit cake,2,2,2,0,0,2,0,0,0
+chocolate banana cake,0,2,3,0,0,2,1,0,0
+/media/foslhb3a/ mari belljpg,2,0,3,1,1,3,0,0,0
+mari bell,0,2,2,0,0,2,0,0,0
+/media/chwmy5m0/cakeberry 33 01032021 1jpg width 360 height 250 mode crop bgcolor ffffff,2,0,12,1,19,4,1,0,0
+biscuit,2,2,1,0,0,1,0,0,0
+carrot cake with orange caramel,0,2,5,0,0,3,1,0,0
+/media/4wkjrqcd/cakeberry 33jpg,2,0,2,1,3,1,0,0,0
+cakeberry 33,0,2,2,1,2,1,0,0,0
+/media/gmzbyp44/av naira 23032022 1jpg width 360 height 250 mode crop bgcolor ffffff,2,0,12,1,17,4,1,0,0
+biscuit cake,2,2,2,0,0,2,0,0,0
+nut caramel cognac cake,0,2,4,0,0,2,1,0,0
+/media/i0rbblzt/av nairajpg,2,0,2,1,1,2,0,0,0
+av naira,0,2,2,0,0,2,0,0,0
+/media/h0idwmqx/ta samayia 11032022 1jpg width 360 height 250 mode crop bgcolor ffffff,2,0,12,1,16,4,2,0,0
+biscuit cake,2,2,2,0,0,2,0,0,0
+brutal chocolate tafita cake,0,2,4,0,0,2,1,0,0
+/media/yeqdado3/ta samayiajpg,2,0,2,1,1,2,0,0,0
+ta samayia,0,2,2,0,0,2,0,0,0
+/media/jcxpkdtm/nastasia slasti 09042021 2jpg width 360 height 250 mode crop bgcolor ffffff,2,0,12,1,15,5,2,0,0
+biscuit,2,2,1,0,0,1,0,0,0
+caramel peanuts oscar cake,0,2,4,0,0,3,1,0,0
+/media/dtenptxl/nastasia slastijpg,2,0,2,0,0,2,0,0,0
+nastasia slasti,0,2,2,0,0,2,0,0,0
+/media/tarffhnp/maria dolcevita 08032021 2jpg width 360 height 250 mode crop bgcolor ffffff,2,0,12,1,15,5,2,0,0
+biscuit,2,2,1,0,0,1,0,0,0
+chocolate velvet cake,0,2,3,0,0,2,1,0,0
+/media/p1jbs013/maria dolcevitajpg,2,0,2,1,4,2,0,0,0
+maria dolcevita,0,2,2,0,0,1,1,0,0
+/media/isgd0ail/kseniya akx 118275898 4271509119587945 849662585458960002 njpg width 360 height 250 mode crop bgcolor ffffff,2,0,14,1,50,5,2,0,0
+biscuit,2,2,1,0,0,1,0,0,0
+banana caramel cake,0,2,3,0,0,2,1,0,0
+/media/iw3l4cjc/kseniya akxjpg,2,0,2,1,2,2,0,0,0
+kseniya akx,0,2,2,0,0,2,0,0,0
+/media/omqfxqgr/photo,1,0,1,0,0,1,0,0,0
+sweetbijou 23022021 1jpg width 360 height 250 mode crop bgcolor ffffff,2,1,11,1,15,5,1,0,0
+biscuit,2,2,1,0,0,1,0,0,0
+carrot cake with homemade caramel,0,2,5,0,0,3,1,0,0
+/media/13zfyx5h/photo sweetbijoujpg,2,0,2,1,3,2,0,0,0
+photosweetbijou,2,2,1,0,0,1,0,0,0
+for members,2,2,2,0,0,1,0,0,0
+sign in,1,2,2,0,0,1,0,0,0
+register,2,1,1,0,0,1,0,0,0
+online classes,2,2,2,0,0,2,0,0,0
+see all classes,1,2,3,0,0,1,1,0,0
+see all teachers,1,1,3,0,0,1,1,0,0
+get access,2,1,2,0,0,1,1,0,0
+contact us,2,2,2,0,0,1,0,0,0
+contact us,2,2,2,0,0,1,0,0,0
+your favorite website with sweetest recipes,2,2,6,0,0,2,0,0,0
+search by ingredients,2,2,3,0,0,2,0,0,0
+all classes,1,2,2,0,0,1,0,0,0
+all teachers,1,1,2,0,0,1,0,0,0
+price,1,1,1,0,0,1,0,0,0
+recipes,2,1,1,0,0,1,0,0,0
+cake,2,2,1,0,0,1,0,0,0
+vegan desserts,2,2,2,0,0,2,0,0,0
+dairy free,2,2,2,0,0,1,0,0,0
+gluten free,2,2,2,0,0,1,0,0,0
+eclairs,2,2,1,0,0,1,0,0,0
+cheesecake,2,2,1,0,0,1,0,0,0
+cakepops,2,2,1,0,0,1,0,0,0
+cake decoration,2,2,2,0,0,2,0,0,0
+marmalade,2,2,1,0,0,1,0,0,0
+macarons,2,2,1,0,0,1,0,0,0
+find pastry recipe,2,2,3,0,0,2,1,0,0
+find pastry recipe,2,2,3,0,0,2,1,0,0
+what are you looking for,0,2,5,0,0,0,2,0,0
+search by ingredients comma separated,2,0,5,0,0,3,1,0,0
+find,2,2,1,0,0,0,1,0,0
+or select category,2,2,3,0,0,1,1,0,0
+appetizers snacks bakery products biscuit brownies bars,2,2,7,0,0,7,0,0,0
+cake biscuit cake mousse cake,2,2,5,0,0,3,2,0,0
+cake decoration edible flowers toppers sugar flowers gumpaste,2,2,8,0,0,5,2,0,0
+cakepops candy candy bar caramel cheesecake chocolate compote cookies cupcakes,1,2,10,0,0,6,2,1,0
+eclairs food photo gingerbread,2,1,4,0,0,4,0,0,0
+healthy dessert dairy free egg free baking gluten free,2,2,9,0,0,3,1,0,0
+holidays new years eve christmas easter spring easter cake thanksgiving fall,1,2,11,0,0,7,3,0,0
+halloween,2,1,1,0,0,1,0,0,0
+ice cream frozen treats,2,2,4,0,0,4,0,0,0
+icing sugar glaze frosting,2,2,4,0,0,3,1,0,0
+macarons marmalade marshmallow meringue muffins no bake recipes non sweet,1,2,10,0,0,4,3,0,0
+pastry business pastry cream pie plastic chocolate quiche sweet roll,2,1,10,0,0,10,0,0,0
+tart galette,2,2,2,0,0,2,0,0,0
+trifle vegan desserts,2,2,3,0,0,1,0,0,0
+sign in register,2,2,3,0,0,2,0,0,0
+home online school recipes,2,2,4,0,0,4,0,0,0
+online master classes,2,2,3,0,0,2,0,0,0
+all classes price all teachers become a teacher,2,2,8,0,0,3,2,0,0
+recipes,2,2,1,0,0,1,0,0,0
+contact us,2,2,2,0,0,1,0,0,0
+signin with your social account,0,2,5,0,0,2,0,0,0
+/assets/imagescms/icons/google 2xpng gmail,0,0,3,1,1,1,0,0,0
+/assets/imagescms/icons/facebook 2xpng facebook,2,0,3,1,1,2,0,0,0
+signin register,2,2,2,0,0,2,0,0,0
+username or email,2,2,3,0,0,2,0,0,0
+password,2,2,1,0,0,1,0,0,0
+forgot password,0,2,2,0,0,2,0,0,0
+signin,2,0,1,0,0,1,0,0,0
+username,2,2,1,0,0,1,0,0,0
+email,2,2,1,0,0,1,0,0,0
+password,2,2,1,0,0,1,0,0,0
+confirm password,2,2,2,0,0,2,0,0,0
