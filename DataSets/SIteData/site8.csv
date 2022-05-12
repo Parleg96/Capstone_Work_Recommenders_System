@@ -1,0 +1,359 @@
+Sentence,newline_after,newline_before,nwords,numbers,nnumbers,nnouns,nverbs,nunits ,label
+awesome,1,0,1,0,0,1,0,0,0
+cuisine data image/png base64 ivborw0kggoaaaansuheugaaapoaaabaaqmaaacrptmqaaaaa1bmveuaaacnej3aaaaaaxrstlmaqobyzgaaaafis0deaigfhugaaaaasurbvbgz7cexaqaaamig 6dedq9gaadagqalmgabjgxo6aaaaabjru5erkjggg,0,1,6,1,11,5,0,0,0
+awesome,1,0,1,0,0,1,0,0,0
+cuisine https //wwwawesomecuisinecom/wp,1,1,3,0,0,3,0,0,0
+content/uploads/2021/03/awesomecuisinelogopng,2,1,1,1,6,1,0,0,0
+vegetarian,1,2,1,0,0,0,0,0,0
+appetizers snacks,1,1,2,0,0,2,0,0,0
+all vegetarian snacks,1,1,3,0,0,1,0,0,0
+bonda,1,1,1,0,0,1,0,0,0
+samosa,1,1,1,0,0,1,0,0,0
+sundal,1,1,1,0,0,1,0,0,0
+vada,1,1,1,0,0,1,0,0,0
+vadam and vathal,1,1,3,0,0,2,0,0,0
+kebabs,1,1,1,0,0,1,0,0,0
+breads rice,1,1,2,0,0,2,0,0,0
+biryani,1,1,1,0,0,1,0,0,0
+naan,1,1,1,0,0,1,0,0,0
+paratha,1,1,1,0,0,1,0,0,0
+poori,1,1,1,0,0,1,0,0,0
+pulao,1,1,1,0,0,1,0,0,0
+rice,1,1,1,0,0,1,0,0,0
+roti,1,1,1,0,0,1,0,0,0
+vegetarian mains,1,1,2,0,0,1,0,0,0
+curries and gravies,1,1,3,0,0,2,0,0,0
+dal,1,1,1,0,0,1,0,0,0
+paneer,1,1,1,0,0,1,0,0,0
+south indian food,1,1,3,0,0,1,0,0,0
+all south indian recipes,1,1,4,0,0,1,0,0,0
+kootu,1,1,1,0,0,1,0,0,0
+sambar,1,1,1,0,0,1,0,0,0
+rasam,1,1,1,0,0,1,0,0,0
+idli,1,1,1,0,0,1,0,0,0
+dosa,1,1,1,0,0,1,0,0,0
+vegetarian sides,1,1,2,0,0,1,0,0,0
+all side dishes,1,1,3,0,0,2,0,0,0
+chutneys and sauces,1,1,3,0,0,2,0,0,0
+raita,1,1,1,0,0,1,0,0,0
+non vegetarian,1,1,2,0,0,2,0,0,0
+egg,1,1,1,0,0,1,0,0,0
+chicken,1,1,1,0,0,1,0,0,0
+crab,1,1,1,0,0,1,0,0,0
+fish,1,1,1,0,0,1,0,0,0
+mutton,1,1,1,0,0,1,0,0,0
+prawn,1,1,1,0,0,1,0,0,0
+shrimp,1,1,1,0,0,1,0,0,0
+fast food,1,1,2,0,0,1,0,0,0
+burgers,1,1,1,0,0,1,0,0,0
+chaat,1,1,1,0,0,1,0,0,0
+pasta,1,1,1,0,0,1,0,0,0
+pizza,1,1,1,0,0,1,0,0,0
+sandwich,1,1,1,0,0,1,0,0,0
+beverages,1,1,1,0,0,1,0,0,0
+cocktails,1,1,1,0,0,1,0,0,0
+fruit juices,1,1,2,0,0,2,0,0,0
+lassi,1,1,1,0,0,1,0,0,0
+milkshakes,1,1,1,0,0,1,0,0,0
+mocktails,1,1,1,0,0,1,0,0,0
+smoothies,1,1,1,0,0,1,0,0,0
+desserts sweets,1,1,2,0,0,2,0,0,0
+sweets,1,1,1,0,0,1,0,0,0
+all sweets,1,1,2,0,0,1,0,0,0
+burfi,1,1,1,0,0,1,0,0,0
+halwa,1,1,1,0,0,1,0,0,0
+kesari,1,1,1,0,0,1,0,0,0
+laddu,1,1,1,0,0,1,0,0,0
+desserts,1,1,1,0,0,1,0,0,0
+all desserts,1,1,2,0,0,1,0,0,0
+cakes,1,1,1,0,0,1,0,0,0
+chocolate,1,1,1,0,0,1,0,0,0
+cookies,1,1,1,0,0,1,0,0,0
+ice cream,1,1,2,0,0,2,0,0,0
+kheer,1,1,1,0,0,1,0,0,0
+tamil recipes,1,1,2,0,0,2,0,0,0
+health,1,1,1,0,0,1,0,0,0
+salad,1,1,1,0,0,1,0,0,0
+salad dressings,1,1,2,0,0,1,0,0,0
+soup,1,1,1,0,0,1,0,0,0
+pregnancy and postnatal,1,1,3,0,0,2,0,0,0
+international,1,1,1,0,0,0,0,0,0
+chinese,1,1,1,0,0,0,0,0,0
+french,1,1,1,0,0,0,0,0,0
+italian,1,1,1,0,0,0,0,0,0
+mediterranean,1,1,1,0,0,1,0,0,0
+mexican,1,1,1,0,0,0,0,0,0
+middle eastern,1,1,2,0,0,0,0,0,0
+spanish,1,1,1,0,0,0,0,0,0
+thai,1,1,1,0,0,1,0,0,0
+vietnamese,1,1,1,0,0,0,0,0,0
+more,1,1,1,0,0,0,0,0,0
+kids recipes,1,1,2,0,0,2,0,0,0
+indian festival recipes,1,1,3,0,0,2,0,0,0
+fruits vegetables,2,1,2,0,0,2,0,0,0
+home vegetarian paneer paneer manchurian,2,2,5,0,0,5,0,0,0
+paneer,2,2,1,0,0,1,0,0,0
+paneer manchurian,2,2,2,0,0,2,0,0,0
+1 423 views,2,2,3,1,4,1,0,0,0
+perfect amalgamation of indo chinese culinary,2,2,6,0,0,2,0,0,0
+jump to recipe,0,2,3,0,0,1,1,0,0
+paneer,1,0,1,0,0,1,0,0,0
+manchurian data image/png base64 ivborw0kggoaaaansuheugaaafqaaah0aqmaaadxge3jaaaaa1bmveuaaacnej3aaaaaaxrstlmaqobyzgaaaafis0deaigfhugaaaa1surbvbgz7cexaqaaamig 6feywxgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabd9aaab6ainvwaaaabjru5erkjggg,0,1,6,1,14,4,0,0,0
+paneer,1,0,1,0,0,1,0,0,0
+manchurian https //wwwawesomecuisinecom/wp,1,1,3,0,0,2,0,0,0
+content/uploads/2008/02/paneer manchurian 500x500jpg,2,1,3,1,12,2,0,0,0
+paneer manchurian is a perfect amalgamation of indian and chinese cuisines,1,2,11,0,0,4,1,0,0
+cooking paneer with veggies is an indian tradition whereas frying manchurian,1,1,11,0,0,3,3,0,0
+is a chinese cooking practice a combination of both these methods gives you a,1,1,14,0,0,4,2,0,0
+crunchy deep and spicy flavored paneer manchurian which is good enough to,1,1,12,0,0,3,2,0,0
+give a surreal experience to your taste buds,0,1,8,0,0,3,1,0,0
+paneer,1,0,1,0,0,1,0,0,0
+manchurian data image/png base64 ivborw0kggoaaaansuheugaaataaaajlaqmaaadjnlczaaaaa1bmveuaaacnej3aaaaaaxrstlmaqobyzgaaaafis0deaigfhugaaabnsurbvbgz7cexaqaaamig 6deb29gaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaanwdz5wabgpamvaaaaabjru5erkjggg,0,1,6,1,12,4,0,0,0
+paneer,1,0,1,0,0,1,0,0,0
+manchurian https //wwwawesomecuisinecom/wp,1,1,3,0,0,2,0,0,0
+content/uploads/2008/02/paneer manchurianjpg,2,1,2,1,6,2,0,0,0
+some people like to keep their manchurian dry whereas some people prefer it,1,2,13,0,0,2,2,0,0
+thick and saucy hot paneer manchurian can be relished with fried rice or,1,1,13,0,0,5,2,0,0
+chinese hakka noodles as per your taste preference adding one egg white is,1,1,13,0,0,5,2,0,0
+optional as vegetarians will not prefer it however adding the egg white,1,1,12,0,0,2,2,0,0
+gives a smooth consistency to the curry which is a trademark of the chinese,1,1,14,0,0,3,2,0,0
+cuisine,2,1,1,0,0,1,0,0,0
+add spring onions and celery to give it an authentic chinese flavor but you,1,2,14,0,0,4,2,0,0
+can use regular onions and skip the celery if they are not available you can,1,1,15,0,0,2,3,0,0
+also use tofu instead of paneer and the manchurian will still taste,1,1,12,0,0,2,2,0,0
+deliciously and exotic,0,1,3,0,0,0,0,0,0
+do not forget to marinate the paneer cubes in the ginger garlic paste for at,1,0,15,0,0,4,3,0,0
+least 10 to 15 minutes before frying them kids love this delicacy as they get,1,1,15,1,4,3,3,0,0
+to relish something unique and saucy you can serve this dish with your,1,1,13,0,0,3,2,0,0
+regular homemade noodles as well and kids will devour it in no time,2,1,13,0,0,4,1,0,0
+paneer is rich in proteins and the vegetables used make it even more,1,2,13,0,0,3,3,0,0
+nutritional it proves to be a great appetizer and you can also have it as a,1,1,16,0,0,1,3,0,0
+late evening snack corn flour is added to thicken the gravy but add it slowly,1,1,15,0,0,4,5,0,0
+and stir occasionally to prevent the formation of small lumps you can,1,1,12,0,0,2,2,1,0
+directly add the paneer cubes without frying them but fried ones certainly,1,1,12,0,0,3,2,0,0
+taste a lot better,2,1,4,0,0,2,0,0,0
+if you want to enjoy dry or masala paneer manchurian just avoid adding water,1,2,14,0,0,3,4,0,0
+and just drizzle it with extra sauce,0,1,7,0,0,1,1,0,0
+paneer,1,0,1,0,0,1,0,0,0
+manchurian data image/png base64 ivborw0kggoaaaansuheugaaafqaaah0aqmaaadxge3jaaaaa1bmveuaaacnej3aaaaaaxrstlmaqobyzgaaaafis0deaigfhugaaaa1surbvbgz7cexaqaaamig 6feywxgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabd9aaab6ainvwaaaabjru5erkjggg,0,1,6,1,14,4,0,0,0
+paneer,1,0,1,0,0,1,0,0,0
+manchurian https //wwwawesomecuisinecom/wp,1,1,3,0,0,2,0,0,0
+content/uploads/2008/02/paneer manchurian 500x500jpg,2,1,3,1,12,2,0,0,0
+5 from 2 votes,2,2,4,1,2,1,0,0,0
+paneer manchurian recipe,2,2,3,0,0,3,0,0,0
+perfect amalgamation of indo chinese culinary,2,2,6,0,0,2,0,0,0
+prep time15 mins,2,2,3,1,2,3,0,0,0
+cook time20 mins,2,2,3,1,2,3,0,0,0
+course appetizer side dish snack,2,2,5,0,0,3,0,0,0
+cuisine indo chinese,2,2,3,0,0,2,0,0,0
+keyword paneer spicy finger food,2,2,5,0,0,5,0,0,0
+servings 2 people,2,2,3,1,1,2,0,0,0
+ingredients for paneer manchurian,2,2,4,0,0,3,0,0,0
+1/2 cup flour maida,1,2,4,1,2,2,0,1,1
+1/2 tsp chinese salt,1,1,4,1,2,1,0,1,1
+2 tbsp cornflour,1,1,3,1,1,1,1,1,1
+2 tbsp spring onions chopped,1,1,5,1,1,2,1,1,1
+2 tbsp soya sauce,1,1,4,1,1,3,0,1,1
+3 nos green chillies chopped,1,1,5,1,1,2,1,0,1
+4 tsp ginger garlic paste,1,1,5,1,1,2,0,1,1
+6 nos garlic cloves finely chopped,1,1,6,1,1,1,1,0,1
+200 g paneer/ cottage cheese,1,1,5,1,3,3,0,0,1
+salt to taste,1,1,3,0,0,1,1,0,1
+oil for frying,1,1,3,0,0,2,0,0,1
+few coriander leaves chopped,2,1,4,0,0,2,1,0,1
+how to make paneer manchurian,2,2,5,0,0,2,1,0,0
+cut the paneer into square pieces,2,2,6,0,0,2,1,0,0
+marinate the pieces with salt and two teaspoons of ginger garlic paste and keep aside for 10 minutes,2,2,18,1,2,7,2,1,0
+mix cornflour flour ginger garlic paste salt in a bowl and make a batter using a little water,2,2,18,0,0,7,3,0,0
+dip the paneer pieces in this batter and fry in hot oil until they turn golden,2,2,16,0,0,6,1,0,0
+in another pan heat oil and fry the chopped garlic cloves,2,2,11,0,0,5,1,0,0
+now add soya sauce spring onions fried paneer pieces green chillies salt chinese salt one and a half cups of water and let the ingredients simmer,2,2,26,0,0,10,5,1,0
+take three teaspoons of cornflour and half a cup of water and mix well,2,2,14,0,0,5,1,1,0
+add this to the boiling mixture and cook well until the sauce thickens,2,2,13,0,0,5,1,0,0
+add coriander leaves and serve hot,2,2,6,0,0,2,2,0,0
+for dry version,2,2,3,0,0,1,0,0,0
+skip the sauce when the mixture is cooking to make a dry version,2,2,13,0,0,3,4,0,0
+previous post,2,2,2,0,0,1,0,0,0
+malai kofta,2,2,2,0,0,2,0,0,0
+next post,2,2,2,0,0,1,0,0,0
+anjali anand,2,2,2,0,0,2,0,0,0
+anjali is a visionary woman entrepreneur with extraordinary talents with 11,1,2,11,1,2,4,1,0,0
+years of experience in the l d industry she is the co founder of a health,1,1,16,0,0,7,1,0,0
+food start up empowering people to stay fit through food anjali has won,1,1,13,0,0,4,5,0,0
+numerous accolades including upcoming women entrepreneur of the year and,1,1,10,0,0,4,1,0,0
+visionary women s award for innovation in entrepreneurship she has also been,1,1,12,0,0,4,3,0,0
+invited to participate in various programmes on leading tv channels,2,1,10,0,0,3,3,0,0
+paneer kozhukattai,2,2,2,0,0,2,0,0,0
+paneer bhurji,2,2,2,0,0,2,0,0,0
+matar paneer,2,2,2,0,0,2,0,0,0
+paneer burger,2,2,2,0,0,2,0,0,0
+ambala paneer sandwich,2,2,3,0,0,3,0,0,0
+paneer cutlet,2,2,2,0,0,2,0,0,0
+15 comments,2,2,2,1,2,1,0,0,0
+apanirasoi november 24 2012 12 12 pm,2,2,7,1,10,1,0,0,0
+nice recipe and blog,2,2,4,0,0,2,0,0,0
+reply,2,2,1,0,0,1,0,0,0
+devashree october 26 2012 3 34 am,2,2,7,1,9,0,1,0,0
+easy recipe,2,2,2,0,0,1,0,0,0
+reply,2,2,1,0,0,1,0,0,0
+shushma march 19 2012 7 44 am,2,2,7,1,9,1,2,0,0
+can we add mushrooms in this recipe,0,2,7,0,0,2,1,0,0
+reply,2,0,1,0,0,1,0,0,0
+praveen kumar march 19 2012 10 34 am,2,2,8,1,10,1,2,0,0
+depending on one s taste you can add mushrooms,2,2,9,0,0,3,2,0,0
+reply,2,2,1,0,0,1,0,0,0
+hrithik september 2 2011 2 05 am,2,2,7,1,8,0,2,0,0
+it is nice 10/10,2,2,4,1,4,0,1,0,0
+reply,2,2,1,0,0,1,0,0,0
+hrithik september 2 2011 2 02 am,2,2,7,1,8,0,2,0,0
+it is very good i like it very much it s very very very very tasty,2,2,16,0,0,1,1,0,0
+reply,2,2,1,0,0,1,0,0,0
+pyaar december 27 2010 11 18 pm,2,2,7,1,10,2,0,0,0
+recipe is too good and gets an awsm taste,2,2,9,0,0,3,2,0,0
+reply,2,2,1,0,0,1,0,0,0
+snehal september 22 2010 2 20 pm,2,2,7,1,9,1,1,0,0
+paneer manchurian with egg marination,0,2,5,0,0,4,0,0,0
+reply,2,0,1,0,0,1,0,0,0
+ishu kalra march 23 2010 5 01 am,2,2,8,1,9,1,2,0,0
+100/100,2,2,1,1,6,0,0,0,0
+reply,2,2,1,0,0,1,0,0,0
+akshaya march 20 2010 10 36 am,2,2,7,1,10,0,1,0,0
+exellent,2,2,1,0,0,1,0,0,0
+reply,2,2,1,0,0,1,0,0,0
+ritu january 7 2010 2 54 pm,2,2,7,1,8,3,0,0,0
+what kind of flour are you using besides cornflour,0,2,9,0,0,3,2,0,0
+you haven t mentioned anything about paneer whether to soak it in water before,1,0,14,0,0,4,3,0,0
+the process or due we need to marinate the hard paneer without soaking it,0,1,14,0,0,2,3,0,0
+doesn t it be hard,0,0,5,0,0,2,1,0,0
+reply,2,0,1,0,0,1,0,0,0
+ria september 26 2008 1 09 am,2,2,7,1,9,1,2,0,0
+it does have egg white as one of the ingredients though,1,2,11,0,0,1,3,0,0
+so i wouldnt call that 100 vegetarian,2,1,7,1,3,1,1,0,0
+reply,2,2,1,0,0,1,0,0,0
+praveen kumar september 26 2008 3 25 am,2,2,8,1,9,0,2,0,0
+ria,2,2,1,0,0,1,0,0,0
+egg white is optional so you can either add or not depending on your taste,2,2,15,0,0,2,4,0,0
+reply,2,2,1,0,0,1,0,0,0
+brian march 16 2008 7 02 am,2,2,7,1,9,1,1,0,0
+i would like to know whether this receipe of manchurian is vegetarian,2,2,12,0,0,3,3,0,0
+reply,2,2,1,0,0,1,0,0,0
+praveen kumar march 16 2008 7 18 am,2,2,8,1,9,1,2,0,0
+brian,2,2,1,0,0,1,0,0,0
+yes this is vegetarian,2,2,4,0,0,0,1,0,0
+reply,2,2,1,0,0,1,0,0,0
+leave a comment cancel reply,2,2,5,0,0,3,1,0,0
+search recipes,2,2,2,0,0,2,0,0,0
+popular recipes,2,2,2,0,0,1,0,0,0
+vanilla sponge cake,2,2,3,0,0,3,0,0,0
+soan papdi,2,2,2,0,0,2,0,0,0
+smiley face potatoes homemade potato smiley,2,2,6,0,0,4,1,0,0
+hong kong chicken,2,2,3,0,0,0,1,0,0
+cabbage manchurian,2,2,2,0,0,2,0,0,0
+recent recipes,2,2,2,0,0,1,0,0,0
+mint tea,2,2,2,0,0,2,0,0,0
+irish coffee,2,2,2,0,0,1,0,0,0
+chettinad pepper chicken,2,2,3,0,0,3,0,0,0
+malpua,2,2,1,0,0,1,0,0,0
+dahi bhalle,2,2,2,0,0,2,0,0,0
+double cheeseburger,2,2,2,0,0,1,0,0,0
+food glossary,2,2,2,0,0,2,0,0,0
+conversions and equivalents,1,2,3,0,0,2,0,0,0
+indian fruit names in english hindi and tamil,1,1,8,0,0,4,0,0,0
+indian vegetable names in english hindi tamil telugu kannada,1,1,9,0,0,5,0,0,0
+names of indian condiments and spices in tamil telugu kannada hindi and english,2,1,13,0,0,7,1,0,0
+follow awesome cuisine,2,2,3,0,0,1,0,0,0
+facebook twitter instagram pinterest,2,2,4,0,0,4,0,0,0
+indian recipes,1,2,2,0,0,1,0,0,0
+about,1,1,1,0,0,0,0,0,0
+contact us,1,1,2,0,0,1,0,0,0
+press and media,1,1,3,0,0,2,0,0,0
+privacy policy,2,1,2,0,0,2,0,0,0
+copyright 2021 awesome cuisine managed by wild creek web studio,2,2,10,1,4,4,1,0,0
+vegetarian,1,2,1,0,0,0,0,0,0
+appetizers snacks,1,1,2,0,0,2,0,0,0
+all vegetarian snacks,1,1,3,0,0,1,0,0,0
+bonda,1,1,1,0,0,1,0,0,0
+samosa,1,1,1,0,0,1,0,0,0
+sundal,1,1,1,0,0,1,0,0,0
+vada,1,1,1,0,0,1,0,0,0
+vadam and vathal,1,1,3,0,0,2,0,0,0
+kebabs,1,1,1,0,0,1,0,0,0
+breads rice,1,1,2,0,0,2,0,0,0
+biryani,1,1,1,0,0,1,0,0,0
+naan,1,1,1,0,0,1,0,0,0
+paratha,1,1,1,0,0,1,0,0,0
+poori,1,1,1,0,0,1,0,0,0
+pulao,1,1,1,0,0,1,0,0,0
+rice,1,1,1,0,0,1,0,0,0
+roti,1,1,1,0,0,1,0,0,0
+vegetarian mains,1,1,2,0,0,1,0,0,0
+curries and gravies,1,1,3,0,0,2,0,0,0
+dal,1,1,1,0,0,1,0,0,0
+paneer,1,1,1,0,0,1,0,0,0
+south indian food,1,1,3,0,0,1,0,0,0
+all south indian recipes,1,1,4,0,0,1,0,0,0
+kootu,1,1,1,0,0,1,0,0,0
+sambar,1,1,1,0,0,1,0,0,0
+rasam,1,1,1,0,0,1,0,0,0
+idli,1,1,1,0,0,1,0,0,0
+dosa,1,1,1,0,0,1,0,0,0
+vegetarian sides,1,1,2,0,0,1,0,0,0
+all side dishes,1,1,3,0,0,2,0,0,0
+chutneys and sauces,1,1,3,0,0,2,0,0,0
+raita,1,1,1,0,0,1,0,0,0
+non vegetarian,1,1,2,0,0,2,0,0,0
+egg,1,1,1,0,0,1,0,0,0
+chicken,1,1,1,0,0,1,0,0,0
+crab,1,1,1,0,0,1,0,0,0
+fish,1,1,1,0,0,1,0,0,0
+mutton,1,1,1,0,0,1,0,0,0
+prawn,1,1,1,0,0,1,0,0,0
+shrimp,1,1,1,0,0,1,0,0,0
+fast food,1,1,2,0,0,1,0,0,0
+burgers,1,1,1,0,0,1,0,0,0
+chaat,1,1,1,0,0,1,0,0,0
+pasta,1,1,1,0,0,1,0,0,0
+pizza,1,1,1,0,0,1,0,0,0
+sandwich,1,1,1,0,0,1,0,0,0
+beverages,1,1,1,0,0,1,0,0,0
+cocktails,1,1,1,0,0,1,0,0,0
+fruit juices,1,1,2,0,0,2,0,0,0
+lassi,1,1,1,0,0,1,0,0,0
+milkshakes,1,1,1,0,0,1,0,0,0
+mocktails,1,1,1,0,0,1,0,0,0
+smoothies,1,1,1,0,0,1,0,0,0
+desserts sweets,1,1,2,0,0,2,0,0,0
+sweets,1,1,1,0,0,1,0,0,0
+all sweets,1,1,2,0,0,1,0,0,0
+burfi,1,1,1,0,0,1,0,0,0
+halwa,1,1,1,0,0,1,0,0,0
+kesari,1,1,1,0,0,1,0,0,0
+laddu,1,1,1,0,0,1,0,0,0
+desserts,1,1,1,0,0,1,0,0,0
+all desserts,1,1,2,0,0,1,0,0,0
+cakes,1,1,1,0,0,1,0,0,0
+chocolate,1,1,1,0,0,1,0,0,0
+cookies,1,1,1,0,0,1,0,0,0
+ice cream,1,1,2,0,0,2,0,0,0
+kheer,1,1,1,0,0,1,0,0,0
+tamil recipes,1,1,2,0,0,2,0,0,0
+health,1,1,1,0,0,1,0,0,0
+salad,1,1,1,0,0,1,0,0,0
+salad dressings,1,1,2,0,0,1,0,0,0
+soup,1,1,1,0,0,1,0,0,0
+pregnancy and postnatal,1,1,3,0,0,2,0,0,0
+international,1,1,1,0,0,0,0,0,0
+chinese,1,1,1,0,0,0,0,0,0
+french,1,1,1,0,0,0,0,0,0
+italian,1,1,1,0,0,0,0,0,0
+mediterranean,1,1,1,0,0,1,0,0,0
+mexican,1,1,1,0,0,0,0,0,0
+middle eastern,1,1,2,0,0,0,0,0,0
+spanish,1,1,1,0,0,0,0,0,0
+thai,1,1,1,0,0,1,0,0,0
+vietnamese,1,1,1,0,0,0,0,0,0
+more,1,1,1,0,0,0,0,0,0
+kids recipes,1,1,2,0,0,2,0,0,0
+indian festival recipes,1,1,3,0,0,2,0,0,0
+fruits vegetables,2,1,2,0,0,2,0,0,0
+please enable javascript in your browser to visit this site,0,2,10,0,0,4,1,0,0

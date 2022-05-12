@@ -1,0 +1,358 @@
+Sentence,newline_after,newline_before,nwords,numbers,nnumbers,nnouns,nverbs,nunits ,label
+header right,2,0,2,0,0,2,0,0,0
+recipes in hindi,2,2,3,0,0,2,0,0,0
+recipes in gujarati,2,2,3,0,0,2,0,0,0
+cocktails,2,2,1,0,0,1,0,0,0
+top 10,1,2,2,1,2,0,0,0,0
+snacks,1,1,1,0,0,1,0,0,0
+breakfasts,1,1,1,0,0,1,0,0,0
+side dishes,1,1,2,0,0,2,0,0,0
+curries,1,1,1,0,0,1,0,0,0
+sweets desserts,1,1,2,0,0,2,0,0,0
+gallery,1,1,1,0,0,1,0,0,0
+vegetarian step by step,1,1,4,0,0,2,0,0,0
+juice smoothie milkshake,1,1,3,0,0,2,1,0,0
+popular,1,1,1,0,0,0,0,0,0
+manchurian,1,1,1,0,0,1,0,0,0
+paneer dishes,1,1,2,0,0,2,0,0,0
+chaat and tikki,1,1,3,0,0,2,0,0,0
+dhokla,1,1,1,0,0,1,0,0,0
+bhindi curries,1,1,2,0,0,2,0,0,0
+step by step,1,1,3,0,0,2,0,0,0
+step by step recipes,1,1,4,0,0,3,0,0,0
+courses,1,1,1,0,0,1,0,0,0
+breakfast,1,1,1,0,0,1,0,0,0
+starters,1,1,1,0,0,1,0,0,0
+lunch,1,1,1,0,0,1,0,0,0
+dinner,1,1,1,0,0,1,0,0,0
+desserts,1,1,1,0,0,1,0,0,0
+indian,1,1,1,0,0,0,0,0,0
+roti paratha,1,1,2,0,0,2,0,0,0
+curries,1,1,1,0,0,1,0,0,0
+rice and pulao,1,1,3,0,0,2,0,0,0
+daal kadhi,1,1,2,0,0,2,0,0,0
+snacks,1,1,1,0,0,1,0,0,0
+regional,1,1,1,0,0,0,0,0,0
+gujarati,1,1,1,0,0,1,0,0,0
+punjabi,1,1,1,0,0,1,0,0,0
+south indian,1,1,2,0,0,1,0,0,0
+north indian,1,1,2,0,0,0,0,0,0
+maharashtrian,1,1,1,0,0,1,0,0,0
+festival,1,1,1,0,0,1,0,0,0
+diwali,1,1,1,0,0,1,0,0,0
+navratri,1,1,1,0,0,1,0,0,0
+christmas,0,1,1,0,0,1,0,0,0
+gobi manchurian dry https //cdn3foodvivacom/static content/food,1,0,6,1,1,2,0,0,0
+images/chinese recipes/gobi manchurian recipe/gobi manchurian recipe 250jpg,0,1,7,1,3,3,0,0,0
+mushroom manchurian https //cdn1foodvivacom/static content/food,1,0,5,1,1,3,0,0,0
+images/chinese recipes/mushroom manchurian recipe/mushroom manchurian,1,1,5,0,0,3,0,0,0
+recipe 250jpg,0,1,2,1,3,1,0,0,0
+gobi manchurian gravy https //cdn3foodvivacom/static content/food,1,0,6,1,1,4,0,0,0
+images/chinese recipes/gobi manchurian gravy recipe/gobi manchurian gravy,1,1,7,0,0,4,0,0,0
+recipe 250jpg,0,1,2,1,3,1,0,0,0
+baby corn manchurian https //cdn1foodvivacom/static content/food,1,0,6,1,1,4,0,0,0
+images/chinese recipes/baby corn manchurian/baby corn manchurian 250jpg,0,1,7,1,3,4,0,0,0
+veg manchurian dry https //cdn3foodvivacom/wp content/themes/foodie,1,0,6,1,1,3,0,0,0
+pro/images/blankgif,0,1,1,0,0,1,0,0,0
+chilli paneer https //cdn3foodvivacom/wp content/themes/foodie,1,0,5,1,1,4,1,0,0
+pro/images/blankgif,0,1,1,0,0,1,0,0,0
+paneer 65 https //cdn3foodvivacom/wp content/themes/foodie,1,0,5,1,3,4,0,0,0
+pro/images/blankgif,2,1,1,0,0,1,0,0,0
+home chinese paneer manchurian,2,2,4,0,0,2,1,0,0
+paneer manchurian recipe with step by step photos,2,2,8,0,0,5,0,0,0
+30 votes and 35 comments,2,2,5,1,4,2,0,0,0
+chinese manchurian recipes paneer curries snacks and starters snacks,1,2,9,0,0,6,0,0,0
+starters top 10 snacks,2,1,4,1,2,2,1,0,0
+dry and spicy paneer manchurian is one of the best indo chinese recipes,1,2,13,0,0,4,1,0,0
+this recipe is similar to gobi manchurian but uses soft paneer cubes instead,1,1,13,0,0,3,3,0,0
+of cauliflower florets it is one of the easy paneer dishes of indo chinese,1,1,14,0,0,4,1,0,0
+cuisine and an ideal party food as well,0,1,8,0,0,3,0,0,0
+dry paneer manchurian https //cdn1foodvivacom/static content/food,1,0,6,1,1,3,0,0,0
+images/chinese recipes/paneer manchurian recipe/paneer manchurian recipejpg,2,1,6,0,0,4,0,0,0
+more chinese recipes,2,2,3,0,0,1,0,0,0
+schezwan sauce,1,2,2,0,0,2,0,0,0
+how to boil noodles,1,1,4,0,0,1,1,0,0
+vegetable manchurian gravy,1,1,3,0,0,1,0,0,0
+gobi manchurian dry,2,1,3,0,0,1,0,0,0
+preparation time 10 minutes,2,2,4,1,2,3,0,0,0
+cooking time 35 minutes,2,2,4,1,2,3,0,0,0
+serves 4 servings,2,2,3,1,1,2,0,0,0
+print recipe,2,2,2,0,0,2,0,0,0
+cooking measurements,2,2,2,0,0,2,0,0,0
+paneer manchurian recipe in hindi,2,2,5,0,0,3,0,0,0
+paneer manchurian recipe in gujarati,2,2,5,0,0,3,0,0,0
+ingredients,1,2,1,0,0,1,0,0,0
+250 gms 1/2 lbs paneer cottage cheese,1,1,7,1,5,3,0,0,1
+2 tablespoons maida all purpose flour,1,1,6,1,1,2,2,1,1
+4 tablespoons cornflour corn starch,1,1,5,1,1,3,1,1,1
+1/2 teaspoon garlic paste,1,1,4,1,2,2,0,1,1
+1/2 teaspoon ginger paste,1,1,4,1,2,3,0,1,1
+cooking oil,1,1,2,0,0,2,0,0,1
+salt,1,1,1,0,0,1,0,0,1
+1/4 cup water,1,1,3,1,2,2,0,1,1
+for saut,1,1,2,0,0,1,0,0,0
+1/2 teaspoon garlic paste,1,1,4,1,2,2,0,1,1
+1/2 teaspoon ginger paste,1,1,4,1,2,3,0,1,1
+1/4 cup finely chopped capsicum,1,1,5,1,2,2,1,1,1
+1 small onion finely chopped,1,1,5,1,1,1,1,1,1
+1 green chilli finely chopped,1,1,5,1,1,1,1,0,1
+2 tablespoons finely chopped spring onion,1,1,6,1,1,3,1,1,1
+2 tablespoons cooking oil,1,1,4,1,1,2,1,1,1
+1 tablespoons soy sauce,1,1,4,1,1,2,1,1,1
+1/2 tablespoon chilli sauce,1,1,4,1,2,3,0,1,1
+2 tablespoons tomato ketchup,1,1,4,1,1,2,1,1,1
+salt,1,1,1,0,0,1,0,0,1
+directions for manchurian,2,1,3,0,0,1,0,0,0
+1,0,2,1,1,1,0,0,0,0
+step 1 https //cdn3foodvivacom/wp content/themes/foodie pro/images/blankgif,2,0,6,1,2,5,0,0,0
+cut paneer cottage cheese into small cubes mix maida flour cornflour,1,2,11,0,0,6,2,1,0
+salt ginger paste and garlic paste with 1/4 cup water in a bowl and make a,1,1,16,1,2,7,1,1,0
+thick batter add paneer cubes in prepared batter mix and let them marinate,1,1,13,0,0,5,3,0,0
+for 20 minutes,2,1,3,1,2,1,0,0,0
+2,0,2,1,1,1,0,0,0,0
+step 2 https //cdn3foodvivacom/wp content/themes/foodie pro/images/blankgif,2,0,6,1,2,5,0,0,0
+heat oil in kadai pan deep fry marinated batter coated paneer cubes over,1,2,13,0,0,7,3,0,0
+medium flame until they turn golden brown,2,1,7,0,0,3,1,1,0
+3,0,2,1,1,1,0,0,0,0
+step 3 https //cdn3foodvivacom/wp content/themes/foodie pro/images/blankgif,2,0,6,1,2,5,0,0,0
+drain and transfer them to plate having absorbent kitchen paper spread on it,1,2,13,0,0,3,3,0,0
+to remove excess oil,2,1,4,0,0,1,1,0,0
+directions for saut,2,2,3,0,0,2,0,0,0
+1,0,2,1,1,1,0,0,0,0
+step 4 https //cdn3foodvivacom/wp content/themes/foodie pro/images/blankgif,2,0,6,1,2,5,0,0,0
+heat 2 tablespoons oil in a wide thin bottomed pan on medium flame add,1,2,14,1,1,7,2,1,0
+ginger paste garlic paste and saut for 30 seconds on medium flame,2,1,12,1,2,7,0,1,0
+2,0,2,1,1,1,0,0,0,0
+step 5 https //cdn3foodvivacom/wp content/themes/foodie pro/images/blankgif,2,0,6,1,2,5,0,0,0
+add chopped green chilli diced capsicum and diced onion saut for 2 3,1,2,13,1,2,5,2,0,0
+minutes,2,1,1,0,0,1,0,0,0
+3,0,2,1,1,1,0,0,0,0
+step 6 https //cdn3foodvivacom/wp content/themes/foodie pro/images/blankgif,2,0,6,1,2,5,0,0,0
+add soy sauce tomato ketchup chilli sauce and salt add fried paneer pieces,1,2,13,0,0,8,3,0,0
+and spring onion mix well toss everything multiple times and cook for 1 2,1,1,14,1,2,5,0,0,0
+minutes on high flame,2,1,4,0,0,2,0,0,0
+4,0,2,1,1,1,0,0,0,0
+l step https //cdn1foodvivacom/static content/food images/chinese recipes/paneer manchurian recipe/paneer manchurian recipejpg,2,0,11,1,1,6,0,0,0
+paneer manchurian dry is ready garnish with chopped spring onion and serve,2,2,12,0,0,5,1,0,0
+tips and variations,2,2,3,0,0,2,0,0,0
+chilli sauce and soy sauce are main flavoring ingredients in any manchurian recipe you can adjust the quantity of these two sauces to get a desired flavor,1,2,27,0,0,9,3,0,0
+prepared batter should not be too thick or too thin thin batter will not coat paneer cubes well and thick batter will not make crisp outer layer,1,1,27,0,0,8,3,0,0
+if you are staying at a place where paneer is not available in store then either you can make it at home or use tofu,2,1,25,0,0,6,4,0,0
+taste soft and spicy with nice complex flavor of soya sauce ginger and,1,2,13,0,0,6,0,0,0
+garlic,2,1,1,0,0,1,0,0,0
+serving ideas serve it as a starter or as an evening snack with tomato ketch,1,2,15,0,0,6,2,0,0
+up and chilli sauce,2,1,4,0,0,1,1,0,0
+author foram,2,2,2,0,0,2,0,0,0
+related step by step recipes,0,2,5,0,0,3,0,0,0
+gobi manchurian dry https //cdn3foodvivacom/wp content/themes/foodie,1,0,6,1,1,3,0,0,0
+pro/images/blankgif,2,1,1,0,0,1,0,0,0
+gobi manchurian dry,0,2,3,0,0,1,0,0,0
+mushroom manchurian https //cdn3foodvivacom/wp content/themes/foodie,1,0,5,1,1,4,0,0,0
+pro/images/blankgif,2,1,1,0,0,1,0,0,0
+mushroom manchurian,0,2,2,0,0,2,0,0,0
+gobi manchurian gravy https //cdn3foodvivacom/wp content/themes/foodie,1,0,6,1,1,5,0,0,0
+pro/images/blankgif,2,1,1,0,0,1,0,0,0
+gobi manchurian gravy,0,2,3,0,0,2,0,0,0
+baby corn manchurian https //cdn3foodvivacom/wp content/themes/foodie,1,0,6,1,1,5,0,0,0
+pro/images/blankgif,2,1,1,0,0,1,0,0,0
+baby corn manchurian,0,2,3,0,0,3,0,0,0
+veg manchurian dry https //cdn3foodvivacom/wp content/themes/foodie,1,0,6,1,1,3,0,0,0
+pro/images/blankgif,2,1,1,0,0,1,0,0,0
+veg manchurian dry,0,2,3,0,0,1,0,0,0
+chilli paneer https //cdn3foodvivacom/wp content/themes/foodie,1,0,5,1,1,4,1,0,0
+pro/images/blankgif,2,1,1,0,0,1,0,0,0
+chilli paneer,0,2,2,0,0,2,0,0,0
+paneer 65 https //cdn3foodvivacom/wp content/themes/foodie,1,0,5,1,3,4,0,0,0
+pro/images/blankgif,2,1,1,0,0,1,0,0,0
+paneer 65,0,2,2,1,2,1,0,0,0
+idli manchurian https //cdn3foodvivacom/wp content/themes/foodie,1,0,5,1,1,4,0,0,0
+pro/images/blankgif,2,1,1,0,0,1,0,0,0
+idli manchurian,2,2,2,0,0,2,0,0,0
+other step by step recipes,2,2,5,0,0,3,0,0,0
+moong beans curry,1,2,3,0,0,1,1,0,0
+gulab jamun with gits ready mix,1,1,6,0,0,4,0,0,0
+green coconut chutney,1,1,3,0,0,2,0,0,0
+tomato salsa dip,2,1,3,0,0,3,0,0,0
+post a comment fields are required,1,2,6,0,0,3,2,0,0
+name,1,1,1,0,0,1,0,0,0
+email,1,1,1,0,0,1,0,0,0
+rating,1,1,1,0,0,1,0,0,0
+comment,1,1,1,0,0,1,0,0,0
+check this box to confirm you are not a robot,1,1,10,0,0,2,3,0,0
+35 comments,2,1,2,1,2,1,0,0,0
+dec 18 2019 by cherry,2,2,5,1,6,1,0,0,0
+hi thank you for sharing your recipes i tried to make the paneer manchuria,1,2,14,0,0,5,3,0,0
+dry for the first time today following your instructions step by step so,1,1,13,0,0,6,1,0,0
+happy that it came out nice will definitely do better next time am so,1,1,14,0,0,1,3,0,0
+excited to try the rest of your recipes i love cooking thank you for sharing,2,1,15,0,0,3,6,0,0
+dec 02 2018 by ganesh,2,2,5,1,6,1,0,0,0
+tried it today came out very well accurate measurements and procedure gave,1,2,12,0,0,3,3,0,0
+a restaurant like taste thank you for sharing the recipe,2,1,10,0,0,4,1,0,0
+feb 11 2017 by kamaljit kour,2,2,6,1,6,2,0,0,0
+thanks for a quick and easy recipe thanks a lot,2,2,10,0,0,3,0,0,0
+dec 07 2016 by vidya,2,2,5,1,6,1,0,0,0
+tried chinese fried rice yummy,2,2,5,0,0,2,2,0,0
+sep 02 2016 by anam shamsi,2,2,6,1,6,2,0,0,0
+delicious your recipes are so simple easy to make and good in taste,1,2,13,0,0,2,3,0,0
+thanks,2,1,1,0,0,1,0,0,0
+jun 21 2016 by maninder saini,2,2,6,1,6,3,0,0,0
+awesome recipes indeed,1,2,3,0,0,1,0,0,0
+tried panner manchurian,1,1,3,0,0,2,0,0,0
+yummmmm,2,1,1,0,0,1,0,0,0
+may 09 2016 by priya sharma,2,2,6,1,6,2,0,0,0
+your recipes are very simple and easy to makethey are looking very,1,2,12,0,0,2,3,0,0
+deliciousi will surely try these recipes whenever you post new recipes then,1,1,12,0,0,3,2,0,0
+please tell methanks,2,1,3,0,0,1,2,0,0
+response hello priya subscribe to our email feed so when we upload the,1,2,13,0,0,6,1,0,0
+new recipe you will get the notification via mail,2,1,9,0,0,3,1,0,0
+feb 24 2016 by rakesh,2,2,5,1,6,1,0,0,0
+prepared paneer manchurian following your instructions and the taste came,1,2,10,0,0,4,2,0,0
+really good even though i didn t use soya sauce and spring onions as they,1,1,15,0,0,6,1,0,0
+were not available thanks to foodviva,2,1,6,0,0,1,2,0,0
+dec 27 2015 by soumya ajit,2,2,6,1,6,2,0,0,0
+thanku so much i have prepared paneer machurian dry it was very delicious,1,2,13,0,0,4,3,0,0
+and my hubby was telling me to prepare it again and again i will keep trying,1,1,16,0,0,1,6,0,0
+all items posted by you thank you once again mam,2,1,10,0,0,1,3,0,0
+response thank you soumya for trying the recipe and i m happy to hear,1,2,14,0,0,4,3,0,0
+that the recipe turned well,2,1,5,0,0,1,1,0,0
+aug 11 2015 by farzana farzana,2,2,6,1,6,2,0,0,0
+this is the secind time am making this dish usibg your recipe realy superb,1,2,14,0,0,4,3,0,0
+dish here in dubai i had paneer munchurian from one restuarent and i just,1,1,14,0,0,6,2,0,0
+fall in love with it and tried difrnt recipe bt nothing gave nice taste and,1,1,15,0,0,7,2,0,0
+thank god i found yours,2,1,5,0,0,4,1,0,0
+jul 07 2015 by isha,2,2,5,1,6,2,0,0,0
+amazing recipes,0,2,2,0,0,1,1,0,0
+well explained easy to follow instructions,0,0,6,0,0,1,2,0,0
+pictures are,1,0,2,0,0,1,1,0,0
+very helpful this website has helped me learn how to cook thank you food,1,1,14,0,0,3,4,0,0
+viva i wish you great success,1,1,6,0,0,3,1,0,0
+ps please do not post my email id incase you plan to post this comment on,1,1,16,0,0,6,4,0,0
+you website thank you,0,1,4,0,0,0,2,0,0
+response hi isha thank you i m happy to hear that this website helped,1,0,14,0,0,4,4,0,0
+you to learn cooking,1,1,4,0,0,1,1,0,0
+email id is necessary to prevent spamming but we keep it confidential and,1,1,13,0,0,2,4,0,0
+don t post it on our website so don t worry,2,1,11,0,0,6,0,0,0
+jun 26 2015 by megala,2,2,5,1,6,2,0,0,0
+i made this it is so easy and tasty can you please tell me that adding of,1,2,17,0,0,1,5,0,0
+chilly sauce is must,0,1,4,0,0,1,1,0,0
+response hi megala chilli sauce is added to get the spiciness if it is,1,0,14,0,0,6,4,0,0
+not available increase the quantity of green chili if you want spiciness,1,1,12,0,0,2,2,0,0
+and add a teaspoon of vinegar to get the flavor,2,1,10,0,0,3,2,1,0
+jun 20 2015 by divya,2,2,5,1,6,2,0,0,0
+i made it but i did not get the crisp coating,1,2,11,0,0,3,4,0,0
+instead it was soft and gooey can you please tell me why this happened,0,1,14,0,0,1,4,0,0
+response hi divya sorry for the late reply to make the outer layer,1,0,13,0,0,7,1,0,0
+crispy follow the below given guidelines,1,1,6,0,0,3,2,0,0
+1while making batter do not decrease the amount of corn flour/corn starch,1,1,12,1,1,4,4,0,0
+not corn meal or substitute it with any other flour in the recipe,1,1,13,0,0,4,1,0,0
+2batter should have medium thick consistency like dosa batter not too thin,1,1,12,1,1,4,1,1,0
+or not too thick,1,1,4,0,0,0,0,0,0
+3deep fry coated paneer cubes over medium flame or shallow fry them in a non,1,1,15,1,1,6,2,1,0
+stick pan until crispy,2,1,4,0,0,2,0,0,0
+apr 03 2015 by shruti dubey,2,2,6,1,6,2,0,0,0
+thanks a lot for the recipe,0,2,6,0,0,3,0,0,0
+it is really awesome fantastic,0,0,5,0,0,0,1,0,0
+mar 22 2015 by rutuja deshmukh,2,0,6,1,6,3,0,0,0
+i made paneer manchurian it tasted awesome,0,2,7,0,0,3,2,0,0
+my family members loved it,1,0,5,0,0,2,1,0,0
+please try,2,1,2,0,0,1,1,0,0
+mar 11 2015 by sudita,2,2,5,1,6,2,0,0,0
+thanks for the recipe photos are really helpful only because of you we are,1,2,14,0,0,3,2,0,0
+preparing restaurant like food in our own kitchen and enjoying taste of good,1,1,13,0,0,4,2,0,0
+food with whole family,2,1,4,0,0,2,0,0,0
+feb 22 2015 by dian,2,2,5,1,6,0,0,0,0
+i am fond of manchurian items i thought it was every tough to make it but,1,2,16,0,0,3,4,0,0
+these step wise photos helped me a lot and i made it thank you,2,1,14,0,0,5,3,0,0
+jan 28 2015 by disha shaji,2,2,6,1,6,3,0,0,0
+superb i love it really yummy,2,2,6,0,0,2,2,0,0
+nov 30 2014 by satish sharma,2,2,6,1,6,1,0,0,0
+very good recipe however i have one question the batter which we prepared,1,2,13,0,0,3,2,0,0
+with corn flour and maida is very sticky and adhesive like paste it is very,1,1,15,0,0,4,2,0,0
+difficult to take paneer cubes out of it what is the solution for this,1,1,14,0,0,3,2,0,0
+problem,0,1,1,0,0,1,0,0,0
+response hi satish,1,0,3,0,0,3,0,0,0
+it is normal if batter turns sticky like paste it happens because of the corn,1,1,15,0,0,3,3,0,0
+flour whenever you mix corn flour with water and keep it idle for long,1,1,14,0,0,4,2,0,0
+duration it will turn sticky to overcome with this problem just stir the,1,1,13,0,0,2,3,0,0
+batter with a spoon and it will turn normal within a minute,1,1,12,0,0,3,1,0,0
+in this recipe you can skip marinating the paneer cubes in step 1 just,1,1,14,1,1,4,2,0,0
+prepare the batter dip each cube in it and deep fry,2,1,11,0,0,4,1,0,0
+nov 09 2014 by purvithahi,2,2,5,1,6,1,0,0,0
+hi everyone,1,2,2,0,0,2,0,0,0
+very nice recipe thanks to this website i am going to prepare it on my,1,1,15,0,0,4,3,0,0
+brother s birthday my friend asked about this recipe can i ask you,1,1,13,0,0,5,3,0,0
+something,0,1,1,0,0,1,0,0,0
+can i use coriander or something else in the place of spring onions,0,0,13,0,0,5,1,0,0
+i am,1,0,2,0,0,1,1,0,0
+allergic to soy what else can i use instead of it,0,1,11,0,0,2,2,0,0
+please answer me once again it is an excellent and great recipe,2,0,12,0,0,1,3,0,0
+response hi purvithahi if spring onion is not available you can skip,1,2,12,0,0,5,2,0,0
+it but you cannot use coriander leaves in place of it you can t replace soy,1,1,16,0,0,4,3,0,0
+sauce with any other sauce in the recipe if you are allergic to soy make the,1,1,16,0,0,3,3,0,0
+manchurian without adding soy sauce it will also taste good,2,1,10,0,0,3,2,0,0
+oct 15 2014 by prameela,2,2,5,1,6,1,0,0,0
+hi,1,2,1,0,0,1,0,0,0
+i need to try out this recipe after this sunday for a a very special day this,1,1,17,0,0,4,2,0,0
+sounds yummy and tasty can you let me know the measurement for around 8,1,1,14,1,1,2,2,0,0
+servings i am a new bee in the kitchen section please help,2,1,12,0,0,6,2,0,0
+response hi prameela if you are new to the kitchen section i will,1,2,13,0,0,6,1,0,0
+suggest you to once try the recipe before making it in large quantity so you,1,1,15,0,0,3,3,0,0
+can get idea of quantity and you can easily make this for 8 people on special,1,1,16,1,1,3,2,0,0
+day this recipe can be served as starter for 3 4 people and as side dish,1,1,16,1,2,5,2,0,0
+for 2 people however the quantity required to serve depends on the people,1,1,13,1,1,4,2,0,0
+to whom you gonna serve kids or young in which course side dish,1,1,13,0,0,4,2,0,0
+starter main dish etc,2,1,4,0,0,3,0,0,0
+oct 02 2014 by anita,2,2,5,1,6,1,0,0,0
+easy to follow recipe brilliant taste,0,2,6,0,0,3,1,0,0
+sep 09 2014 by amuthasivakumar,2,0,5,1,6,1,0,0,0
+it s very easy to make with stepwise cooking photos its useful to all,2,2,14,0,0,2,3,0,0
+aug 23 2014 by meenakshi singh,2,2,6,1,6,2,0,0,0
+really yummy recipe i like it,2,2,6,0,0,2,0,0,0
+may 14 2014 by k nibha bhat,2,2,7,1,6,2,0,0,0
+its very nice,0,2,3,0,0,1,0,0,0
+i liked it,2,0,3,0,0,1,1,0,0
+jan 19 2014 by jyothi,2,2,5,1,6,2,0,0,0
+it has been easy for me to do it since i prepared it,2,2,13,0,0,1,4,0,0
+dec 15 2013 by ashutosh tiwari,2,2,6,1,6,2,0,0,0
+thanks a lot i saved my lots of money the recipe is simple and nice,2,2,15,0,0,6,2,0,0
+sep 05 2013 by bhavana,2,2,5,1,6,1,0,0,0
+thank you my dish is yummmy its all because of this thank you,2,2,13,0,0,3,1,0,0
+jul 27 2013 by kavitha,2,2,5,1,6,2,0,0,0
+very good,1,2,2,0,0,0,0,0,0
+the stepwise photos helped me a lot,2,1,7,0,0,3,1,0,0
+may 07 2013 by vandana singh,2,2,6,1,6,2,0,0,0
+it s v very easy to make as well as very tasty thanks,2,2,13,0,0,1,2,0,0
+mar 10 2013 by savita soni,2,2,6,1,6,2,0,0,0
+i am a new comer in kitchen because of ur recipe i cooked it well,2,2,15,0,0,5,2,0,0
+response thanks savita,2,2,3,0,0,2,1,0,0
+feb 17 2013 by laadgovernor,2,2,5,1,6,1,0,0,0
+i made this and loved the fried paneer cubes in tangy sauce,2,2,12,0,0,5,2,0,0
+nov 24 2012 by indian recipes,2,2,6,1,6,1,0,0,0
+nice recipe steps,2,2,3,0,0,2,0,0,0
+sep 22 2012 by anuj sharma,2,2,6,1,6,2,0,0,0
+i never thought it would be so easy to make and so tasty the stepwise photos,1,2,16,0,0,3,3,0,0
+helped me a lot,2,1,4,0,0,1,1,0,0
+jul 18 2012 by raj,2,2,5,1,6,2,0,0,0
+good recipe but can we add cheez to it make it more delicious,0,2,13,0,0,2,2,0,0
+primary sidebar,2,0,2,0,0,1,0,0,0
+like our recipes,0,2,3,0,0,1,0,0,0
+follow us,0,0,2,0,0,0,1,0,0
+https //cdn3foodvivacom/wp content/themes/foodie pro/images/blankgif,2,0,4,1,1,4,0,0,0
+recent recipes,2,2,2,0,0,1,0,0,0
+poha chivda fried,1,2,3,0,0,2,1,0,0
+apple halwa,1,1,2,0,0,2,0,0,0
+roasted poha chivda,2,1,3,0,0,2,1,0,0
+popular,2,2,1,0,0,0,0,0,0
+step by step,1,2,3,0,0,2,0,0,0
+snacks,1,1,1,0,0,1,0,0,0
+paneer curries and starters,1,1,4,0,0,3,0,0,0
+street food chaats,2,1,3,0,0,3,0,0,0
+food gallery,0,2,2,0,0,2,0,0,0
+photo gallery,0,0,2,0,0,2,0,0,0
+photo gallery,0,0,2,0,0,2,0,0,0
+photo gallery,0,0,2,0,0,2,0,0,0
+photo gallery,2,0,2,0,0,2,0,0,0
+view more photos in gallery,2,2,5,0,0,3,0,0,0
+footer,2,2,1,0,0,1,0,0,0
+privacy policycopyright infoterms conditionsabout uscontact usall,1,2,6,0,0,3,2,0,0
+recipeslatest recipesphoto gallerycocktails,2,1,3,0,0,3,0,0,0
