@@ -1,0 +1,320 @@
+Sentence,newline_after,newline_before,nwords,numbers,nnumbers,nnouns,nverbs,nunits ,label
+cakewhiz https //cakewhizcom/wp content/themes/cakewhiz/mobile,1,0,4,0,0,4,0,0,0
+header/logo mobilepng mobile menu trigger,2,1,5,0,0,4,0,0,0
+mobile search trigger,2,2,3,0,0,2,0,0,0
+home,1,2,1,0,0,1,0,0,0
+about,1,1,1,0,0,0,0,0,0
+about me,1,1,2,0,0,0,0,0,0
+contact,1,1,1,0,0,1,0,0,0
+faq,1,1,1,0,0,1,0,0,0
+privacy policy,1,1,2,0,0,2,0,0,0
+work with me,1,1,3,0,0,1,0,0,0
+recipes,1,1,1,0,0,1,0,0,0
+desserts,1,1,1,0,0,1,0,0,0
+brownies bars,1,1,2,0,0,2,0,0,0
+cakes,1,1,1,0,0,1,0,0,0
+cookies,1,1,1,0,0,1,0,0,0
+cupcakes,1,1,1,0,0,1,0,1,0
+frosting filling,1,1,2,0,0,1,1,0,0
+frozen desserts,1,1,2,0,0,1,0,0,0
+no bake desserts,1,1,3,0,0,2,0,0,0
+pies tarts,1,1,2,0,0,2,0,0,0
+breakfast brunch,1,1,2,0,0,2,0,0,0
+dinner lunch,1,1,2,0,0,2,0,0,0
+beef recipes,1,1,2,0,0,2,0,0,0
+chicken recipes,1,1,2,0,0,2,0,0,0
+one pot recipes,1,1,3,0,0,2,0,0,0
+pasta recipes,1,1,2,0,0,2,0,0,0
+slow cooker recipes,1,1,3,0,0,2,0,0,0
+vegetarian,1,1,1,0,0,0,0,0,0
+beverages,1,1,1,0,0,1,0,0,0
+appetizers sides,1,1,2,0,0,2,0,0,0
+seasonal,1,1,1,0,0,0,0,0,0
+christmas,1,1,1,0,0,1,0,0,0
+thanksgiving,1,1,1,0,0,0,1,0,0
+new year,1,1,2,0,0,1,0,0,0
+halloween,1,1,1,0,0,1,0,0,0
+valentine s day,1,1,3,0,0,2,0,0,0
+mother s day,1,1,3,0,0,2,0,0,0
+stpatrick s day,1,1,3,0,0,2,0,0,0
+july 4th,1,1,2,1,1,0,0,0,0
+father s day,1,1,3,0,0,3,0,0,0
+easter,1,1,1,0,0,1,0,0,0
+graduation,1,1,1,0,0,1,0,0,0
+parties,1,1,1,0,0,1,0,0,0
+tips,1,1,1,0,0,1,0,0,0
+cookbooks,0,1,1,0,0,1,0,0,0
+cakewhiz logo https //cakewhizcom/wp,1,0,4,0,0,4,0,0,0
+content/themes/cakewhiz/images/logo 2xpng,2,1,2,1,1,1,0,0,0
+home,1,2,1,0,0,1,0,0,0
+about,1,1,1,0,0,0,0,0,0
+about me,1,1,2,0,0,0,0,0,0
+contact,1,1,1,0,0,1,0,0,0
+faq,1,1,1,0,0,1,0,0,0
+privacy policy,1,1,2,0,0,2,0,0,0
+work with me,1,1,3,0,0,1,0,0,0
+recipes,1,1,1,0,0,1,0,0,0
+desserts,1,1,1,0,0,1,0,0,0
+brownies bars,1,1,2,0,0,2,0,0,0
+cakes,1,1,1,0,0,1,0,0,0
+cookies,1,1,1,0,0,1,0,0,0
+cupcakes,1,1,1,0,0,1,0,1,0
+frosting filling,1,1,2,0,0,1,1,0,0
+frozen desserts,1,1,2,0,0,1,0,0,0
+no bake desserts,1,1,3,0,0,2,0,0,0
+pies tarts,1,1,2,0,0,2,0,0,0
+breakfast brunch,1,1,2,0,0,2,0,0,0
+dinner lunch,1,1,2,0,0,2,0,0,0
+beef recipes,1,1,2,0,0,2,0,0,0
+chicken recipes,1,1,2,0,0,2,0,0,0
+one pot recipes,1,1,3,0,0,2,0,0,0
+pasta recipes,1,1,2,0,0,2,0,0,0
+slow cooker recipes,1,1,3,0,0,2,0,0,0
+vegetarian,1,1,1,0,0,0,0,0,0
+beverages,1,1,1,0,0,1,0,0,0
+appetizers sides,1,1,2,0,0,2,0,0,0
+seasonal,1,1,1,0,0,0,0,0,0
+christmas,1,1,1,0,0,1,0,0,0
+thanksgiving,1,1,1,0,0,0,1,0,0
+new year,1,1,2,0,0,1,0,0,0
+halloween,1,1,1,0,0,1,0,0,0
+valentine s day,1,1,3,0,0,2,0,0,0
+mother s day,1,1,3,0,0,2,0,0,0
+stpatrick s day,1,1,3,0,0,2,0,0,0
+july 4th,1,1,2,1,1,0,0,0,0
+father s day,1,1,3,0,0,3,0,0,0
+easter,1,1,1,0,0,1,0,0,0
+graduation,1,1,1,0,0,1,0,0,0
+parties,1,1,1,0,0,1,0,0,0
+tips,1,1,1,0,0,1,0,0,0
+cookbooks,1,1,1,0,0,1,0,0,0
+cupcakes,2,1,1,0,0,1,0,1,0
+best chocolate cupcake recipe,2,2,4,0,0,3,0,1,0
+posted may 20 2019 by cakewhiz this post may contain affiliate links,1,2,12,1,6,4,2,0,0
+please read mydisclosure policy,2,1,4,0,0,3,0,0,0
+pin,2,2,1,0,0,1,0,0,0
+share,2,2,1,0,0,1,0,0,0
+tweet,2,2,1,0,0,1,0,0,0
+jump to recipe print recipe,2,2,5,0,0,3,1,0,0
+classic quick easy best chocolate cupcake recipe homemade from scratch,1,2,10,0,0,5,0,1,0
+with simple ingredients topped off with chocolate frosting rich soft moist,1,1,11,0,0,3,2,0,0
+and fluffy,2,1,2,0,0,1,0,0,0
+after sharing my best vanilla cupcake recipe a few weeks ago i am so excited,1,2,15,0,0,4,3,1,0
+to share my favorite chocolate cupcakes today i am not sure why i waited so,1,1,15,0,0,5,3,1,0
+long because i have been making these for years for all of our family events,1,1,15,0,0,4,3,0,0
+especially birthday parties,0,1,3,0,0,1,0,0,0
+best chocolate cupcake,1,0,3,0,0,2,0,1,0
+recipe data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20700 201050 3e 3c/svg 3e,0,1,16,1,28,3,2,0,0
+best,1,0,1,0,0,0,0,0,0
+chocolate cupcake recipe https //cakewhizcom/wp,1,1,5,0,0,5,0,1,0
+content/uploads/2019/05/chocolate cupcakes soft and moist 700x1050jpg,2,1,6,1,13,2,0,1,0
+how to make chocolate cupcakes,0,2,5,0,0,2,1,1,0
+1 mix together wet ingredients eggs oil buttermilk coffee vanilla,1,0,10,1,1,6,0,0,0
+2 mix together dry ingredients flour sugar cocoa powder baking powder baking soda,1,1,13,1,1,8,2,0,0
+3 dump dry mixture into wet mixture and mix,1,1,9,1,1,4,0,0,0
+4 pour batter in cupcake liners,1,1,6,1,1,3,0,1,0
+5 bake,1,1,2,1,1,1,0,0,0
+6 ice cupcakes,1,1,3,1,1,2,0,1,0
+7 enjoy,0,1,2,1,1,1,0,0,0
+how to make moist chocolate cupcake recipe,0,0,7,0,0,3,1,1,0
+moisture comes from rich ingredients that are high in fat so use full fat,1,0,14,0,0,4,2,0,0
+ingredients use whole milk or buttermilk instead of fat free or low fat milk,1,1,14,0,0,4,1,0,0
+use butter instead of oil although today s recipe is an exception and,1,1,13,0,0,5,2,0,0
+requires oil,2,1,2,0,0,1,1,0,0
+what makes best homemade fluffy cupcakes,0,2,6,0,0,2,1,1,0
+that s a result of the air bubbles that you whip into the batter that end up expanding in the oven during baking however if the batter is over mixed those bubbles end up collapsing and the cupcakes don t fully rise and can sink too that s why you should only mix the cake batter until just combined,1,0,59,0,0,10,15,1,0
+also measure ingredients properly because baking is science and those measurements and ingredients combine together to create the best fluffy texture,2,1,21,0,0,7,3,0,0
+can you freeze cupcakes,0,2,4,0,0,1,1,1,0
+yes unfrosted cupcakes can be stored in an air tight sealed freezer bag or,1,0,14,0,0,4,4,1,0
+container for up to 1 month let them thaw in the fridge or at room,1,1,15,1,1,4,2,0,0
+temperature and then ice them with frosting,0,1,7,0,0,1,2,0,0
+homemade chocolate cupcakes from,1,0,4,0,0,3,0,1,0
+scratch data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20700 201050 3e 3c/svg 3e,0,1,16,1,28,3,2,0,0
+homemade,1,0,1,0,0,1,0,0,0
+chocolate cupcakes from scratch https //cakewhizcom/wp,1,1,6,0,0,5,0,1,0
+content/uploads/2019/05/best chocolate cupcake recipe 700x1050jpg,2,1,5,1,13,4,0,1,0
+easy chocolate cupcake frosting,2,2,4,0,0,3,0,1,0
+the classic choice is obviously chocolate buttercream frosting i also have a,1,2,12,0,0,4,2,0,0
+very fudgy coconut cream chocolate frosting that s amazing however there are,1,1,12,0,0,4,2,0,0
+are many other delicious flavor combinations try out some of these pairings,2,1,12,0,0,3,2,0,0
+american buttercream frosting this is super sweet and will easily balance the rich and intense chocolate flavor,1,2,17,0,0,4,3,0,0
+marshmallow frosting if you are fond of s mores you need to give this a shot,1,1,16,0,0,4,4,0,0
+cream cheese frosting another classic frosting that works on pretty much all cakes and cupcakes it s not as sweet and has a subtle tanginess,1,1,25,0,0,7,4,1,0
+white chocolate buttercream frosting this is a great way to incorporate white chocolate in these cupcakes,1,1,16,0,0,5,3,1,0
+homemade whipped cream make it at home or just use cool whip it s the least sweet and the simplest of all the icings,2,1,24,0,0,5,4,0,0
+for a fruity flavor combination try any of the following fruit based frosting,1,2,13,0,0,5,3,0,0
+recipes,2,1,1,0,0,1,0,0,0
+maraschino cherry frosting,1,2,3,0,0,2,1,0,0
+orange frosting,1,1,2,0,0,2,0,0,0
+strawberry buttercream frosting,2,1,3,0,0,3,0,0,0
+filled cupcakes,2,2,2,0,0,1,1,1,0
+the classic choice is obviously chocolate ganache because it truly enhances,1,2,11,0,0,2,2,0,0
+the chocolate flavor it s also super rich and creamy,2,1,10,0,0,2,1,0,0
+you can also try other fillings like various flavors of jams and spreads such,1,2,14,0,0,4,1,0,0
+as this homemade strawberry jam or peanut butter and other nut butters and,1,1,13,0,0,7,0,0,0
+even nutella,2,1,2,0,0,1,0,0,0
+you can even fill them with fresh berries eg raspberries strawberries,1,2,11,0,0,3,2,0,0
+blackberries etc let s not forget about pie fillings such as this,1,1,12,0,0,2,3,0,0
+raspberry pie filling or this cherry pie filling or this strawberry pie,1,1,12,0,0,7,0,0,0
+filling all of these fillings can be homemade or store bought,0,1,11,0,0,2,4,0,0
+chocolate cupcakes with chocolate,1,0,4,0,0,3,0,1,0
+frosting data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20700 201049 3e 3c/svg 3e,0,1,16,1,28,3,3,0,0
+chocolate,1,0,1,0,0,1,0,0,0
+cupcakes with chocolate frosting https //cakewhizcom/wp,1,1,6,0,0,4,1,1,0
+content/uploads/2019/05/chocolate cupcakes with chocolate,1,1,4,1,6,3,0,1,0
+frosting 700x1049jpg,2,1,2,1,7,0,1,0,0
+variations,2,2,1,0,0,1,0,0,0
+german chocolate cupcakes pair these cupcakes with a classic coconut pecan frosting,1,2,12,0,0,5,1,1,0
+vegan chocolate cupcakes use this recipe instead of modifying the recipe below,1,1,12,0,0,4,2,1,0
+sugar free chocolate cupcakes use this recipe instead of modifying the recipe below,1,1,13,0,0,5,2,1,0
+chocolate chip cupcakes stir in 1/3 cup mini chocolate chips in the cupcake batter and also top off the frosted cupcakes with mini chocolate chips,1,1,25,1,2,12,2,1,0
+chocolate peanut butter cupcakes pair these cupcakes with peanut butter frosting and a drizzle of melted peanut butter and finally top off with chopped roasted peanuts,1,1,26,0,0,13,3,1,0
+mini cupcakes use a mini cupcake pan to make smaller cupcakes watch them closely while baking to prevent them from becoming over baked and dry,1,1,25,0,0,6,6,1,0
+decorate it,0,1,2,0,0,1,0,0,0
+i kept it simple and decorated with a simple swirl of frosting but you can toss chocolate chips chopped candies chocolate shreds sprinkles and even fresh flowers,2,0,27,0,0,7,6,0,0
+tips and techniques,2,2,3,0,0,2,0,0,0
+all ingredients must be at room temperature because this allows them to blend together smoothly and evenly,1,2,17,0,0,3,3,0,0
+only use all purpose flour don t replace all purpose flour with any other flour because it does not yield the same good results i have various other flours including whole wheat and gluten free and neither tasted great the only other flour that still yielded good results was homemade cake flour,1,1,52,0,0,13,11,0,0
+don t over mix cupcake batter because that will yield very tough cupcakes and there is a higher probability of them sinking in the center during baking,1,1,27,0,0,7,4,1,0
+frost cool cupcakes allow the cupcakes to fully cool down before frosting them because that prevents the frosting from melting all over the cupcakes and making a mess,1,1,28,0,0,7,6,1,0
+serve a crowd recipe can easily be doubled to serve more people you will have to bake in batches though if you don t have multiple ovens,1,1,27,0,0,6,8,0,0
+oil vs butter typically i am a big fan of butter but in order to make these cupcakes fluffy oil has to be used to give them an airy texture butter tends to make them very dense,1,1,37,0,0,11,10,1,0
+both baking powder and baking soda are required don t replace one with the other because that will alter the texture of this cake,1,1,24,0,0,5,5,0,0
+use warm brewed coffee because if it s too hot it will start cooking the eggs in the batter it cannot be boiling hot,1,1,24,0,0,5,6,0,0
+don t use dark chocolate this is with regards to cocoa powder because it makes the cupcakes too bitter,1,1,19,0,0,7,3,1,0
+how to make homemade buttermilk,0,1,5,0,0,2,1,0,0
+i know this is not an ingredient many of us have on hand all the time but no worries make a great buttermilk substitute at home by mixing together 1 cup whole milk with 1 tbsp vinegar or lemon juice let it sit for 5 minutes mix and then use in this recipe,1,0,53,1,3,13,8,1,0
+don t replace buttermilk with whole milk because buttermilk adds a lot of moisture to the cupcakes and makes it super soft,2,1,22,0,0,8,3,1,0
+more cupcake recipes,2,2,3,0,0,1,0,1,0
+birthday cupcakes pinata cupcakes,1,2,4,0,0,3,1,1,0
+oreo cupcakes with cake mix,1,1,5,0,0,4,0,1,0
+mocha cupcakes coffee cupcakes,1,1,4,0,0,4,0,1,0
+chocolate cherry cupcakes,2,1,3,0,0,3,0,1,0
+more chocolate desserts,2,2,3,0,0,2,0,0,0
+chocolate pound cake with cake mix,1,2,6,0,0,5,0,0,0
+chocolate caramel cookies,1,1,3,0,0,3,0,0,0
+chocolate whoopie pie with cake mix,0,1,6,0,0,4,1,0,0
+best chocolate cupcake,1,0,3,0,0,2,0,1,0
+recipe data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20200 20200 3e 3c/svg 3e,0,1,16,1,27,3,2,0,0
+best,1,0,1,0,0,0,0,0,0
+chocolate cupcake recipe https //cakewhizcom/wp,1,1,5,0,0,5,0,1,0
+content/uploads/2019/05/chocolate cupcakes soft and moist 339x339jpg,2,1,6,1,12,2,0,1,0
+print recipe pin recipe,2,2,4,0,0,4,0,0,0
+no ratings yet,2,2,3,0,0,1,0,0,0
+rate this recipe,2,2,3,0,0,2,0,0,0
+best chocolate cupcakes from scratch,2,2,5,0,0,3,0,1,0
+prep time 10 mins,2,2,4,1,2,2,0,0,0
+cook time 20 mins,2,2,4,1,2,3,0,0,0
+total time 30 mins,2,2,4,1,2,2,0,0,0
+quick easy best chocolate cupcake recipe homemade from scratch with simple,1,2,11,0,0,5,0,1,0
+ingredients topped off with chocolate frosting rich soft moist and fluffy,2,1,11,0,0,4,2,0,0
+yield 24 cupcakes,2,2,3,1,2,2,0,1,0
+ingredients,2,2,1,0,0,1,0,0,0
+2 eggs large,1,2,3,1,1,1,0,0,1
+3/4 cup buttermilk,1,1,3,1,2,2,0,1,1
+1/4 cup oil,1,1,3,1,2,2,0,1,1
+3/4 cups coffee strongly brewed warm and not boiling hot,1,1,10,1,2,3,2,1,1
+2 tsp vanilla extract,1,1,4,1,1,2,0,1,1
+15 cups all purpose flour,1,1,5,1,2,2,1,1,1
+15 cups granulated sugar,1,1,4,1,2,2,1,1,1
+3/4 cup cocoa powder,1,1,4,1,2,3,0,1,1
+1 tsp baking powder,1,1,4,1,1,3,0,1,1
+15 tsp baking soda,1,1,4,1,2,3,0,1,1
+4 cups chocolate buttercream frosting,2,1,5,1,1,3,1,1,1
+instructions,2,2,1,0,0,1,0,0,0
+in a large mixing bowl whisk together eggs buttermilk oil water vanilla extract until smooth keep aside,2,2,17,0,0,9,1,0,0
+in a separate mixing bowl whisk together flour sugar cocoa powder baking powder baking soda,2,2,15,0,0,9,1,0,0
+dump this dry mixture into the wet mixture and mix until just combined,2,2,13,0,0,4,1,0,0
+pour batter in cupcake liners,2,2,5,0,0,4,0,1,0
+baker at 325 degrees for 20 25 minutes or until an inserted toothpick in the center comes out clean,2,2,19,1,7,5,1,0,0
+allow the cupcakes to cool down completely,2,2,7,0,0,1,1,1,0
+while the cupcakes are baking and cooling prepare chocolate frosting,2,2,10,0,0,3,3,1,0
+fill a piping bag with chocolate buttercream and attach a large star tip eg tip 1m and frost a swirl on top of each cupcake enjoy,0,2,26,1,1,11,4,1,0
+notes,2,0,1,0,0,1,0,0,0
+read all my tips above,1,2,5,0,0,1,1,0,0
+leftovers can be stored in a sealed container in the fridge for up to 3 days,2,1,16,1,1,4,2,0,0
+nutrition,2,2,1,0,0,1,0,0,0
+calories 264kcal carbohydrates 44g protein 2g fat 10g saturated fat,1,2,10,1,8,3,1,0,0
+2g cholesterol 14mg sodium 161mg potassium 162mg fiber 1g sugar 34g,1,1,11,1,12,5,0,0,0
+vitamin a 30iu calcium 27mg iron 14mg,2,1,7,1,6,3,0,0,0
+course dessert,2,2,2,0,0,2,0,0,0
+cuisine american,2,2,2,0,0,0,0,0,0
+calories 264,2,2,2,1,3,1,0,0,0
+author abeer,2,2,2,0,0,2,0,0,0
+until next time tata my lovelies,0,2,6,0,0,3,0,0,0
+pin,2,0,1,0,0,1,0,0,0
+share,2,2,1,0,0,1,0,0,0
+tweet,2,2,1,0,0,1,0,0,0
+cupcakes,2,2,1,0,0,1,0,1,0
+posted may 20 2019 by cakewhiz // 2 comments,2,2,9,1,7,2,1,0,0
+get latest recipes in your inbox,2,2,6,0,0,2,1,0,0
+sign up with your email address to receive news and updates,2,2,11,0,0,5,1,0,0
+thank you for subscribing,0,2,4,0,0,1,1,0,0
+data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 201 201 3e 3c/svg 3e,0,0,15,1,23,3,2,0,0
+https //tflodeskcom/utmgif r 600b4e578717431a7142cde9,2,0,4,1,18,2,1,0,0
+previous post easy coconut macaroons,2,2,5,0,0,3,0,0,0
+next post chocolate trifle recipe,2,2,5,0,0,4,0,0,0
+2 comments on best chocolate cupcake recipe,2,2,7,1,1,4,0,1,0
+1 angelica salas december 7 2021 10 20 pm reply,2,2,10,1,10,4,1,0,0
+what kind of coffee do you use,0,2,7,0,0,2,2,0,0
+is it any kind,0,0,4,0,0,1,1,0,0
+abeer rizvi january 15 2022 10 35 am reply,2,0,9,1,10,3,1,0,0
+it can be any coffee it just has to be brewed strong,2,2,12,0,0,1,4,0,0
+leave a reply cancel reply,2,2,5,0,0,3,1,0,0
+your email address will not be published required fields are marked,2,2,11,0,0,3,4,0,0
+recipe rating recipe rating,1,2,4,0,0,4,0,0,0
+comment,2,1,1,0,0,1,0,0,0
+name,2,2,1,0,0,1,0,0,0
+email,2,2,1,0,0,1,0,0,0
+website,0,2,1,0,0,1,0,0,0
+abeer,1,0,1,0,0,1,0,0,0
+headshot data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20262 20262 3e 3c/svg 3e,0,1,16,1,27,3,2,0,0
+abeer,1,0,1,0,0,1,0,0,0
+headshot https //cakewhizcom/wp content/uploads/2017/01/abeer cakewhizjpg,2,1,5,1,6,4,0,0,0
+hi i m abeer,0,2,4,0,0,3,1,0,0
+recipe developer photographer mommy foodie welcome to cakewhiz a place,1,0,10,0,0,5,2,0,0
+where i share my love for baking cooking and entertaining with you,0,1,12,0,0,4,2,0,0
+more about me,2,0,3,0,0,0,0,0,0
+featured posts,0,2,2,0,0,1,0,0,0
+easy snickerdoodles,1,0,2,0,0,1,0,0,0
+recipe data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20268 20352 3e 3c/svg 3e,0,1,16,1,27,3,2,0,0
+easy,1,0,1,0,0,0,0,0,0
+snickerdoodles recipe https //cakewhizcom/wp,1,1,4,0,0,3,1,0,0
+content/uploads/2016/07/classic snickerdoodles,1,1,2,1,6,1,0,0,0
+recipe 3 e1472582289233 268x352jpg,2,1,4,1,20,2,0,0,0
+classic snickerdoodles cookies,2,2,3,0,0,2,0,0,0
+data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20268 20352 3e 3c/svg 3e,0,2,15,1,27,3,2,0,0
+https //cakewhizcom/wp,1,0,2,0,0,2,0,0,0
+content/uploads/2016/09/how to make royal icing recipe for piping sugar,1,1,9,1,6,3,3,0,0
+cookies 268x352jpg,2,1,2,1,6,1,0,0,0
+how to make royal icing recipe,2,2,6,0,0,2,1,0,0
+data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20268 20352 3e 3c/svg 3e,0,2,15,1,27,3,2,0,0
+https //cakewhizcom/wp,1,0,2,0,0,2,0,0,0
+content/uploads/2016/04/salted caramel chocolate chip cookies recipe from,1,1,7,1,6,3,2,0,0
+scratch 268x352jpg,2,1,2,1,6,1,0,0,0
+salted caramel chocolate chip cookies,2,2,5,0,0,3,1,0,0
+data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20268 20352 3e 3c/svg 3e,0,2,15,1,27,3,2,0,0
+https //cakewhizcom/wp,1,0,2,0,0,2,0,0,0
+content/uploads/2016/04/homemade gourmet chocolate 1 268x352jpg,2,1,5,1,13,3,0,0,0
+homemade gourmet chocolate,2,2,3,0,0,3,0,0,0
+data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20268 20352 3e 3c/svg 3e,0,2,15,1,27,3,2,0,0
+https //cakewhizcom/wp,1,0,2,0,0,2,0,0,0
+content/uploads/2016/01/sugar free chocolate cupcakes 5 268x352jpg,2,1,6,1,13,3,0,1,0
+sugar free chocolate cupcakes,2,2,4,0,0,3,0,1,0
+data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 20268 20352 3e 3c/svg 3e,0,2,15,1,27,3,2,0,0
+https //cakewhizcom/wp,1,0,2,0,0,2,0,0,0
+content/uploads/2010/11/small batch of sugar cookies 3 268x352png,2,1,7,1,13,3,0,1,0
+small batch of sugar cookies,2,2,5,0,0,3,0,1,0
+sign up,2,2,2,0,0,1,0,0,0
+get the latest recipes in your inbox,2,2,7,0,0,2,1,0,0
+thank you for subscribing,0,2,4,0,0,1,1,0,0
+data image/svg xml 3csvg 20xmlns http //wwww3org/2000/svg 20viewbox 0 200 201 201 3e 3c/svg 3e,0,0,15,1,23,3,2,0,0
+https //tflodeskcom/utmgif r 600b3e59463bdbf3992386b5,2,0,4,1,17,2,1,0,0
+looking for something,0,2,3,0,0,1,1,0,0
+back to top,1,0,3,0,0,0,1,0,0
+home,1,1,1,0,0,1,0,0,0
+about me,1,1,2,0,0,0,0,0,0
+contact,1,1,1,0,0,1,0,0,0
+faq,1,1,1,0,0,1,0,0,0
+privacy policy,1,1,2,0,0,2,0,0,0
+work with me,2,1,3,0,0,1,0,0,0
